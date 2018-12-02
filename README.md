@@ -1,6 +1,6 @@
-# Public Sans
+# Cheyenne Sans
 Current font files for the Cheyenne Sans typeface.
-This typeface is based off of https://github.com/impallari/Libre-Franklin
+This typeface is based off of https://github.com/impallari/Libre-Franklin and https://github.com/uswds/public-sans
 
 ## License
 - Cheyenne Sans is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
