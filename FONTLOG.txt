@@ -1,0 +1,64 @@
+FONTLOG for the Public Sans fonts
+
+This file provides detailed information on the Public Sans Font Software.
+
+This information should be distributed along with the Public Sans fonts and any
+derivative works.
+
+Basic Font Information
+
+Cheyenne Sans is based off of United Sans, which is based off of Libre Franklin, which
+in turn is an interpretation and expancion based on the 1912 Morris Fuller Benton’s classic.
+
+To contribute to the Libre Franklin project contact Pablo Impallari at https://github.com/impallari/Libre-Franklin/
+
+- adjusted spacing and kerning
+- removed rounded corners
+- added hook `l` character
+
+^^^ Changes since the Public Sans fork ^^^
+
+01 June 2016 (Pablo Impallari, Rodrigo Fuenzalida) Libre Franklin v1.003
+- fixed some small bugs
+
+28 April 2016 (Pablo Impallari, Rodrigo Fuenzalida) Libre Franklin v1.002
+- fixed hungarumlaut interpolation bug
+- Some more dekinking in the Italics
+
+15 Jan 2016 (Pablo Impallari, Rodrigo Fuenzalida) Libre Franklin v1.001
+- Initial Release
+
+01 June 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Franklin v0.001
+- Initial Beta
+
+^^^ Changes since the Cheyenne Sans fork ^^^
+
+04 Oct 2018 by Cristiano Sobral Cheyenne Sans v1.000
+Add true italics instead of oblique ones, and more uniform italics
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: Pablo Impallari
+E: impallari@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+N: Rodrigo Fuenzalida
+E: fuenzarodrigo@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+N: Dan O Williams
+E: dan.o.williams@gmail.com
+W: http://texttile.net
+D: Designer
+
+N: Cristiano Sobral
+E: cssobral2013@gmail.com
+W: none
+D: Designer
+
