@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Light.eot');
+    src: url('CheyenneSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Light.woff2') format('woff2'),
+        url('CheyenneSans-Light.woff') format('woff'),
+        url('CheyenneSans-Light.ttf') format('truetype'),
+        url('CheyenneSans-Light.svg#CheyenneSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-ExtraBoldItalic.eot');
+    src: url('CheyenneSans-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('CheyenneSans-ExtraBoldItalic.woff') format('woff'),
+        url('CheyenneSans-ExtraBoldItalic.ttf') format('truetype'),
+        url('CheyenneSans-ExtraBoldItalic.svg#CheyenneSans-ExtraBoldItalic') format('svg');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Regular.eot');
+    src: url('CheyenneSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Regular.woff2') format('woff2'),
+        url('CheyenneSans-Regular.woff') format('woff'),
+        url('CheyenneSans-Regular.ttf') format('truetype'),
+        url('CheyenneSans-Regular.svg#CheyenneSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-ExtraLightItalic.eot');
+    src: url('CheyenneSans-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-ExtraLightItalic.woff2') format('woff2'),
+        url('CheyenneSans-ExtraLightItalic.woff') format('woff'),
+        url('CheyenneSans-ExtraLightItalic.ttf') format('truetype'),
+        url('CheyenneSans-ExtraLightItalic.svg#CheyenneSans-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-ExtraBold.eot');
+    src: url('CheyenneSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-ExtraBold.woff2') format('woff2'),
+        url('CheyenneSans-ExtraBold.woff') format('woff'),
+        url('CheyenneSans-ExtraBold.ttf') format('truetype'),
+        url('CheyenneSans-ExtraBold.svg#CheyenneSans-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Thin.eot');
+    src: url('CheyenneSans-Thin.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Thin.woff2') format('woff2'),
+        url('CheyenneSans-Thin.woff') format('woff'),
+        url('CheyenneSans-Thin.ttf') format('truetype'),
+        url('CheyenneSans-Thin.svg#CheyenneSans-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-ExtraLight.eot');
+    src: url('CheyenneSans-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-ExtraLight.woff2') format('woff2'),
+        url('CheyenneSans-ExtraLight.woff') format('woff'),
+        url('CheyenneSans-ExtraLight.ttf') format('truetype'),
+        url('CheyenneSans-ExtraLight.svg#CheyenneSans-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Italic.eot');
+    src: url('CheyenneSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Italic.woff2') format('woff2'),
+        url('CheyenneSans-Italic.woff') format('woff'),
+        url('CheyenneSans-Italic.ttf') format('truetype'),
+        url('CheyenneSans-Italic.svg#CheyenneSans-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-BlackItalic.eot');
+    src: url('CheyenneSans-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-BlackItalic.woff2') format('woff2'),
+        url('CheyenneSans-BlackItalic.woff') format('woff'),
+        url('CheyenneSans-BlackItalic.ttf') format('truetype'),
+        url('CheyenneSans-BlackItalic.svg#CheyenneSans-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-MediumItalic.eot');
+    src: url('CheyenneSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-MediumItalic.woff2') format('woff2'),
+        url('CheyenneSans-MediumItalic.woff') format('woff'),
+        url('CheyenneSans-MediumItalic.ttf') format('truetype'),
+        url('CheyenneSans-MediumItalic.svg#CheyenneSans-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Bold.eot');
+    src: url('CheyenneSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Bold.woff2') format('woff2'),
+        url('CheyenneSans-Bold.woff') format('woff'),
+        url('CheyenneSans-Bold.ttf') format('truetype'),
+        url('CheyenneSans-Bold.svg#CheyenneSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Black.eot');
+    src: url('CheyenneSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Black.woff2') format('woff2'),
+        url('CheyenneSans-Black.woff') format('woff'),
+        url('CheyenneSans-Black.ttf') format('truetype'),
+        url('CheyenneSans-Black.svg#CheyenneSans-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-Medium.eot');
+    src: url('CheyenneSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-Medium.woff2') format('woff2'),
+        url('CheyenneSans-Medium.woff') format('woff'),
+        url('CheyenneSans-Medium.ttf') format('truetype'),
+        url('CheyenneSans-Medium.svg#CheyenneSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-SemiBoldItalic.eot');
+    src: url('CheyenneSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-SemiBoldItalic.woff2') format('woff2'),
+        url('CheyenneSans-SemiBoldItalic.woff') format('woff'),
+        url('CheyenneSans-SemiBoldItalic.ttf') format('truetype'),
+        url('CheyenneSans-SemiBoldItalic.svg#CheyenneSans-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-LightItalic.eot');
+    src: url('CheyenneSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-LightItalic.woff2') format('woff2'),
+        url('CheyenneSans-LightItalic.woff') format('woff'),
+        url('CheyenneSans-LightItalic.ttf') format('truetype'),
+        url('CheyenneSans-LightItalic.svg#CheyenneSans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-ThinItalic.eot');
+    src: url('CheyenneSans-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-ThinItalic.woff2') format('woff2'),
+        url('CheyenneSans-ThinItalic.woff') format('woff'),
+        url('CheyenneSans-ThinItalic.ttf') format('truetype'),
+        url('CheyenneSans-ThinItalic.svg#CheyenneSans-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-SemiBold.eot');
+    src: url('CheyenneSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-SemiBold.woff2') format('woff2'),
+        url('CheyenneSans-SemiBold.woff') format('woff'),
+        url('CheyenneSans-SemiBold.ttf') format('truetype'),
+        url('CheyenneSans-SemiBold.svg#CheyenneSans-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('CheyenneSans-BoldItalic.eot');
+    src: url('CheyenneSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CheyenneSans-BoldItalic.woff2') format('woff2'),
+        url('CheyenneSans-BoldItalic.woff') format('woff'),
+        url('CheyenneSans-BoldItalic.ttf') format('truetype'),
+        url('CheyenneSans-BoldItalic.svg#CheyenneSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
