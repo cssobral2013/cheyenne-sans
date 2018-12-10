@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170731 at Fri Nov 23 19:22:34 2018
+Created by FontForge 20170731 at Mon Dec 10 20:54:54 2018
  By Aleksey,,,
 </metadata>
 <defs>
@@ -79,7 +79,7 @@ d="M176 464h-64l4 259h132z" />
     <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="316" 
 d="M230 506.5q-47 -114.5 -63 -229.5q-15 -110 -2.5 -215.5t50.5 -222.5h-84q-52 118 -72.5 218.5t-3.5 220.5t71 234t135 211h85q-69 -102 -116 -216.5z" />
     <glyph glyph-name="parenright" unicode=")" horiz-adv-x="316" 
-d="M163 55.5q47 114.5 63 229.5q15 110 2.5 215.5t-50.5 222.5h84q52 -118 72.5 -218.5t3.5 -220.5t-71 -234t-135 -211h-85q69 102 116 216.5z" />
+d="M111 55.5q47 114.5 63 229.5q15 110 2.5 215.5t-50.5 222.5h84q52 -118 72.5 -218.5t3.5 -220.5t-71 -234t-135 -211h-85q69 102 116 216.5z" />
     <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="435" 
 d="M240 486l-101 -135l-61 47l116 120l-134 40l37 73l125 -56l10 148h83l-32 -149l143 59l13 -73l-142 -41l80 -117l-74 -48z" />
     <glyph glyph-name="plus" unicode="+" horiz-adv-x="571" 
