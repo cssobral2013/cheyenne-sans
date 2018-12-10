@@ -5,7 +5,7 @@ FamilyName: Cheyenne Sans Medium
 Weight: Medium
 Copyright: 
 Version: 1.000; ttfautohint (v1.8.2)
-ItalicAngle: 0
+ItalicAngle: -8
 UnderlinePosition: -150
 UnderlineWidth: 50
 Ascent: 800
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1513572760
-ModificationTime: 1543765025
+ModificationTime: 1544464406
 PfmFamily: 81
 TTFWeight: 500
 TTFWidth: 5
@@ -4159,7 +4159,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65460 20 7
+WinInfo: 0 20 7
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable"
@@ -5176,17 +5176,17 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-168 56.5 m 128,-1,1
- 215 171 215 171 231 285 c 0,2,3
- 246 395 246 395 234 501 c 128,-1,4
- 222 607 222 607 184 723 c 1,5,-1
- 254 723 l 1,6,7
- 306 608 306 608 325.5 506 c 128,-1,8
- 345 404 345 404 328 284 c 0,9,10
- 311 165 311 165 256.5 51 c 128,-1,11
- 202 -63 202 -63 122 -161 c 1,12,-1
- 52 -161 l 1,13,0
- 121 -58 121 -58 168 56.5 c 128,-1,1
+111.599609375 56.5 m 128,-1,1
+ 158.599609375 171 158.599609375 171 174.599609375 285 c 0,2,3
+ 189.599609375 395 189.599609375 395 177.599609375 501 c 128,-1,4
+ 165.599609375 607 165.599609375 607 127.599609375 723 c 1,5,-1
+ 197.599609375 723 l 1,6,7
+ 249.599609375 608 249.599609375 608 269.099609375 506 c 128,-1,8
+ 288.599609375 404 288.599609375 404 271.599609375 284 c 0,9,10
+ 254.599609375 165 254.599609375 165 200.099609375 51 c 128,-1,11
+ 145.599609375 -63 145.599609375 -63 65.599609375 -161 c 1,12,-1
+ -4.400390625 -161 l 1,13,0
+ 64.599609375 -58 64.599609375 -58 111.599609375 56.5 c 128,-1,1
 EndSplineSet
 EndChar
 

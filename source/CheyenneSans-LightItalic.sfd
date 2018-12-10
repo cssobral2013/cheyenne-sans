@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1513572760
-ModificationTime: 1542989991
+ModificationTime: 1544464297
 PfmFamily: 81
 TTFWeight: 300
 TTFWidth: 5
@@ -4158,7 +4158,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 60 20 7
+WinInfo: 0 20 7
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable"
 BeginChars: 65599 560
 
@@ -5108,7 +5108,7 @@ StartChar: parenright
 Encoding: 41 41 12
 Width: 291
 GlyphClass: 2
-Flags: W
+Flags: WO
 TtInstrs:
 NPUSHB
  16
@@ -5133,17 +5133,17 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-175.5 57 m 128,-1,1
- 223 172 223 172 239 285 c 0,2,3
- 254 395 254 395 242.5 502 c 128,-1,4
- 231 609 231 609 193 723 c 1,5,-1
- 242 723 l 1,6,7
- 293 609 293 609 312 506.5 c 128,-1,8
- 331 404 331 404 314 284 c 0,9,10
- 297 165 297 165 242.5 50.5 c 128,-1,11
- 188 -64 188 -64 108 -161 c 1,12,-1
- 59 -161 l 1,13,0
- 128 -58 128 -58 175.5 57 c 128,-1,1
+114.900390625 57 m 128,-1,1
+ 162.400390625 172 162.400390625 172 178.400390625 285 c 0,2,3
+ 193.400390625 395 193.400390625 395 181.900390625 502 c 128,-1,4
+ 170.400390625 609 170.400390625 609 132.400390625 723 c 1,5,-1
+ 181.400390625 723 l 1,6,7
+ 232.400390625 609 232.400390625 609 251.400390625 506.5 c 128,-1,8
+ 270.400390625 404 270.400390625 404 253.400390625 284 c 0,9,10
+ 236.400390625 165 236.400390625 165 181.900390625 50.5 c 128,-1,11
+ 127.400390625 -64 127.400390625 -64 47.400390625 -161 c 1,12,-1
+ -1.599609375 -161 l 1,13,0
+ 67.400390625 -58 67.400390625 -58 114.900390625 57 c 128,-1,1
 EndSplineSet
 EndChar
 

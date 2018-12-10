@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1513572760
-ModificationTime: 1544018940
+ModificationTime: 1544463715
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4395,7 +4395,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8340 20 7
+WinInfo: 0 20 7
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable"
 BeginChars: 65595 556
 
@@ -5413,17 +5413,17 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-166.5 57.5 m 128,-1,1
- 215 172 215 172 230 285 c 0,2,3
- 245 395 245 395 233.5 501.5 c 128,-1,4
- 222 608 222 608 183 723 c 1,5,-1
- 241 723 l 1,6,7
- 292 608 292 608 311.5 506 c 128,-1,8
- 331 404 331 404 314 284 c 0,9,10
- 297 165 297 165 243 51 c 128,-1,11
- 189 -63 189 -63 109 -161 c 1,12,-1
- 50 -161 l 1,13,0
- 118 -57 118 -57 166.5 57.5 c 128,-1,1
+112.5 57.5 m 128,-1,1
+ 161 172 161 172 176 285 c 0,2,3
+ 191 395 191 395 179.5 501.5 c 128,-1,4
+ 168 608 168 608 129 723 c 1,5,-1
+ 187 723 l 1,6,7
+ 238 608 238 608 257.5 506 c 128,-1,8
+ 277 404 277 404 260 284 c 0,9,10
+ 243 165 243 165 189 51 c 128,-1,11
+ 135 -63 135 -63 55 -161 c 1,12,-1
+ -4 -161 l 1,13,0
+ 64 -57 64 -57 112.5 57.5 c 128,-1,1
 EndSplineSet
 EndChar
 
