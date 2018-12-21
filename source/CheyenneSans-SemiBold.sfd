@@ -3,7 +3,6 @@ FontName: CheyenneSans-SemiBold
 FullName: Cheyenne Sans SemiBold
 FamilyName: Cheyenne Sans SemiBold
 Weight: Demi
-Copyright: 
 Version: 1.000; ttfautohint (v1.8.2)
 ItalicAngle: 0
 UnderlinePosition: -150
@@ -15,14 +14,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 646 1163163066 8755773]
+XUID: [1021 788 582120202 2683807]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1513572760
-ModificationTime: 1543765287
+ModificationTime: 1545430719
 PfmFamily: 81
 TTFWeight: 600
 TTFWidth: 5
@@ -4159,11 +4158,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65460 20 7
-BeginPrivate: 0
-EndPrivate
+WinInfo: 20 20 7
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable"
-BeginChars: 65599 556
+BeginChars: 65599 560
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -4524,7 +4521,7 @@ SplineSet
  362 296 l 1,31,-1
  383 434 l 1,28,-1
 EndSplineSet
-Kerns2: 509 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 510 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
 StartChar: dollar
@@ -6127,39 +6124,39 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-502 690.5 m 128,-1,1
- 568 644 568 644 580 567 c 1,2,-1
- 474 552 l 1,3,4
- 453 595 453 595 423 617 c 128,-1,5
- 393 639 393 639 343 639 c 0,6,7
- 264 639 264 639 220 573.5 c 128,-1,8
- 176 508 176 508 176 392 c 0,9,10
- 176 365 176 365 177 350 c 1,11,12
- 200 394 200 394 247.5 418.5 c 128,-1,13
- 295 443 295 443 353 443 c 0,14,15
- 426 443 426 443 479.5 414.5 c 128,-1,16
- 533 386 533 386 561.5 337 c 128,-1,17
- 590 288 590 288 590 226 c 0,18,19
- 590 159 590 159 556 106.5 c 128,-1,20
- 522 54 522 54 462 25 c 128,-1,21
- 402 -4 402 -4 327 -4 c 0,22,23
- 238 -4 238 -4 173 39 c 128,-1,24
- 108 82 108 82 74 162.5 c 128,-1,25
- 40 243 40 243 40 353 c 0,26,27
- 40 472 40 472 76 558.5 c 128,-1,28
- 112 645 112 645 180 691 c 128,-1,29
- 248 737 248 737 340 737 c 0,30,0
- 436 737 436 737 502 690.5 c 128,-1,1
-258 335 m 128,-1,32
- 225 321 225 321 205 297 c 128,-1,33
- 185 273 185 273 185 244 c 0,34,35
- 194 168 194 168 230 129 c 128,-1,36
- 266 90 266 90 324 90 c 128,-1,37
- 382 90 382 90 421.5 127 c 128,-1,38
- 461 164 461 164 461 220 c 0,39,40
- 461 277 461 277 423.5 313 c 128,-1,41
- 386 349 386 349 328 349 c 0,42,31
- 291 349 291 349 258 335 c 128,-1,32
+502 685.5 m 128,-1,1
+ 568 639 568 639 580 562 c 1,2,-1
+ 474 547 l 1,3,4
+ 453 590 453 590 423 612 c 128,-1,5
+ 393 634 393 634 343 634 c 0,6,7
+ 264 634 264 634 220 568.5 c 128,-1,8
+ 176 503 176 503 176 387 c 0,9,10
+ 176 360 176 360 177 345 c 1,11,12
+ 200 389 200 389 247.5 413.5 c 128,-1,13
+ 295 438 295 438 353 438 c 0,14,15
+ 426 438 426 438 479.5 409.5 c 128,-1,16
+ 533 381 533 381 561.5 332 c 128,-1,17
+ 590 283 590 283 590 221 c 0,18,19
+ 590 154 590 154 556 101.5 c 128,-1,20
+ 522 49 522 49 462 20 c 128,-1,21
+ 402 -9 402 -9 327 -9 c 0,22,23
+ 238 -9 238 -9 173 34 c 128,-1,24
+ 108 77 108 77 74 157.5 c 128,-1,25
+ 40 238 40 238 40 348 c 0,26,27
+ 40 467 40 467 76 553.5 c 128,-1,28
+ 112 640 112 640 180 686 c 128,-1,29
+ 248 732 248 732 340 732 c 0,30,0
+ 436 732 436 732 502 685.5 c 128,-1,1
+258 330 m 128,-1,32
+ 225 316 225 316 205 292 c 128,-1,33
+ 185 268 185 268 185 239 c 0,34,35
+ 194 163 194 163 230 124 c 128,-1,36
+ 266 85 266 85 324 85 c 128,-1,37
+ 382 85 382 85 421.5 122 c 128,-1,38
+ 461 159 461 159 461 215 c 0,39,40
+ 461 272 461 272 423.5 308 c 128,-1,41
+ 386 344 386 344 328 344 c 0,42,31
+ 291 344 291 344 258 330 c 128,-1,32
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 24 subtable" six.osf
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 23 subtable" six.tf
@@ -12635,7 +12632,7 @@ SplineSet
  16 0 l 1,46,-1
  16 102 l 1,0,-1
 EndSplineSet
-Kerns2: 511 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 EndChar
 
 StartChar: currency
@@ -60224,8 +60221,278 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: f_f.liga
+Encoding: 65541 -1 502
+Width: 824
+GlyphClass: 3
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 20
+LT
+IF
+NPUSHB
+ 35
+ 12
+ 1
+ 5
+ 5
+ 4
+ 95
+ 11
+ 1
+ 4
+ 4
+ 34
+ 77
+ 9
+ 7
+ 2
+ 3
+ 0
+ 0
+ 3
+ 95
+ 13
+ 10
+ 6
+ 3
+ 3
+ 3
+ 37
+ 77
+ 8
+ 1
+ 1
+ 1
+ 35
+ 1
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 22
+LT
+IF
+NPUSHB
+ 45
+ 0
+ 5
+ 5
+ 4
+ 95
+ 11
+ 1
+ 4
+ 4
+ 34
+ 77
+ 0
+ 12
+ 12
+ 4
+ 95
+ 11
+ 1
+ 4
+ 4
+ 34
+ 77
+ 9
+ 7
+ 2
+ 3
+ 0
+ 0
+ 3
+ 95
+ 13
+ 10
+ 6
+ 3
+ 3
+ 3
+ 37
+ 77
+ 8
+ 1
+ 1
+ 1
+ 35
+ 1
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 45
+LT
+IF
+NPUSHB
+ 43
+ 0
+ 5
+ 5
+ 4
+ 95
+ 0
+ 4
+ 4
+ 34
+ 77
+ 0
+ 12
+ 12
+ 11
+ 95
+ 0
+ 11
+ 11
+ 34
+ 77
+ 9
+ 7
+ 2
+ 3
+ 0
+ 0
+ 3
+ 95
+ 13
+ 10
+ 6
+ 3
+ 3
+ 3
+ 37
+ 77
+ 8
+ 1
+ 1
+ 1
+ 35
+ 1
+ 78
+ELSE
+NPUSHB
+ 41
+ 0
+ 11
+ 0
+ 12
+ 3
+ 11
+ 12
+ 103
+ 0
+ 5
+ 5
+ 4
+ 95
+ 0
+ 4
+ 4
+ 34
+ 77
+ 9
+ 7
+ 2
+ 3
+ 0
+ 0
+ 3
+ 95
+ 13
+ 10
+ 6
+ 3
+ 3
+ 3
+ 37
+ 77
+ 8
+ 1
+ 1
+ 1
+ 35
+ 1
+ 78
+EIF
+EIF
+EIF
+NPUSHB
+ 22
+ 39
+ 38
+ 35
+ 33
+ 32
+ 30
+ 27
+ 26
+ 25
+ 24
+ 17
+ 17
+ 19
+ 33
+ 35
+ 17
+ 17
+ 17
+ 16
+ 14
+ 8
+ 31
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+774 431 m 1,0,-1
+ 657 431 l 1,1,-1
+ 657 0 l 1,2,-1
+ 535 0 l 1,3,-1
+ 535 431 l 1,4,-1
+ 432 431 l 1,5,-1
+ 432 517 l 1,6,-1
+ 535 517 l 1,7,-1
+ 535 594 l 2,8,9
+ 535 656 535 656 569.5 689.5 c 128,-1,10
+ 604 723 604 723 669 723 c 2,11,-1
+ 778 723 l 1,12,-1
+ 779 640 l 1,13,-1
+ 706 640 l 2,14,15
+ 677 640 677 640 665.5 625.5 c 128,-1,16
+ 654 611 654 611 654 577 c 2,17,-1
+ 654 517 l 1,18,-1
+ 774 517 l 1,19,-1
+ 774 431 l 1,0,-1
+369 431 m 1,20,-1
+ 251 431 l 1,21,-1
+ 251 0 l 1,22,-1
+ 129 0 l 1,23,-1
+ 129 431 l 1,24,-1
+ 27 431 l 1,25,-1
+ 27 517 l 1,26,-1
+ 129 517 l 1,27,-1
+ 129 583 l 2,28,29
+ 129 645 129 645 163.5 678.5 c 128,-1,30
+ 198 712 198 712 263 712 c 2,31,-1
+ 372 712 l 1,32,-1
+ 373 628 l 1,33,-1
+ 301 628 l 2,34,35
+ 272 628 272 628 260.5 613.5 c 128,-1,36
+ 249 599 249 599 249 566 c 2,37,-1
+ 249 517 l 1,38,-1
+ 369 517 l 1,39,-1
+ 369 431 l 1,20,-1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 25 subtable" f f
+EndChar
+
 StartChar: zero.osf
-Encoding: 65542 -1 502
+Encoding: 65542 -1 503
 Width: 651
 GlyphClass: 2
 Flags: W
@@ -60299,13 +60566,13 @@ SplineSet
  176 91 176 91 326 91 c 0,24,15
  399 91 399 91 437 155 c 128,-1,16
 EndSplineSet
-Kerns2: 509 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 510 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -10 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -13 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" zero
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" zero
 EndChar
 
 StartChar: one.osf
-Encoding: 65543 -1 503
+Encoding: 65543 -1 504
 Width: 395
 GlyphClass: 2
 Flags: W
@@ -60350,13 +60617,13 @@ SplineSet
  164 0 l 1,6,-1
  164 585 l 1,0,-1
 EndSplineSet
-Kerns2: 511 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 -63 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" one
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" one
 EndChar
 
 StartChar: two.osf
-Encoding: 65544 -1 504
+Encoding: 65544 -1 505
 Width: 599
 GlyphClass: 2
 Flags: W
@@ -60429,13 +60696,13 @@ SplineSet
  39 0 l 1,25,-1
  39 96 l 1,0,-1
 EndSplineSet
-Kerns2: 511 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 -12 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -14 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -17 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" two
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two
 EndChar
 
 StartChar: three.osf
-Encoding: 65545 -1 505
+Encoding: 65545 -1 506
 Width: 634
 GlyphClass: 2
 Flags: W
@@ -60533,13 +60800,13 @@ SplineSet
  49 560 l 1,41,0
  64 650 64 650 141.5 692.5 c 128,-1,1
 EndSplineSet
-Kerns2: 511 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" three
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" three
 EndChar
 
 StartChar: four.osf
-Encoding: 65546 -1 506
+Encoding: 65546 -1 507
 Width: 625
 GlyphClass: 2
 Flags: W
@@ -60621,13 +60888,13 @@ SplineSet
  161 278 l 1,13,-1
  364 278 l 1,11,-1
 EndSplineSet
-Kerns2: 509 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 510 -33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 8 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 16 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 0 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" four
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" four
 EndChar
 
 StartChar: five.osf
-Encoding: 65547 -1 507
+Encoding: 65547 -1 508
 Width: 656
 GlyphClass: 2
 Flags: W
@@ -60725,13 +60992,13 @@ SplineSet
  114 723 l 1,37,-1
  568 723 l 1,0,-1
 EndSplineSet
-Kerns2: 511 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 -25 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -11 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -22 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" five
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five
 EndChar
 
 StartChar: six.osf
-Encoding: 65548 -1 508
+Encoding: 65548 -1 509
 Width: 632
 GlyphClass: 2
 Flags: W
@@ -60848,7 +61115,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six
 EndChar
 
 StartChar: seven.osf
-Encoding: 65549 -1 509
+Encoding: 65549 -1 510
 Width: 581
 GlyphClass: 2
 Flags: W
@@ -60907,13 +61174,13 @@ SplineSet
  30 723 l 1,12,-1
  556 723 l 1,0,-1
 EndSplineSet
-Kerns2: 511 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 509 33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 502 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 512 -2 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 510 33 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 508 -15 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 507 -48 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 506 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 505 1 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -7 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 -4 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 6 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" seven
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven
 EndChar
 
 StartChar: eight.osf
-Encoding: 65550 -1 510
+Encoding: 65550 -1 511
 Width: 631
 GlyphClass: 2
 Flags: W
@@ -61046,7 +61313,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight
 EndChar
 
 StartChar: nine.osf
-Encoding: 65551 -1 511
+Encoding: 65551 -1 512
 Width: 632
 GlyphClass: 2
 Flags: W
@@ -61155,13 +61422,13 @@ SplineSet
  245 379 245 379 301 379 c 0,42,31
  338 379 338 379 371 393.5 c 128,-1,32
 EndSplineSet
-Kerns2: 509 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 503 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+Kerns2: 510 -20 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 504 -5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 101 5 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
 Substitution2: "'lnum' Lining Figures in Latin lookup 21 subtable" nine
 AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" nine
 EndChar
 
 StartChar: zero.tf
-Encoding: 65552 -1 512
+Encoding: 65552 -1 513
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61240,7 +61507,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" zero
 EndChar
 
 StartChar: one.tf
-Encoding: 65553 -1 513
+Encoding: 65553 -1 514
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61308,7 +61575,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" one
 EndChar
 
 StartChar: two.tf
-Encoding: 65554 -1 514
+Encoding: 65554 -1 515
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61386,7 +61653,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two
 EndChar
 
 StartChar: three.tf
-Encoding: 65555 -1 515
+Encoding: 65555 -1 516
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61489,7 +61756,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" three
 EndChar
 
 StartChar: four.tf
-Encoding: 65556 -1 516
+Encoding: 65556 -1 517
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61576,7 +61843,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" four
 EndChar
 
 StartChar: five.tf
-Encoding: 65557 -1 517
+Encoding: 65557 -1 518
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61679,7 +61946,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five
 EndChar
 
 StartChar: six.tf
-Encoding: 65558 -1 518
+Encoding: 65558 -1 519
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61796,7 +62063,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six
 EndChar
 
 StartChar: seven.tf
-Encoding: 65559 -1 519
+Encoding: 65559 -1 520
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61860,7 +62127,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven
 EndChar
 
 StartChar: eight.tf
-Encoding: 65560 -1 520
+Encoding: 65560 -1 521
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -61993,7 +62260,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight
 EndChar
 
 StartChar: nine.tf
-Encoding: 65561 -1 521
+Encoding: 65561 -1 522
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -62107,7 +62374,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" nine
 EndChar
 
 StartChar: zero.subs
-Encoding: 65562 -1 522
+Encoding: 65562 -1 523
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -62208,7 +62475,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.subs
-Encoding: 65563 -1 523
+Encoding: 65563 -1 524
 Width: 299
 GlyphClass: 2
 Flags: W
@@ -62256,7 +62523,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.subs
-Encoding: 65564 -1 524
+Encoding: 65564 -1 525
 Width: 382
 GlyphClass: 2
 Flags: W
@@ -62330,7 +62597,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.subs
-Encoding: 65565 -1 525
+Encoding: 65565 -1 526
 Width: 397
 GlyphClass: 2
 Flags: W
@@ -62427,7 +62694,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.subs
-Encoding: 65566 -1 526
+Encoding: 65566 -1 527
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -62512,7 +62779,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.subs
-Encoding: 65567 -1 527
+Encoding: 65567 -1 528
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -62609,7 +62876,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.subs
-Encoding: 65568 -1 528
+Encoding: 65568 -1 529
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -62718,7 +62985,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.subs
-Encoding: 65569 -1 529
+Encoding: 65569 -1 530
 Width: 363
 GlyphClass: 2
 Flags: W
@@ -62778,7 +63045,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.subs
-Encoding: 65570 -1 530
+Encoding: 65570 -1 531
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -62885,7 +63152,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.subs
-Encoding: 65571 -1 531
+Encoding: 65571 -1 532
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -63033,7 +63300,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.dnom
-Encoding: 65572 -1 532
+Encoding: 65572 -1 533
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -63098,7 +63365,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.dnom
-Encoding: 65573 -1 533
+Encoding: 65573 -1 534
 Width: 299
 GlyphClass: 2
 Flags: W
@@ -63146,7 +63413,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.dnom
-Encoding: 65574 -1 534
+Encoding: 65574 -1 535
 Width: 382
 GlyphClass: 2
 Flags: W
@@ -63220,7 +63487,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.dnom
-Encoding: 65575 -1 535
+Encoding: 65575 -1 536
 Width: 397
 GlyphClass: 2
 Flags: W
@@ -63317,7 +63584,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.dnom
-Encoding: 65576 -1 536
+Encoding: 65576 -1 537
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -63402,7 +63669,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.dnom
-Encoding: 65577 -1 537
+Encoding: 65577 -1 538
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -63499,7 +63766,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.dnom
-Encoding: 65578 -1 538
+Encoding: 65578 -1 539
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -63608,7 +63875,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.dnom
-Encoding: 65579 -1 539
+Encoding: 65579 -1 540
 Width: 363
 GlyphClass: 2
 Flags: W
@@ -63668,7 +63935,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.dnom
-Encoding: 65580 -1 540
+Encoding: 65580 -1 541
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -63775,7 +64042,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.dnom
-Encoding: 65581 -1 541
+Encoding: 65581 -1 542
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -63880,7 +64147,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.numr
-Encoding: 65582 -1 542
+Encoding: 65582 -1 543
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -63946,7 +64213,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.dn
 EndChar
 
 StartChar: one.numr
-Encoding: 65583 -1 543
+Encoding: 65583 -1 544
 Width: 299
 GlyphClass: 2
 Flags: W
@@ -63996,7 +64263,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one.dno
 EndChar
 
 StartChar: two.numr
-Encoding: 65584 -1 544
+Encoding: 65584 -1 545
 Width: 382
 GlyphClass: 2
 Flags: W
@@ -64070,7 +64337,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" two.dno
 EndChar
 
 StartChar: three.numr
-Encoding: 65585 -1 545
+Encoding: 65585 -1 546
 Width: 397
 GlyphClass: 2
 Flags: W
@@ -64209,7 +64476,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" three.d
 EndChar
 
 StartChar: four.numr
-Encoding: 65586 -1 546
+Encoding: 65586 -1 547
 Width: 413
 GlyphClass: 2
 Flags: W
@@ -64296,7 +64563,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" four.dn
 EndChar
 
 StartChar: five.numr
-Encoding: 65587 -1 547
+Encoding: 65587 -1 548
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -64394,7 +64661,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" five.dn
 EndChar
 
 StartChar: six.numr
-Encoding: 65588 -1 548
+Encoding: 65588 -1 549
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -64504,7 +64771,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" six.dno
 EndChar
 
 StartChar: seven.numr
-Encoding: 65589 -1 549
+Encoding: 65589 -1 550
 Width: 363
 GlyphClass: 2
 Flags: W
@@ -64566,7 +64833,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.d
 EndChar
 
 StartChar: eight.numr
-Encoding: 65590 -1 550
+Encoding: 65590 -1 551
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -64674,7 +64941,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" eight.d
 EndChar
 
 StartChar: nine.numr
-Encoding: 65591 -1 551
+Encoding: 65591 -1 552
 Width: 401
 GlyphClass: 2
 Flags: W
@@ -64782,7 +65049,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nine.dn
 EndChar
 
 StartChar: comma.tf
-Encoding: 65592 -1 552
+Encoding: 65592 -1 553
 Width: 292
 GlyphClass: 2
 Flags: W
@@ -64836,7 +65103,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" comma
 EndChar
 
 StartChar: period.tf
-Encoding: 65593 -1 553
+Encoding: 65593 -1 554
 Width: 292
 GlyphClass: 2
 Flags: W
@@ -64875,7 +65142,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" period
 EndChar
 
 StartChar: bullet.uc
-Encoding: 65594 -1 554
+Encoding: 65594 -1 555
 Width: 335
 GlyphClass: 2
 Flags: W
@@ -64926,8 +65193,1629 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: colon_one_eight_F_colon.liga
+Encoding: 65595 -1 556
+Width: 771
+GlyphClass: 3
+Flags: W
+TtInstrs:
+NPUSHB
+ 28
+ 52
+ 37
+ 36
+ 31
+ 4
+ 8
+ 2
+ 63
+ 25
+ 16
+ 3
+ 6
+ 7
+ 58
+ 56
+ 53
+ 44
+ 41
+ 5
+ 3
+ 11
+ 3
+ 76
+ 40
+ 1
+ 8
+ 1
+ 75
+MPPEM
+PUSHB_1
+ 28
+LT
+IF
+NPUSHB
+ 46
+ 9
+ 1
+ 8
+ 15
+ 10
+ 2
+ 7
+ 6
+ 8
+ 7
+ 105
+ 16
+ 12
+ 2
+ 6
+ 0
+ 11
+ 3
+ 6
+ 11
+ 105
+ 5
+ 4
+ 2
+ 2
+ 2
+ 0
+ 95
+ 13
+ 1
+ 0
+ 0
+ 36
+ 77
+ 14
+ 1
+ 3
+ 3
+ 1
+ 96
+ 0
+ 1
+ 1
+ 35
+ 1
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 33
+LT
+IF
+NPUSHB
+ 44
+ 13
+ 1
+ 0
+ 5
+ 4
+ 2
+ 2
+ 8
+ 0
+ 2
+ 103
+ 9
+ 1
+ 8
+ 15
+ 10
+ 2
+ 7
+ 6
+ 8
+ 7
+ 105
+ 16
+ 12
+ 2
+ 6
+ 0
+ 11
+ 3
+ 6
+ 11
+ 105
+ 14
+ 1
+ 3
+ 3
+ 1
+ 96
+ 0
+ 1
+ 1
+ 35
+ 1
+ 78
+ELSE
+NPUSHB
+ 49
+ 13
+ 1
+ 0
+ 5
+ 4
+ 2
+ 2
+ 8
+ 0
+ 2
+ 103
+ 15
+ 1
+ 10
+ 7
+ 8
+ 10
+ 89
+ 9
+ 1
+ 8
+ 0
+ 7
+ 6
+ 8
+ 7
+ 103
+ 16
+ 12
+ 2
+ 6
+ 0
+ 11
+ 3
+ 6
+ 11
+ 105
+ 14
+ 1
+ 3
+ 3
+ 1
+ 96
+ 0
+ 1
+ 1
+ 35
+ 1
+ 78
+EIF
+EIF
+NPUSHB
+ 45
+ 83
+ 83
+ 71
+ 71
+ 12
+ 12
+ 1
+ 0
+ 83
+ 94
+ 83
+ 93
+ 89
+ 87
+ 71
+ 82
+ 71
+ 81
+ 77
+ 75
+ 68
+ 67
+ 66
+ 65
+ 60
+ 59
+ 50
+ 49
+ 34
+ 33
+ 12
+ 30
+ 12
+ 29
+ 22
+ 20
+ 7
+ 4
+ 0
+ 11
+ 1
+ 10
+ 17
+ 8
+ 22
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+754 761 m 2,0,1
+ 765 761 765 761 765 749 c 2,2,-1
+ 765 13 l 2,3,4
+ 765 0 765 0 754 0 c 2,5,-1
+ 17 0 l 2,6,7
+ 5 0 5 0 5 13 c 2,8,-1
+ 5 749 l 2,9,10
+ 5 761 5 761 17 761 c 2,11,-1
+ 754 761 l 2,0,1
+433 259.5 m 128,-1,13
+ 458 285 458 285 458 320 c 0,14,15
+ 458 365 458 365 421 390 c 1,16,17
+ 448 416 448 416 448 448 c 0,18,19
+ 448 479 448 479 425.5 501 c 128,-1,20
+ 403 523 403 523 373 523 c 0,21,22
+ 340 523 340 523 318 501 c 128,-1,23
+ 296 479 296 479 296 448 c 128,-1,24
+ 296 417 296 417 323 390 c 1,25,26
+ 286 365 286 365 286 320 c 0,27,28
+ 286 285 286 285 311.5 259.5 c 128,-1,29
+ 337 234 337 234 373 234 c 0,30,12
+ 408 234 408 234 433 259.5 c 128,-1,13
+244 515 m 2,31,32
+ 244 520 244 520 240 520 c 2,33,-1
+ 173 520 l 2,34,35
+ 169 520 169 520 169 515 c 2,36,-1
+ 169 489 l 2,37,38
+ 169 485 169 485 173 485 c 2,39,-1
+ 209 485 l 1,40,-1
+ 209 243 l 2,41,42
+ 209 239 209 239 213 239 c 2,43,-1
+ 240 239 l 2,44,45
+ 244 239 244 239 244 243 c 2,46,-1
+ 244 515 l 2,31,32
+613 515 m 2,47,48
+ 613 520 613 520 609 520 c 2,49,-1
+ 504 520 l 2,50,51
+ 500 520 500 520 500 515 c 2,52,-1
+ 500 243 l 2,53,54
+ 500 239 500 239 504 239 c 2,55,-1
+ 530 239 l 2,56,57
+ 536 239 536 239 536 243 c 2,58,-1
+ 536 367 l 1,59,-1
+ 597 367 l 2,60,61
+ 601 367 601 367 601 371 c 2,62,-1
+ 601 396 l 2,63,64
+ 601 401 601 401 597 401 c 2,65,-1
+ 536 401 l 1,66,-1
+ 536 485 l 1,67,-1
+ 609 485 l 2,68,69
+ 613 485 613 485 613 489 c 2,70,-1
+ 613 515 l 2,47,48
+343 419 m 128,-1,72
+ 331 430 331 430 331 448 c 0,73,74
+ 331 465 331 465 343 477 c 128,-1,75
+ 355 489 355 489 373 489 c 0,76,77
+ 390 489 390 489 401.5 477 c 128,-1,78
+ 413 465 413 465 413 448 c 0,79,80
+ 413 430 413 430 401.5 419 c 128,-1,81
+ 390 408 390 408 373 408 c 0,82,71
+ 355 408 355 408 343 419 c 128,-1,72
+408.5 356.5 m 128,-1,84
+ 423 342 423 342 423 320 c 0,85,86
+ 423 299 423 299 408.5 284 c 128,-1,87
+ 394 269 394 269 373 269 c 0,88,89
+ 351 269 351 269 336 284 c 128,-1,90
+ 321 299 321 299 321 320 c 0,91,92
+ 321 342 321 342 336 356.5 c 128,-1,93
+ 351 371 351 371 373 371 c 0,94,83
+ 394 371 394 371 408.5 356.5 c 128,-1,84
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 25 subtable" colon one eight F colon
+EndChar
+
+StartChar: colon_f_l_a_g_two_colon.liga
+Encoding: 65596 -1 557
+Width: 1155
+GlyphClass: 3
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 22
+LT
+IF
+NPUSHB
+ 117
+ 6
+ 1
+ 4
+ 3
+ 8
+ 2
+ 4
+ 114
+ 22
+ 1
+ 20
+ 16
+ 24
+ 25
+ 20
+ 114
+ 0
+ 3
+ 10
+ 1
+ 8
+ 5
+ 3
+ 8
+ 103
+ 32
+ 7
+ 31
+ 3
+ 5
+ 36
+ 15
+ 2
+ 12
+ 9
+ 5
+ 12
+ 103
+ 14
+ 35
+ 2
+ 13
+ 40
+ 23
+ 39
+ 3
+ 21
+ 16
+ 13
+ 21
+ 103
+ 38
+ 19
+ 2
+ 16
+ 0
+ 24
+ 25
+ 16
+ 24
+ 103
+ 41
+ 1
+ 25
+ 42
+ 1
+ 27
+ 26
+ 25
+ 27
+ 104
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 0
+ 2
+ 2
+ 1
+ 95
+ 30
+ 1
+ 1
+ 1
+ 36
+ 77
+ 18
+ 37
+ 2
+ 17
+ 17
+ 9
+ 95
+ 34
+ 11
+ 33
+ 3
+ 9
+ 9
+ 37
+ 77
+ 43
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 24
+LT
+IF
+NPUSHB
+ 118
+ 6
+ 1
+ 4
+ 3
+ 8
+ 2
+ 4
+ 114
+ 22
+ 1
+ 20
+ 16
+ 24
+ 16
+ 20
+ 24
+ 128
+ 0
+ 3
+ 10
+ 1
+ 8
+ 5
+ 3
+ 8
+ 103
+ 32
+ 7
+ 31
+ 3
+ 5
+ 36
+ 15
+ 2
+ 12
+ 9
+ 5
+ 12
+ 103
+ 14
+ 35
+ 2
+ 13
+ 40
+ 23
+ 39
+ 3
+ 21
+ 16
+ 13
+ 21
+ 103
+ 38
+ 19
+ 2
+ 16
+ 0
+ 24
+ 25
+ 16
+ 24
+ 103
+ 41
+ 1
+ 25
+ 42
+ 1
+ 27
+ 26
+ 25
+ 27
+ 104
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 0
+ 2
+ 2
+ 1
+ 95
+ 30
+ 1
+ 1
+ 1
+ 36
+ 77
+ 18
+ 37
+ 2
+ 17
+ 17
+ 9
+ 95
+ 34
+ 11
+ 33
+ 3
+ 9
+ 9
+ 37
+ 77
+ 43
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 28
+LT
+IF
+NPUSHB
+ 119
+ 6
+ 1
+ 4
+ 3
+ 8
+ 3
+ 4
+ 8
+ 128
+ 22
+ 1
+ 20
+ 16
+ 24
+ 16
+ 20
+ 24
+ 128
+ 0
+ 3
+ 10
+ 1
+ 8
+ 5
+ 3
+ 8
+ 103
+ 32
+ 7
+ 31
+ 3
+ 5
+ 36
+ 15
+ 2
+ 12
+ 9
+ 5
+ 12
+ 103
+ 14
+ 35
+ 2
+ 13
+ 40
+ 23
+ 39
+ 3
+ 21
+ 16
+ 13
+ 21
+ 103
+ 38
+ 19
+ 2
+ 16
+ 0
+ 24
+ 25
+ 16
+ 24
+ 103
+ 41
+ 1
+ 25
+ 42
+ 1
+ 27
+ 26
+ 25
+ 27
+ 104
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 0
+ 2
+ 2
+ 1
+ 95
+ 30
+ 1
+ 1
+ 1
+ 36
+ 77
+ 18
+ 37
+ 2
+ 17
+ 17
+ 9
+ 95
+ 34
+ 11
+ 33
+ 3
+ 9
+ 9
+ 37
+ 77
+ 43
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 49
+LT
+IF
+NPUSHB
+ 117
+ 6
+ 1
+ 4
+ 3
+ 8
+ 3
+ 4
+ 8
+ 128
+ 22
+ 1
+ 20
+ 16
+ 24
+ 16
+ 20
+ 24
+ 128
+ 30
+ 1
+ 1
+ 0
+ 2
+ 3
+ 1
+ 2
+ 103
+ 0
+ 3
+ 10
+ 1
+ 8
+ 5
+ 3
+ 8
+ 103
+ 32
+ 7
+ 31
+ 3
+ 5
+ 36
+ 15
+ 2
+ 12
+ 9
+ 5
+ 12
+ 103
+ 14
+ 35
+ 2
+ 13
+ 40
+ 23
+ 39
+ 3
+ 21
+ 16
+ 13
+ 21
+ 103
+ 38
+ 19
+ 2
+ 16
+ 0
+ 24
+ 25
+ 16
+ 24
+ 103
+ 41
+ 1
+ 25
+ 42
+ 1
+ 27
+ 26
+ 25
+ 27
+ 104
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 18
+ 37
+ 2
+ 17
+ 17
+ 9
+ 95
+ 34
+ 11
+ 33
+ 3
+ 9
+ 9
+ 37
+ 77
+ 43
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+NPUSHB
+ 115
+ 6
+ 1
+ 4
+ 3
+ 8
+ 3
+ 4
+ 8
+ 128
+ 22
+ 1
+ 20
+ 16
+ 24
+ 16
+ 20
+ 24
+ 128
+ 30
+ 1
+ 1
+ 0
+ 2
+ 3
+ 1
+ 2
+ 103
+ 0
+ 3
+ 10
+ 1
+ 8
+ 5
+ 3
+ 8
+ 103
+ 32
+ 7
+ 31
+ 3
+ 5
+ 36
+ 15
+ 2
+ 12
+ 9
+ 5
+ 12
+ 103
+ 34
+ 11
+ 33
+ 3
+ 9
+ 18
+ 37
+ 2
+ 17
+ 13
+ 9
+ 17
+ 103
+ 14
+ 35
+ 2
+ 13
+ 40
+ 23
+ 39
+ 3
+ 21
+ 16
+ 13
+ 21
+ 103
+ 38
+ 19
+ 2
+ 16
+ 0
+ 24
+ 25
+ 16
+ 24
+ 103
+ 41
+ 1
+ 25
+ 42
+ 1
+ 27
+ 26
+ 25
+ 27
+ 104
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 43
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+EIF
+EIF
+EIF
+EIF
+NPUSHB
+ 118
+ 56
+ 56
+ 52
+ 52
+ 48
+ 48
+ 44
+ 44
+ 40
+ 40
+ 36
+ 36
+ 32
+ 32
+ 28
+ 28
+ 24
+ 24
+ 20
+ 20
+ 16
+ 16
+ 12
+ 12
+ 8
+ 8
+ 0
+ 0
+ 56
+ 59
+ 56
+ 59
+ 58
+ 57
+ 52
+ 55
+ 52
+ 55
+ 54
+ 53
+ 48
+ 51
+ 48
+ 51
+ 50
+ 49
+ 44
+ 47
+ 44
+ 47
+ 46
+ 45
+ 40
+ 43
+ 40
+ 43
+ 42
+ 41
+ 36
+ 39
+ 36
+ 39
+ 38
+ 37
+ 32
+ 35
+ 32
+ 35
+ 34
+ 33
+ 28
+ 31
+ 28
+ 31
+ 30
+ 29
+ 24
+ 27
+ 24
+ 27
+ 26
+ 25
+ 20
+ 23
+ 20
+ 23
+ 22
+ 21
+ 16
+ 19
+ 16
+ 19
+ 18
+ 17
+ 12
+ 15
+ 12
+ 15
+ 14
+ 13
+ 8
+ 11
+ 8
+ 11
+ 10
+ 9
+ 7
+ 6
+ 5
+ 4
+ 0
+ 3
+ 0
+ 3
+ 17
+ 44
+ 8
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1111 761 m 1,0,-1
+ 1111 1 l 1,1,-1
+ 44 1 l 1,2,-1
+ 44 761 l 1,3,-1
+ 1111 761 l 1,0,-1
+1048 698 m 1,4,-1
+ 513 698 l 1,5,-1
+ 513 645 l 1,6,-1
+ 1048 645 l 1,7,-1
+ 1048 698 l 1,4,-1
+201 585 m 1,8,-1
+ 201 644 l 1,9,-1
+ 139 644 l 1,10,-1
+ 139 585 l 1,11,-1
+ 201 585 l 1,8,-1
+435 585 m 1,12,-1
+ 435 644 l 1,13,-1
+ 374 644 l 1,14,-1
+ 374 585 l 1,15,-1
+ 435 585 l 1,12,-1
+318 527 m 1,16,-1
+ 318 585 l 1,17,-1
+ 257 585 l 1,18,-1
+ 257 527 l 1,19,-1
+ 318 527 l 1,16,-1
+1048 528 m 1,20,-1
+ 1048 583 l 1,21,-1
+ 513 583 l 1,22,-1
+ 513 528 l 1,23,-1
+ 1048 528 l 1,20,-1
+201 468 m 1,24,-1
+ 201 527 l 1,25,-1
+ 140 527 l 1,26,-1
+ 140 468 l 1,27,-1
+ 201 468 l 1,24,-1
+374 527 m 1,28,-1
+ 374 468 l 1,29,-1
+ 435 468 l 1,30,-1
+ 435 527 l 1,31,-1
+ 374 527 l 1,28,-1
+257 468 m 1,32,-1
+ 257 410 l 1,33,-1
+ 318 410 l 1,34,-1
+ 318 468 l 1,35,-1
+ 257 468 l 1,32,-1
+1048 411 m 1,36,-1
+ 1048 466 l 1,37,-1
+ 513 466 l 1,38,-1
+ 513 411 l 1,39,-1
+ 1048 411 l 1,36,-1
+140 410 m 1,40,-1
+ 140 351 l 1,41,-1
+ 201 351 l 1,42,-1
+ 201 410 l 1,43,-1
+ 140 410 l 1,40,-1
+374 410 m 1,44,-1
+ 374 351 l 1,45,-1
+ 435 351 l 1,46,-1
+ 435 410 l 1,47,-1
+ 374 410 l 1,44,-1
+1048 294 m 1,48,-1
+ 1048 349 l 1,49,-1
+ 513 349 l 1,50,-1
+ 513 294 l 1,51,-1
+ 1048 294 l 1,48,-1
+105 232 m 1,52,-1
+ 105 177 l 1,53,-1
+ 1048 177 l 1,54,-1
+ 1048 232 l 1,55,-1
+ 105 232 l 1,52,-1
+1048 63 m 1,56,-1
+ 1048 115 l 1,57,-1
+ 106 115 l 1,58,-1
+ 106 63 l 1,59,-1
+ 1048 63 l 1,56,-1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 25 subtable" colon f l a g two colon
+EndChar
+
+StartChar: colon_f_l_a_g_colon.liga
+Encoding: 65597 -1 558
+Width: 1155
+GlyphClass: 3
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 28
+LT
+IF
+NPUSHB
+ 95
+ 13
+ 11
+ 2
+ 8
+ 12
+ 10
+ 2
+ 7
+ 15
+ 8
+ 7
+ 103
+ 0
+ 15
+ 0
+ 14
+ 6
+ 15
+ 14
+ 103
+ 0
+ 21
+ 0
+ 20
+ 4
+ 21
+ 20
+ 103
+ 25
+ 23
+ 2
+ 4
+ 24
+ 22
+ 2
+ 3
+ 2
+ 4
+ 3
+ 103
+ 0
+ 2
+ 32
+ 1
+ 27
+ 26
+ 2
+ 27
+ 103
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 31
+ 1
+ 9
+ 9
+ 1
+ 95
+ 30
+ 1
+ 1
+ 1
+ 36
+ 77
+ 18
+ 16
+ 2
+ 5
+ 5
+ 6
+ 95
+ 19
+ 17
+ 2
+ 6
+ 6
+ 37
+ 77
+ 33
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 49
+LT
+IF
+NPUSHB
+ 93
+ 30
+ 1
+ 1
+ 31
+ 1
+ 9
+ 8
+ 1
+ 9
+ 103
+ 13
+ 11
+ 2
+ 8
+ 12
+ 10
+ 2
+ 7
+ 15
+ 8
+ 7
+ 103
+ 0
+ 15
+ 0
+ 14
+ 6
+ 15
+ 14
+ 103
+ 0
+ 21
+ 0
+ 20
+ 4
+ 21
+ 20
+ 103
+ 25
+ 23
+ 2
+ 4
+ 24
+ 22
+ 2
+ 3
+ 2
+ 4
+ 3
+ 103
+ 0
+ 2
+ 32
+ 1
+ 27
+ 26
+ 2
+ 27
+ 103
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 18
+ 16
+ 2
+ 5
+ 5
+ 6
+ 95
+ 19
+ 17
+ 2
+ 6
+ 6
+ 37
+ 77
+ 33
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+ELSE
+NPUSHB
+ 91
+ 30
+ 1
+ 1
+ 31
+ 1
+ 9
+ 8
+ 1
+ 9
+ 103
+ 13
+ 11
+ 2
+ 8
+ 12
+ 10
+ 2
+ 7
+ 15
+ 8
+ 7
+ 103
+ 0
+ 15
+ 0
+ 14
+ 6
+ 15
+ 14
+ 103
+ 19
+ 17
+ 2
+ 6
+ 18
+ 16
+ 2
+ 5
+ 21
+ 6
+ 5
+ 103
+ 0
+ 21
+ 0
+ 20
+ 4
+ 21
+ 20
+ 103
+ 25
+ 23
+ 2
+ 4
+ 24
+ 22
+ 2
+ 3
+ 2
+ 4
+ 3
+ 103
+ 0
+ 2
+ 32
+ 1
+ 27
+ 26
+ 2
+ 27
+ 103
+ 0
+ 26
+ 0
+ 28
+ 29
+ 26
+ 28
+ 103
+ 33
+ 1
+ 29
+ 29
+ 0
+ 95
+ 0
+ 0
+ 0
+ 35
+ 0
+ 78
+EIF
+EIF
+NPUSHB
+ 78
+ 56
+ 56
+ 52
+ 52
+ 4
+ 4
+ 0
+ 0
+ 56
+ 59
+ 56
+ 59
+ 58
+ 57
+ 52
+ 55
+ 52
+ 55
+ 54
+ 53
+ 51
+ 50
+ 49
+ 48
+ 47
+ 46
+ 45
+ 44
+ 43
+ 42
+ 41
+ 40
+ 39
+ 38
+ 37
+ 36
+ 35
+ 34
+ 33
+ 32
+ 31
+ 30
+ 29
+ 28
+ 27
+ 26
+ 25
+ 24
+ 23
+ 22
+ 21
+ 20
+ 4
+ 19
+ 4
+ 19
+ 18
+ 17
+ 16
+ 15
+ 14
+ 13
+ 12
+ 11
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 0
+ 3
+ 0
+ 3
+ 17
+ 34
+ 8
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+1111 761 m 1,0,-1
+ 1111 1 l 1,1,-1
+ 44 1 l 1,2,-1
+ 44 761 l 1,3,-1
+ 1111 761 l 1,0,-1
+102 702 m 1,4,-1
+ 102 293 l 1,5,-1
+ 1052 293 l 1,6,-1
+ 1052 351 l 1,7,-1
+ 512 351 l 1,8,-1
+ 512 410 l 1,9,-1
+ 1052 410 l 1,10,-1
+ 1052 468 l 1,11,-1
+ 512 468 l 1,12,-1
+ 512 527 l 1,13,-1
+ 1052 527 l 1,14,-1
+ 1052 585 l 1,15,-1
+ 512 585 l 1,16,-1
+ 512 644 l 1,17,-1
+ 1052 644 l 1,18,-1
+ 1052 702 l 1,19,-1
+ 102 702 l 1,4,-1
+219 585 m 1,20,-1
+ 161 585 l 1,21,-1
+ 161 644 l 1,22,-1
+ 219 644 l 1,23,-1
+ 219 585 l 1,20,-1
+453 585 m 1,24,-1
+ 395 585 l 1,25,-1
+ 395 644 l 1,26,-1
+ 453 644 l 1,27,-1
+ 453 585 l 1,24,-1
+336 527 m 1,28,-1
+ 278 527 l 1,29,-1
+ 278 585 l 1,30,-1
+ 336 585 l 1,31,-1
+ 336 527 l 1,28,-1
+219 468 m 1,32,-1
+ 161 468 l 1,33,-1
+ 161 527 l 1,34,-1
+ 219 527 l 1,35,-1
+ 219 468 l 1,32,-1
+453 468 m 1,36,-1
+ 395 468 l 1,37,-1
+ 395 527 l 1,38,-1
+ 453 527 l 1,39,-1
+ 453 468 l 1,36,-1
+336 410 m 1,40,-1
+ 278 410 l 1,41,-1
+ 278 468 l 1,42,-1
+ 336 468 l 1,43,-1
+ 336 410 l 1,40,-1
+219 351 m 1,44,-1
+ 161 351 l 1,45,-1
+ 161 410 l 1,46,-1
+ 219 410 l 1,47,-1
+ 219 351 l 1,44,-1
+453 351 m 1,48,-1
+ 395 351 l 1,49,-1
+ 395 410 l 1,50,-1
+ 453 410 l 1,51,-1
+ 453 351 l 1,48,-1
+102 234 m 1,52,-1
+ 102 176 l 1,53,-1
+ 1052 176 l 1,54,-1
+ 1052 234 l 1,55,-1
+ 102 234 l 1,52,-1
+1052 59 m 1,56,-1
+ 1052 117 l 1,57,-1
+ 102 117 l 1,58,-1
+ 102 59 l 1,59,-1
+ 1052 59 l 1,56,-1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 25 subtable" colon f l a g colon
+EndChar
+
 StartChar: caroncomb.alt
-Encoding: 65598 -1 555
+Encoding: 65598 -1 559
 Width: 0
 GlyphClass: 4
 Flags: W

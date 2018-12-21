@@ -3,10 +3,9 @@ FontName: CheyenneSans-ExtraLightItalic
 FullName: Cheyenne Sans ExtraLight Italic
 FamilyName: Cheyenne Sans ExtraLight
 Weight: Extra-Light
-Copyright: 
 Version: 1.000; ttfautohint (v1.8.2)
 ItalicAngle: -8
-UnderlinePosition: -150
+UnderlinePosition: -200
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
@@ -15,14 +14,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
-XUID: [1021 646 1163163066 7985318]
+XUID: [1021 788 582120202 1648072]
 StyleMap: 0x0001
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1513572760
-ModificationTime: 1544464025
+ModificationTime: 1545430320
 PfmFamily: 81
 TTFWeight: 200
 TTFWidth: 5
@@ -144,7 +143,7 @@ KernClass2: 20+ 32 "'kern' Horizontal Kerning in Latin lookup 1 kerning class 1"
  1 X
  45 Y Yacute Ycircumflex Ydieresis Ygrave uni1EF8
  34 Z Zacute Zdotaccent Zcaron uni1E92
- 16 f fi fl f_f.liga
+ 7 f fi fl
  52 g gcircumflex gbreve gdotaccent gcommaaccent uni01F5
  20 hyphen endash emdash
  310 c d e o ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe uni01EB oslashacute uni0205 uni0207 uni020D uni020F uni1E0D uni1EB9 uni1EBD uni1ECD
@@ -166,7 +165,7 @@ KernClass2: 20+ 32 "'kern' Horizontal Kerning in Latin lookup 1 kerning class 1"
  1 D
  0 {} 25 {} 14 {} -4 {} -11 {} -76 {} -25 {} -51 {} -35 {} 24 {} -70 {} 8 {} -23 {} -18 {} -30 {} -7 {} -4 {} 1 {} -23 {} -8 {} -49 {} -47 {} -3 {} -23 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -11 {} -6 {} 0 {} -3 {} -25 {} 0 {} -21 {} -16 {} -21 {} -40 {} -12 {} 0 {} 0 {} -14 {} 2 {} -8 {} 0 {} 0 {} 0 {} -6 {} 0 {} 0 {} -17 {} -8 {} -2 {} 3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -64 {} -50 {} 0 {} -10 {} 23 {} 0 {} 14 {} 5 {} -4 {} 22 {} -7 {} 0 {} -12 {} -8 {} -14 {} 9 {} -12 {} -3 {} -10 {} -9 {} -4 {} -17 {} 0 {} -4 {} -10 {} 0 {} -17 {} 0 {} 0 {} 0 {} 0 {} 0 {} 2 {} 2 {} 0 {} 0 {} -47 {} 0 {} -36 {} -9 {} 0 {} -35 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} 0 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 13 {} 12 {} 0 {} -23 {} 2 {} -18 {} 5 {} 0 {} 4 {} 9 {} 0 {} -4 {} 0 {} -61 {} -27 {} 0 {} -12 {} -57 {} -27 {} -35 {} -12 {} 0 {} 0 {} 0 {} -7 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 19 {} 32 {} -20 {} 2 {} -81 {} -23 {} -63 {} -30 {} 20 {} -86 {} 17 {} 0 {} 4 {} -58 {} 0 {} -8 {} 0 {} -4 {} -4 {} -15 {} -4 {} 5 {} 0 {} 0 {} 4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} -3 {} 0 {} -21 {} -5 {} -29 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} -5 {} 0 {} 0 {} 0 {} 0 {} -1 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -1 {} -2 {} 0 {} 0 {} 0 {} -52 {} -74 {} 0 {} 25 {} -3 {} 0 {} -4 {} -3 {} -10 {} -5 {} -14 {} 7 {} -14 {} -31 {} -10 {} -2 {} -15 {} 6 {} -2 {} 20 {} 2 {} 0 {} 0 {} 0 {} -8 {} 0 {} 8 {} 0 {} 0 {} 0 {} 0 {} 0 {} 6 {} -3 {} 0 {} -21 {} -10 {} -15 {} -34 {} -5 {} 0 {} -1 {} 0 {} 0 {} 0 {} -44 {} -3 {} 0 {} 0 {} 0 {} -8 {} 0 {} 0 {} 0 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 10 {} -5 {} 0 {} 9 {} -22 {} 0 {} -10 {} -5 {} -14 {} -26 {} -4 {} 0 {} -1 {} 2 {} 4 {} -4 {} 0 {} -1 {} 0 {} -7 {} -7 {} -10 {} -3 {} -5 {} 0 {} 0 {} 0 {} 0 {} 0 {} -25 {} 4 {} 0 {} -76 {} -74 {} 0 {} -25 {} 39 {} 0 {} 27 {} 26 {} 6 {} 35 {} 9 {} 0 {} -52 {} -76 {} -67 {} 6 {} -62 {} -27 {} -52 {} -45 {} -50 {} -53 {} -45 {} -42 {} -60 {} 0 {} -57 {} 0 {} 0 {} 0 {} 0 {} 0 {} -20 {} 0 {} 0 {} 3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -48 {} 0 {} 0 {} -46 {} -51 {} 0 {} -18 {} 26 {} 0 {} 17 {} 15 {} 9 {} 33 {} 3 {} 0 {} -38 {} -46 {} -38 {} 18 {} -35 {} -7 {} -28 {} -9 {} -3 {} -15 {} 0 {} -20 {} -27 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -35 {} -33 {} -2 {} -12 {} 24 {} 0 {} 15 {} 3 {} -3 {} 23 {} -2 {} -8 {} -27 {} -22 {} -33 {} 9 {} -20 {} -3 {} -27 {} -12 {} 0 {} -9 {} 0 {} 0 {} -21 {} 0 {} -23 {} -2 {} -2 {} 0 {} 0 {} 0 {} 24 {} 22 {} 0 {} -15 {} 6 {} -10 {} 9 {} -3 {} 6 {} 12 {} 3 {} 0 {} 0 {} -45 {} 0 {} 3 {} 0 {} -11 {} -16 {} -15 {} -8 {} 3 {} 0 {} 0 {} -2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} -66 {} 0 {} -39 {} 35 {} 2 {} 33 {} 23 {} 12 {} 27 {} -4 {} -8 {} -66 {} -79 {} -43 {} 12 {} -66 {} -9 {} -55 {} -37 {} -16 {} -30 {} 0 {} -30 {} -59 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 21 {} 16 {} 0 {} -14 {} 21 {} -2 {} 7 {} 0 {} 3 {} 8 {} 15 {} 0 {} 0 {} -76 {} 0 {} 4 {} 0 {} 0 {} -2 {} -12 {} -13 {} 0 {} 0 {} 3 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -4 {} -8 {} -23 {} 0 {} 0 {} -2 {} 3 {} -1 {} 2 {} 0 {} 0 {} 0 {} 8 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 2 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 4 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 KernClass2: 24+ 25 "'kern' Horizontal Kerning in Latin lookup 1 kerning class 2"
- 10 f f_f.liga
+ 1 f
  27 k kcommaaccent kgreenlandic
  124 o ograve oacute ocircumflex otilde odieresis oslash omacron obreve ohungarumlaut uni01EB oslashacute uni020D uni020F uni1ECD
  52 r racute rcommaaccent rcaron uni0211 uni0213 uni1E5B
@@ -191,7 +190,7 @@ KernClass2: 24+ 25 "'kern' Horizontal Kerning in Latin lookup 1 kerning class 2"
  1 u
  1 z
  108 a agrave aacute acircumflex atilde adieresis aring amacron abreve aogonek aringacute aeacute uni0201 uni0203
- 16 f fi fl f_f.liga
+ 7 f fi fl
  52 g gcircumflex gbreve gdotaccent gcommaaccent uni01F5
  20 hyphen endash emdash
  310 c d e o ccedilla egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis oslash cacute ccircumflex cdotaccent ccaron dcaron dcroat emacron ebreve edotaccent eogonek ecaron omacron obreve ohungarumlaut oe uni01EB oslashacute uni0205 uni0207 uni020D uni020F uni1E0D uni1EB9 uni1EBD uni1ECD
@@ -4136,9 +4135,9 @@ EndShort
 ShortTable: maxp 16
   1
   0
-  560
-  95
-  15
+  556
+  93
+  7
   0
   0
   2
@@ -4147,7 +4146,7 @@ ShortTable: maxp 16
   141
   0
   257
-  3605
+  418
   0
   0
 EndShort
@@ -4159,11 +4158,9 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 7
-BeginPrivate: 0
-EndPrivate
+WinInfo: 20 20 7
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 2 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 3 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 3 subtable"
-BeginChars: 65599 556
+BeginChars: 65595 556
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -5111,7 +5108,7 @@ StartChar: parenright
 Encoding: 41 41 12
 Width: 286
 GlyphClass: 2
-Flags: WO
+Flags: W
 TtInstrs:
 NPUSHB
  16
@@ -5136,17 +5133,17 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-115.400390625 56.5 m 128,-1,1
- 163.400390625 172 163.400390625 172 179.400390625 285 c 0,2,3
- 194.400390625 395 194.400390625 395 182.900390625 502 c 128,-1,4
- 171.400390625 609 171.400390625 609 133.400390625 723 c 1,5,-1
- 175.400390625 723 l 1,6,7
- 226.400390625 609 226.400390625 609 244.900390625 506.5 c 128,-1,8
- 263.400390625 404 263.400390625 404 246.400390625 284 c 0,9,10
- 229.400390625 166 229.400390625 166 174.900390625 51 c 128,-1,11
- 120.400390625 -64 120.400390625 -64 40.400390625 -161 c 1,12,-1
- -1.599609375 -161 l 1,13,0
- 67.400390625 -59 67.400390625 -59 115.400390625 56.5 c 128,-1,1
+115 56.5 m 128,-1,1
+ 163 172 163 172 179 285 c 0,2,3
+ 194 395 194 395 182.5 502 c 128,-1,4
+ 171 609 171 609 133 723 c 1,5,-1
+ 175 723 l 1,6,7
+ 226 609 226 609 244.5 506.5 c 128,-1,8
+ 263 404 263 404 246 284 c 0,9,10
+ 229 166 229 166 174.5 51 c 128,-1,11
+ 120 -64 120 -64 40 -161 c 1,12,-1
+ -2 -161 l 1,13,0
+ 67 -59 67 -59 115 56.5 c 128,-1,1
 EndSplineSet
 EndChar
 
@@ -6059,39 +6056,39 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-518 705.5 m 128,-1,1
- 567 671 567 671 582 616 c 1,2,-1
- 527 590 l 1,3,4
- 502 636 502 636 472.5 659.5 c 128,-1,5
- 443 683 443 683 384 683 c 0,6,7
- 283 683 283 683 215 594.5 c 128,-1,8
- 147 506 147 506 123 337 c 0,9,10
- 119 309 119 309 118 295 c 1,11,12
- 145 359 145 359 206 397.5 c 128,-1,13
- 267 436 267 436 339 436 c 128,-1,14
- 411 436 411 436 458 407 c 128,-1,15
- 505 378 505 378 524 328.5 c 128,-1,16
- 543 279 543 279 535 218 c 0,17,18
- 526 151 526 151 487.5 101 c 128,-1,19
- 449 51 449 51 391.5 24 c 128,-1,20
- 334 -3 334 -3 266 -3 c 0,21,22
- 143 -3 143 -3 87 92 c 128,-1,23
- 31 187 31 187 55 359 c 0,24,25
- 72 477 72 477 117.5 563 c 128,-1,26
- 163 649 163 649 233 694.5 c 128,-1,27
- 303 740 303 740 391 740 c 0,28,0
- 469 740 469 740 518 705.5 c 128,-1,1
-193 340 m 128,-1,30
- 135 301 135 301 126 234 c 1,31,32
- 129 144 129 144 167.5 99 c 128,-1,33
- 206 54 206 54 275 54 c 0,34,35
- 323 54 323 54 364 74.5 c 128,-1,36
- 405 95 405 95 432 132 c 128,-1,37
- 459 169 459 169 465 215 c 0,38,39
- 471 260 471 260 457 297 c 128,-1,40
- 443 334 443 334 409.5 356.5 c 128,-1,41
- 376 379 376 379 327 379 c 0,42,29
- 251 379 251 379 193 340 c 128,-1,30
+518 698.5 m 128,-1,1
+ 567 664 567 664 582 609 c 1,2,-1
+ 527 583 l 1,3,4
+ 502 629 502 629 472.5 652.5 c 128,-1,5
+ 443 676 443 676 384 676 c 0,6,7
+ 283 676 283 676 215 587.5 c 128,-1,8
+ 147 499 147 499 123 330 c 0,9,10
+ 119 302 119 302 118 288 c 1,11,12
+ 145 352 145 352 206 390.5 c 128,-1,13
+ 267 429 267 429 339 429 c 128,-1,14
+ 411 429 411 429 458 400 c 128,-1,15
+ 505 371 505 371 524 321.5 c 128,-1,16
+ 543 272 543 272 535 211 c 0,17,18
+ 526 144 526 144 487.5 94 c 128,-1,19
+ 449 44 449 44 391.5 17 c 128,-1,20
+ 334 -10 334 -10 266 -10 c 0,21,22
+ 143 -10 143 -10 87 85 c 128,-1,23
+ 31 180 31 180 55 352 c 0,24,25
+ 72 470 72 470 117.5 556 c 128,-1,26
+ 163 642 163 642 233 687.5 c 128,-1,27
+ 303 733 303 733 391 733 c 0,28,0
+ 469 733 469 733 518 698.5 c 128,-1,1
+193 333 m 128,-1,30
+ 135 294 135 294 126 227 c 1,31,32
+ 129 137 129 137 167.5 92 c 128,-1,33
+ 206 47 206 47 275 47 c 0,34,35
+ 323 47 323 47 364 67.5 c 128,-1,36
+ 405 88 405 88 432 125 c 128,-1,37
+ 459 162 459 162 465 208 c 0,38,39
+ 471 253 471 253 457 290 c 128,-1,40
+ 443 327 443 327 409.5 349.5 c 128,-1,41
+ 376 372 376 372 327 372 c 0,42,29
+ 251 372 251 372 193 333 c 128,-1,30
 EndSplineSet
 Substitution2: "'onum' Oldstyle Figures in Latin lookup 24 subtable" six.osf
 Substitution2: "'tnum' Tabular Numbers in Latin lookup 23 subtable" six.tf
@@ -62093,7 +62090,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.osf
-Encoding: 65542 -1 502
+Encoding: 65541 -1 502
 Width: 627
 GlyphClass: 2
 Flags: W
@@ -62175,7 +62172,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" zero
 EndChar
 
 StartChar: one.osf
-Encoding: 65543 -1 503
+Encoding: 65542 -1 503
 Width: 374
 GlyphClass: 2
 Flags: W
@@ -62224,7 +62221,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" one
 EndChar
 
 StartChar: two.osf
-Encoding: 65544 -1 504
+Encoding: 65543 -1 504
 Width: 561
 GlyphClass: 2
 Flags: W
@@ -62301,7 +62298,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two
 EndChar
 
 StartChar: three.osf
-Encoding: 65545 -1 505
+Encoding: 65544 -1 505
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -62408,7 +62405,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" three
 EndChar
 
 StartChar: four.osf
-Encoding: 65546 -1 506
+Encoding: 65545 -1 506
 Width: 615
 GlyphClass: 2
 Flags: W
@@ -62491,7 +62488,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" four
 EndChar
 
 StartChar: five.osf
-Encoding: 65547 -1 507
+Encoding: 65546 -1 507
 Width: 638
 GlyphClass: 2
 Flags: W
@@ -62595,7 +62592,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five
 EndChar
 
 StartChar: six.osf
-Encoding: 65548 -1 508
+Encoding: 65547 -1 508
 Width: 601
 GlyphClass: 2
 Flags: W
@@ -62709,7 +62706,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six
 EndChar
 
 StartChar: seven.osf
-Encoding: 65549 -1 509
+Encoding: 65548 -1 509
 Width: 567
 GlyphClass: 2
 Flags: W
@@ -62768,7 +62765,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven
 EndChar
 
 StartChar: eight.osf
-Encoding: 65550 -1 510
+Encoding: 65549 -1 510
 Width: 614
 GlyphClass: 2
 Flags: W
@@ -62881,7 +62878,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight
 EndChar
 
 StartChar: nine.osf
-Encoding: 65551 -1 511
+Encoding: 65550 -1 511
 Width: 601
 GlyphClass: 2
 Flags: W
@@ -62996,7 +62993,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" nine
 EndChar
 
 StartChar: zero.tf
-Encoding: 65552 -1 512
+Encoding: 65551 -1 512
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63077,7 +63074,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" zero
 EndChar
 
 StartChar: one.tf
-Encoding: 65553 -1 513
+Encoding: 65552 -1 513
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -63144,7 +63141,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" one
 EndChar
 
 StartChar: two.tf
-Encoding: 65554 -1 514
+Encoding: 65553 -1 514
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63220,7 +63217,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" two
 EndChar
 
 StartChar: three.tf
-Encoding: 65555 -1 515
+Encoding: 65554 -1 515
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63326,7 +63323,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" three
 EndChar
 
 StartChar: four.tf
-Encoding: 65556 -1 516
+Encoding: 65555 -1 516
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63408,7 +63405,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" four
 EndChar
 
 StartChar: five.tf
-Encoding: 65557 -1 517
+Encoding: 65556 -1 517
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63511,7 +63508,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" five
 EndChar
 
 StartChar: six.tf
-Encoding: 65558 -1 518
+Encoding: 65557 -1 518
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63625,7 +63622,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" six
 EndChar
 
 StartChar: seven.tf
-Encoding: 65559 -1 519
+Encoding: 65558 -1 519
 Width: 693
 GlyphClass: 2
 Flags: W
@@ -63682,7 +63679,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" seven
 EndChar
 
 StartChar: eight.tf
-Encoding: 65560 -1 520
+Encoding: 65559 -1 520
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63795,7 +63792,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" eight
 EndChar
 
 StartChar: nine.tf
-Encoding: 65561 -1 521
+Encoding: 65560 -1 521
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -63909,7 +63906,7 @@ AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" nine
 EndChar
 
 StartChar: zero.subs
-Encoding: 65562 -1 522
+Encoding: 65561 -1 522
 Width: 405
 GlyphClass: 2
 Flags: W
@@ -64020,7 +64017,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.subs
-Encoding: 65563 -1 523
+Encoding: 65562 -1 523
 Width: 291
 GlyphClass: 2
 Flags: W
@@ -64066,7 +64063,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.subs
-Encoding: 65564 -1 524
+Encoding: 65563 -1 524
 Width: 373
 GlyphClass: 2
 Flags: W
@@ -64138,7 +64135,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.subs
-Encoding: 65565 -1 525
+Encoding: 65564 -1 525
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -64234,7 +64231,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.subs
-Encoding: 65566 -1 526
+Encoding: 65565 -1 526
 Width: 405
 GlyphClass: 2
 Flags: W
@@ -64314,7 +64311,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.subs
-Encoding: 65567 -1 527
+Encoding: 65566 -1 527
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -64412,7 +64409,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.subs
-Encoding: 65568 -1 528
+Encoding: 65567 -1 528
 Width: 393
 GlyphClass: 2
 Flags: W
@@ -64516,7 +64513,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.subs
-Encoding: 65569 -1 529
+Encoding: 65568 -1 529
 Width: 355
 GlyphClass: 2
 Flags: W
@@ -64570,7 +64567,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.subs
-Encoding: 65570 -1 530
+Encoding: 65569 -1 530
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -64677,7 +64674,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.subs
-Encoding: 65571 -1 531
+Encoding: 65570 -1 531
 Width: 393
 GlyphClass: 2
 Flags: W
@@ -64868,7 +64865,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.dnom
-Encoding: 65572 -1 532
+Encoding: 65571 -1 532
 Width: 406
 GlyphClass: 2
 Flags: W
@@ -64941,7 +64938,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.dnom
-Encoding: 65573 -1 533
+Encoding: 65572 -1 533
 Width: 291
 GlyphClass: 2
 Flags: W
@@ -64987,7 +64984,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.dnom
-Encoding: 65574 -1 534
+Encoding: 65573 -1 534
 Width: 373
 GlyphClass: 2
 Flags: W
@@ -65059,7 +65056,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.dnom
-Encoding: 65575 -1 535
+Encoding: 65574 -1 535
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -65155,7 +65152,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.dnom
-Encoding: 65576 -1 536
+Encoding: 65575 -1 536
 Width: 405
 GlyphClass: 2
 Flags: W
@@ -65235,7 +65232,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.dnom
-Encoding: 65577 -1 537
+Encoding: 65576 -1 537
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -65333,7 +65330,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.dnom
-Encoding: 65578 -1 538
+Encoding: 65577 -1 538
 Width: 394
 GlyphClass: 2
 Flags: W
@@ -65437,7 +65434,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.dnom
-Encoding: 65579 -1 539
+Encoding: 65578 -1 539
 Width: 355
 GlyphClass: 2
 Flags: W
@@ -65491,7 +65488,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.dnom
-Encoding: 65580 -1 540
+Encoding: 65579 -1 540
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -65598,7 +65595,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.dnom
-Encoding: 65581 -1 541
+Encoding: 65580 -1 541
 Width: 394
 GlyphClass: 2
 Flags: W
@@ -65702,7 +65699,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.numr
-Encoding: 65582 -1 542
+Encoding: 65581 -1 542
 Width: 406
 GlyphClass: 2
 Flags: W
@@ -65776,7 +65773,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.dn
 EndChar
 
 StartChar: one.numr
-Encoding: 65583 -1 543
+Encoding: 65582 -1 543
 Width: 294
 GlyphClass: 2
 Flags: W
@@ -65824,7 +65821,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one.dno
 EndChar
 
 StartChar: two.numr
-Encoding: 65584 -1 544
+Encoding: 65583 -1 544
 Width: 374
 GlyphClass: 2
 Flags: W
@@ -65894,7 +65891,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" two.dno
 EndChar
 
 StartChar: three.numr
-Encoding: 65585 -1 545
+Encoding: 65584 -1 545
 Width: 388
 GlyphClass: 2
 Flags: W
@@ -65993,7 +65990,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" three.d
 EndChar
 
 StartChar: four.numr
-Encoding: 65586 -1 546
+Encoding: 65585 -1 546
 Width: 406
 GlyphClass: 2
 Flags: W
@@ -66111,7 +66108,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" four.dn
 EndChar
 
 StartChar: five.numr
-Encoding: 65587 -1 547
+Encoding: 65586 -1 547
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -66210,7 +66207,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" five.dn
 EndChar
 
 StartChar: six.numr
-Encoding: 65588 -1 548
+Encoding: 65587 -1 548
 Width: 394
 GlyphClass: 2
 Flags: W
@@ -66315,7 +66312,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" six.dno
 EndChar
 
 StartChar: seven.numr
-Encoding: 65589 -1 549
+Encoding: 65588 -1 549
 Width: 355
 GlyphClass: 2
 Flags: W
@@ -66371,7 +66368,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" seven.d
 EndChar
 
 StartChar: eight.numr
-Encoding: 65590 -1 550
+Encoding: 65589 -1 550
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -66479,7 +66476,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" eight.d
 EndChar
 
 StartChar: nine.numr
-Encoding: 65591 -1 551
+Encoding: 65590 -1 551
 Width: 394
 GlyphClass: 2
 Flags: W
@@ -66627,7 +66624,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nine.dn
 EndChar
 
 StartChar: comma.tf
-Encoding: 65592 -1 552
+Encoding: 65591 -1 552
 Width: 285
 GlyphClass: 2
 Flags: W
@@ -66675,7 +66672,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" comma
 EndChar
 
 StartChar: period.tf
-Encoding: 65593 -1 553
+Encoding: 65592 -1 553
 Width: 285
 GlyphClass: 2
 Flags: W
@@ -66714,7 +66711,7 @@ Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" period
 EndChar
 
 StartChar: bullet.uc
-Encoding: 65594 -1 554
+Encoding: 65593 -1 554
 Width: 302
 GlyphClass: 2
 Flags: W
@@ -66766,7 +66763,7 @@ EndSplineSet
 EndChar
 
 StartChar: caroncomb.alt
-Encoding: 65598 -1 555
+Encoding: 65594 -1 555
 Width: 0
 GlyphClass: 4
 Flags: W
