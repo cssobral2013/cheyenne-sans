@@ -1,0 +1,61 @@
+{
+glyphname = Ecaron;
+layers = (
+{
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (158,212);
+ref = caroncomb;
+}
+);
+width = 648;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{305, 0}";
+},
+{
+name = ogonek;
+position = "{513, 10}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (203,212);
+ref = caroncomb;
+}
+);
+width = 611;
+},
+{
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (224,212);
+ref = caroncomb;
+}
+);
+width = 594;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = E;
+unicode = 282;
+}

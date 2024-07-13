@@ -1,0 +1,79 @@
+{
+glyphname = Abrevetilde;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{504, 958}";
+}
+);
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (179,210);
+ref = brevecomb_tildecomb;
+}
+);
+width = 739;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{602, 10}";
+},
+{
+name = topviet;
+position = "{373, 930}";
+},
+{
+name = top;
+position = "{450, 1117}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (190,227);
+ref = brevecomb_tildecomb;
+}
+);
+width = 661;
+},
+{
+anchors = (
+{
+name = top;
+position = "{445, 941}";
+}
+);
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (216,210);
+ref = brevecomb_tildecomb;
+}
+);
+width = 626;
+}
+);
+leftKerningGroup = A2;
+rightKerningGroup = A;
+unicode = 7860;
+}

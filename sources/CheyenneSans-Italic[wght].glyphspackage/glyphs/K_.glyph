@@ -1,0 +1,170 @@
+{
+glyphname = K;
+leftMetricsKey = N;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{323, 0}";
+},
+{
+name = top;
+position = "{427, 742}";
+}
+);
+guides = (
+{
+angle = 54.499;
+position = "{774, 742}";
+},
+{
+angle = 297.12;
+position = "{306, 313}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (742,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (-156,1);
+type = Stem;
+}
+);
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,458,l),
+(774,742,l),
+(549,742,l),
+(293,442,l),
+(335,742,l),
+(128,742,l),
+(24,0,l),
+(231,0,l),
+(258,194,l),
+(367,313,l),
+(488,0,l),
+(703,0,l)
+);
+}
+);
+width = 749;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{301, 0}";
+},
+{
+name = top;
+position = "{421, 742}";
+}
+);
+guides = (
+{
+angle = 54.499;
+position = "{774, 742}";
+},
+{
+angle = 297.12;
+position = "{306, 313}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (742,-20);
+target = down;
+type = TopGhost;
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(402.7,450,l),
+(683.697,742,l),
+(576.512,742,l),
+(197.987,354,l),
+(251.097,742,l),
+(160.328,742,l),
+(59.903,0,l),
+(150.672,0,l),
+(181.572,233,l),
+(330.278,383,l),
+(503.125,0,l),
+(602.584,0,l)
+);
+}
+);
+width = 668;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{291, 0}";
+},
+{
+name = top;
+position = "{418, 742}";
+}
+);
+guides = (
+{
+angle = 115.259;
+position = "{509, 0}";
+},
+{
+angle = 224.78;
+position = "{687, 785}";
+}
+);
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+closed = 1;
+nodes = (
+(346.8,447,l),
+(643.2,742,l),
+(588.1,742,l),
+(156.8,314,l),
+(213.8,742,l),
+(173.9,742,l),
+(75.1,0,l),
+(115.,0,l),
+(148.25,250,l),
+(313.55,415,l),
+(509.25,0,l),
+(558.65,0,l)
+);
+}
+);
+width = 631;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = K;
+unicode = 75;
+}

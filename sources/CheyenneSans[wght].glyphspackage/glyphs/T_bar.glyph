@@ -1,0 +1,90 @@
+{
+glyphname = Tbar;
+leftMetricsKey = T;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,422,l),
+(116,281,l),
+(554,281,l),
+(554,422,l)
+);
+},
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 633;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{302, 0}";
+},
+{
+name = top;
+position = "{302, 742}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{287, 0}";
+showMeasurement = 1;
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,408,l),
+(134,335,l),
+(522,335,l),
+(522,408,l)
+);
+},
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 582;
+},
+{
+guides = (
+{
+angle = 90;
+position = "{287, 0}";
+showMeasurement = 1;
+}
+);
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+closed = 1;
+nodes = (
+(142,402,l),
+(142,360,l),
+(508,360,l),
+(508,402,l)
+);
+},
+{
+alignment = -1;
+ref = T;
+}
+);
+width = 559;
+}
+);
+leftKerningGroup = T2;
+rightKerningGroup = T;
+unicode = 358;
+}

@@ -1,4 +1,8 @@
-Copyright (C) 2011-2018 The Montserrat Project Authors (github.com/JulietaUla/Montserrat) and (C) 2018 Cristiano Sobral (cssobral2013@gmail.com).
+﻿Copyright (c) 2015, Impallari Type (www.impallari.com)
+Copyright 2020 The Public Sans Project Authors (https://github.com/uswds/public-sans)
+Copyright 2011 The Roboto Flex Project Authors (https://github.com/googlefonts/roboto-flex)
+Copyright 2024 The General Gothic Project Authors (https://github.com/barrymieny/general-gothic)
+Copyright 2018 The Cheyenne Sans Project Authors
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Thin.woff2') format('woff2'),
+        url('web/CheyenneSans-Thin.woff') format('woff'),
+        url('ttf/CheyenneSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-ThinItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-ThinItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-ExtraLight.woff2') format('woff2'),
+        url('web/CheyenneSans-ExtraLight.woff') format('woff'),
+        url('ttf/CheyenneSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-ExtraLightItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-ExtraLightItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Light.woff2') format('woff2'),
+        url('web/CheyenneSans-Light.woff') format('woff'),
+        url('ttf/CheyenneSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-LightItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-LightItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Regular.woff2') format('woff2'),
+        url('web/CheyenneSans-Regular.woff') format('woff'),
+        url('ttf/CheyenneSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Italic.woff2') format('woff2'),
+        url('web/CheyenneSans-Italic.woff') format('woff'),
+        url('ttf/CheyenneSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Medium.woff2') format('woff2'),
+        url('web/CheyenneSans-Medium.woff') format('woff'),
+        url('ttf/CheyenneSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-MediumItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-MediumItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-SemiBold.woff2') format('woff2'),
+        url('web/CheyenneSans-SemiBold.woff') format('woff'),
+        url('ttf/CheyenneSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-SemiBoldItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-SemiBoldItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-Bold.woff2') format('woff2'),
+        url('web/CheyenneSans-Bold.woff') format('woff'),
+        url('ttf/CheyenneSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-BoldItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-BoldItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-ExtraBold.woff2') format('woff2'),
+        url('web/CheyenneSans-ExtraBold.woff') format('woff'),
+        url('ttf/CheyenneSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cheyenne Sans';
+    src: url('web/CheyenneSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/CheyenneSans-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/CheyenneSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}

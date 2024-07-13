@@ -1,0 +1,42 @@
+{
+glyphname = six.dnom;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+pos = (-22,-5);
+ref = six;
+scale = (0.629,0.629);
+}
+);
+width = 414;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+pos = (-24,-5);
+ref = six;
+scale = (0.629,0.629);
+}
+);
+width = 400;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+pos = (-25,-5);
+ref = six;
+scale = (0.629,0.629);
+}
+);
+width = 394;
+}
+);
+unicode = 60705;
+}

@@ -1,0 +1,51 @@
+{
+glyphname = jcircumflex;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+pos = (-68,0);
+ref = circumflexcomb;
+}
+);
+width = 293;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+alignment = -1;
+pos = (-41,0);
+ref = circumflexcomb;
+}
+);
+width = 244;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = jdotless;
+},
+{
+pos = (-29,0);
+ref = circumflexcomb;
+}
+);
+width = 222;
+}
+);
+leftKerningGroup = j;
+rightKerningGroup = d;
+unicode = 309;
+}

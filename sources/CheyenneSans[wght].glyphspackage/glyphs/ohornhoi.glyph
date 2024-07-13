@@ -1,0 +1,56 @@
+{
+glyphname = ohornhoi;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = hookabovecomb;
+},
+{
+alignment = -1;
+pos = (2,0);
+ref = ohorn;
+}
+);
+width = 691;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+pos = (-28,-9);
+ref = hookabovecomb;
+},
+{
+alignment = -1;
+pos = (3,0);
+ref = ohorn;
+}
+);
+width = 622;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+pos = (-39,-13);
+ref = hookabovecomb;
+},
+{
+alignment = -1;
+pos = (3,0);
+ref = ohorn;
+}
+);
+width = 590;
+}
+);
+leftKerningGroup = c;
+rightKerningGroup = ohorn;
+unicode = 7903;
+}

@@ -1,0 +1,71 @@
+{
+glyphname = ldot;
+leftMetricsKey = l;
+rightMetricsKey = "=-3";
+layers = (
+{
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (261,-86);
+ref = periodcentered;
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{91, 0}";
+},
+{
+name = top;
+position = "{201, 783}";
+},
+{
+name = topright;
+position = "{370, 755}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+rightMetricsKey = "=2";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (195,-78);
+ref = periodcentered;
+}
+);
+width = 363;
+},
+{
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+rightMetricsKey = "=4";
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (165,-75);
+ref = periodcentered;
+}
+);
+width = 301;
+}
+);
+leftKerningGroup = b2;
+rightKerningGroup = l;
+unicode = 320;
+}

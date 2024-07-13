@@ -1,0 +1,65 @@
+{
+glyphname = LJ;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (611,0);
+ref = J;
+}
+);
+width = 1029;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{315, 0}";
+},
+{
+name = top;
+position = "{835, 742}";
+},
+{
+name = topright;
+position = "{444, 742}";
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (601,0);
+ref = J;
+}
+);
+width = 978;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (597,0);
+ref = J;
+}
+);
+width = 955;
+}
+);
+unicode = 455;
+}

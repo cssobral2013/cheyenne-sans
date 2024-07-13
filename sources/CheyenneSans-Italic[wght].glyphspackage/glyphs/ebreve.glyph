@@ -1,0 +1,69 @@
+{
+glyphname = ebreve;
+layers = (
+{
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+pos = (74,0);
+ref = brevecomb;
+}
+);
+width = 585;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{237, 0}";
+},
+{
+name = ogonek;
+position = "{348, 21}";
+},
+{
+name = top;
+position = "{331, 699}";
+},
+{
+name = topviet;
+position = "{283, 718}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (113,0);
+ref = brevecomb;
+}
+);
+width = 547;
+},
+{
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+pos = (131,0);
+ref = brevecomb;
+}
+);
+width = 530;
+}
+);
+leftKerningGroup = c;
+rightKerningGroup = b;
+unicode = 277;
+}

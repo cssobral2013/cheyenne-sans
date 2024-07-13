@@ -1,0 +1,43 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+pos = (332,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 342;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+pos = (294,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 307;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+pos = (276,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 291;
+}
+);
+leftKerningGroup = question;
+unicode = 41;
+}

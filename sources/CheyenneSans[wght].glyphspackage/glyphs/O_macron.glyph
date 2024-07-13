@@ -1,0 +1,61 @@
+{
+glyphname = Omacron;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (163,212);
+ref = macroncomb;
+}
+);
+width = 758;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{369, 0}";
+},
+{
+name = ogonek;
+position = "{445, 9}";
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (207,212);
+ref = macroncomb;
+}
+);
+width = 733;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+pos = (227,212);
+ref = macroncomb;
+}
+);
+width = 722;
+}
+);
+leftKerningGroup = C2;
+rightKerningGroup = O;
+unicode = 332;
+}

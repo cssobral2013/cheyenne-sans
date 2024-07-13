@@ -1,0 +1,84 @@
+{
+glyphname = circumflexcomb_hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{251, 530}";
+},
+{
+name = topviet;
+position = "{396, 664}";
+}
+);
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+pos = (90,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (167,101);
+ref = hookabovecomb;
+}
+);
+width = 1026;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{199, 530}";
+},
+{
+name = topviet;
+position = "{325, 682}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+alignment = -1;
+pos = (120,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (103,117);
+ref = hookabovecomb;
+}
+);
+width = 903;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{175, 530}";
+},
+{
+name = topviet;
+position = "{293, 690}";
+}
+);
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+alignment = -1;
+pos = (130,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (88,104);
+ref = hookabovecomb;
+}
+);
+width = 847;
+}
+);
+unicode = 60744;
+}

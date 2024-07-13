@@ -1,0 +1,69 @@
+{
+glyphname = Etilde;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (155,212);
+ref = tildecomb;
+}
+);
+width = 648;
+},
+{
+anchors = (
+{
+name = _t.uni0308;
+position = "{362, 743}";
+},
+{
+name = bottom;
+position = "{352, 0}";
+},
+{
+name = ogonek;
+position = "{565, 10}";
+},
+{
+name = top;
+position = "{339, 742}";
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (193,212);
+ref = tildecomb;
+}
+);
+width = 611;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (210,212);
+ref = tildecomb;
+}
+);
+width = 594;
+}
+);
+leftKerningGroup = B;
+rightKerningGroup = E;
+unicode = 7868;
+}

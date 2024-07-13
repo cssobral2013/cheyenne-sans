@@ -1,0 +1,89 @@
+{
+glyphname = Uhornhoi;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+closed = 0;
+nodes = (
+(109,78,l),
+(151,22,o),
+(225,-10,o),
+(344,-10,cs),
+(462,-10,o),
+(547,22,o),
+(606,78,c)
+);
+},
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (94,200);
+ref = hookabovecomb;
+}
+);
+width = 917;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+closed = 0;
+nodes = (
+(134,60,l),
+(168,14,o),
+(228,-10,o),
+(319,-10,cs),
+(408,-10,o),
+(475,14,o),
+(524,59,c)
+);
+},
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (57,191);
+ref = hookabovecomb;
+}
+);
+width = 789;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+closed = 0;
+nodes = (
+(145,52,l),
+(176,10,o),
+(229,-10,o),
+(307,-10,cs),
+(383,-10,o),
+(442,10,o),
+(486,50,c)
+);
+},
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (40,187);
+ref = hookabovecomb;
+}
+);
+width = 731;
+}
+);
+leftKerningGroup = U;
+rightKerningGroup = Uhorn;
+unicode = 7916;
+}

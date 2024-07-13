@@ -1,0 +1,51 @@
+{
+glyphname = ycircumflex;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+pos = (92,0);
+ref = circumflexcomb;
+}
+);
+width = 576;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (102,0);
+ref = circumflexcomb;
+}
+);
+width = 517;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+pos = (107,0);
+ref = circumflexcomb;
+}
+);
+width = 490;
+}
+);
+leftKerningGroup = v2;
+rightKerningGroup = v;
+unicode = 375;
+}

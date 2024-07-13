@@ -1,0 +1,51 @@
+{
+glyphname = tonoscomb;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,615,l),
+(330,825,l),
+(175,852,l),
+(134,641,l)
+);
+}
+);
+width = 445;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,604,l),
+(287,799,l),
+(207,811,l),
+(164,616,l)
+);
+}
+);
+width = 440;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,599,l),
+(267,787,l),
+(221,793,l),
+(177,605,l)
+);
+}
+);
+width = 438;
+}
+);
+unicode = 60788;
+}

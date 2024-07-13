@@ -1,0 +1,51 @@
+{
+glyphname = acutecomb.viet;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,593,l),
+(99,593,l),
+(225,735,l),
+(86,735,l)
+);
+}
+);
+width = 231;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,593,l),
+(65,593,l),
+(166,716,l),
+(80,716,l)
+);
+}
+);
+width = 171;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,593,l),
+(49,593,l),
+(139,708,l),
+(77,708,l)
+);
+}
+);
+width = 144;
+}
+);
+unicode = 60743;
+}

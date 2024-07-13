@@ -1,0 +1,57 @@
+{
+glyphname = gjecyr.locl;
+layers = (
+{
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+alignment = -1;
+ref = gecyr.locl;
+},
+{
+alignment = -1;
+pos = (128,221);
+ref = acutecomb;
+}
+);
+width = 567;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{293, 696}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+alignment = -1;
+ref = gecyr.locl;
+},
+{
+alignment = -1;
+pos = (118,166);
+ref = acutecomb;
+}
+);
+width = 506;
+},
+{
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+alignment = -1;
+ref = gecyr.locl;
+},
+{
+alignment = -1;
+pos = (114,141);
+ref = acutecomb;
+}
+);
+width = 478;
+}
+);
+unicode = 60768;
+}

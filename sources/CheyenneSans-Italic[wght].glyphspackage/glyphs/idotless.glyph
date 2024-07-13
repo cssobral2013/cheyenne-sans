@@ -1,0 +1,81 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = ogonek;
+position = "{186, 9}";
+},
+{
+name = top;
+position = "{191, 530}";
+}
+);
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,530,l),
+(17,0,l),
+(217,0,l),
+(292,530,l)
+);
+}
+);
+width = 309;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{126, 12}";
+},
+{
+name = top;
+position = "{167, 530}";
+}
+);
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(123.634,530,l),
+(51.212,0,l),
+(138.119,0,l),
+(211.506,530,l)
+);
+}
+);
+width = 261;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{99, 13}";
+},
+{
+name = top;
+position = "{156, 530}";
+}
+);
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+closed = 1;
+nodes = (
+(136.85,530,l),
+(65.6,0,l),
+(103.6,0,l),
+(175.8,530,l)
+);
+}
+);
+width = 239;
+}
+);
+unicode = 305;
+}

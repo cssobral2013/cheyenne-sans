@@ -1,0 +1,67 @@
+{
+glyphname = trademark;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = T;
+scale = (0.625,0.625);
+},
+{
+alignment = -1;
+pos = (396,0);
+ref = M;
+scale = (0.625,0.625);
+}
+);
+width = 991;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{189, 0}";
+},
+{
+name = top;
+position = "{189, 464}";
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = T;
+scale = (0.625,0.625);
+},
+{
+alignment = -1;
+pos = (364,0);
+ref = M;
+scale = (0.625,0.625);
+}
+);
+width = 928;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = T;
+scale = (0.625,0.625);
+},
+{
+alignment = -1;
+pos = (349,0);
+ref = M;
+scale = (0.625,0.625);
+}
+);
+width = 899;
+}
+);
+unicode = 8482;
+}

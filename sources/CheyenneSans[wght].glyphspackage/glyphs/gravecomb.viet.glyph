@@ -1,0 +1,51 @@
+{
+glyphname = gravecomb.viet;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-5,735,l),
+(119,593,l),
+(215,593,l),
+(135,735,l)
+);
+}
+);
+width = 222;
+},
+{
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,716,l),
+(109,593,l),
+(170,593,l),
+(88,716,l)
+);
+}
+);
+width = 175;
+},
+{
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,708,l),
+(105,593,l),
+(149,593,l),
+(67,708,l)
+);
+}
+);
+width = 154;
+}
+);
+unicode = 60741;
+}

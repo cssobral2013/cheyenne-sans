@@ -1,0 +1,51 @@
+{
+glyphname = numeralsign;
+layers = (
+{
+layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(146,532,l),
+(286,774,l),
+(135,800,l),
+(47,554,l)
+);
+}
+);
+width = 317;
+},
+{
+layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,536,l),
+(240,771,l),
+(161,784,l),
+(77,549,l)
+);
+}
+);
+width = 284;
+},
+{
+layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,538,l),
+(219,770,l),
+(173,776,l),
+(90,546,l)
+);
+}
+);
+width = 269;
+}
+);
+unicode = 884;
+}

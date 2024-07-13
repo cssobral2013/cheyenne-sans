@@ -1,0 +1,64 @@
+{
+glyphname = abreve;
+layers = (
+{
+layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (82,0);
+ref = brevecomb;
+}
+);
+width = 573;
+},
+{
+anchors = (
+{
+name = ogonek;
+position = "{476, 13}";
+}
+);
+layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (121,0);
+ref = brevecomb;
+}
+);
+width = 560;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (4145,208);
+type = Stem;
+}
+);
+layerId = "D805E393-E152-47C3-85A8-40A980112221";
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+pos = (139,0);
+ref = brevecomb;
+}
+);
+width = 554;
+}
+);
+leftKerningGroup = a2;
+rightKerningGroup = a;
+unicode = 259;
+}
