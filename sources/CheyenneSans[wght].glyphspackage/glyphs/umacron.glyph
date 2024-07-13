@@ -2,7 +2,7 @@
 glyphname = umacron;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "38A2506C-8C6B-4C1A-928A-637D44C5F8C6";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +26,7 @@ name = ogonek;
 position = "{502, 11}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "3FA54210-D6F7-47FB-8834-FC9F399F68A4";
 shapes = (
 {
 alignment = -1;
@@ -41,7 +41,7 @@ ref = macroncomb;
 width = 605;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "4817BCA7-7922-447C-A001-D5B5DE6C184E";
 shapes = (
 {
 alignment = -1;

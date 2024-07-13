@@ -150,7 +150,20 @@ with TTFont(srcPath) as font:
     font.save(woffPath)    
  
 
+srcPath  = './ttf/CheyenneSans-Black.ttf'
+woffPath = './web/CheyenneSans-Black.woff'
 
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)    
+
+    
+srcPath  = './ttf/CheyenneSans-BlackItalic.ttf'
+woffPath = './web/CheyenneSans-BlackItalic.woff'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff'
+    font.save(woffPath)  
 
 '''Generate WOFF2 from TTF or OTF font.'''
 
@@ -300,4 +313,19 @@ woff2Path = './web/CheyenneSans-ExtraBoldItalic.woff2'
 with TTFont(srcPath) as font:
     font.flavor = 'woff2'
     font.save(woff2Path)    
+
+srcPath  = './ttf/CheyenneSans-Black.ttf'
+woff2Path = './web/CheyenneSans-Black.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)    
+
+    
+srcPath  = './ttf/CheyenneSans-BlackItalic.ttf'
+woff2Path = './web/CheyenneSans-BlackItalic.woff2'
+
+with TTFont(srcPath) as font:
+    font.flavor = 'woff2'
+    font.save(woff2Path)  
 

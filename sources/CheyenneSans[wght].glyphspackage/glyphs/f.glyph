@@ -2,7 +2,39 @@
 glyphname = f;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "89EC1D19-A530-4C2D-A8F0-70B080DC8FF0";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(240,530,l),
+(240,600,ls),
+(240,647,o),
+(252,668,o),
+(295,668,cs),
+(373,668,l),
+(372,742,l),
+(268,742,ls),
+(181,742,o),
+(136,695,o),
+(136,612,cs),
+(136,530,l),
+(27,530,l),
+(27,455,l),
+(136,455,l),
+(136,0,l),
+(241,0,l),
+(241,455,l),
+(368,455,l),
+(368,530,l)
+);
+}
+);
+width = 399;
+},
+{
+layerId = "38A2506C-8C6B-4C1A-928A-637D44C5F8C6";
 shapes = (
 {
 closed = 1;
@@ -33,7 +65,7 @@ nodes = (
 width = 417;
 },
 {
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "3FA54210-D6F7-47FB-8834-FC9F399F68A4";
 shapes = (
 {
 closed = 1;
@@ -64,7 +96,7 @@ nodes = (
 width = 396;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "4817BCA7-7922-447C-A001-D5B5DE6C184E";
 shapes = (
 {
 closed = 1;

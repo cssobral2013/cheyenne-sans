@@ -1631,7 +1631,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "D805E393-E152-47C3-85A8-40A980112221";
+id = "4817BCA7-7922-447C-A001-D5B5DE6C184E";
 metricValues = (
 {
 pos = 950;
@@ -1743,7 +1743,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "B3CAD668-055B-432B-B113-C79617B62B18";
+id = "3FA54210-D6F7-47FB-8834-FC9F399F68A4";
 metricValues = (
 {
 pos = 950;
@@ -1853,7 +1853,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+id = "38A2506C-8C6B-4C1A-928A-637D44C5F8C6";
 metricValues = (
 {
 pos = 950;
@@ -1949,7 +1949,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"68068F7A-7EF1-42E2-BE0E-3FB861B397AC" = {
+"38A2506C-8C6B-4C1A-928A-637D44C5F8C6" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -3300,7 +3300,7 @@ zero.osf = {
 onehalf = 60;
 };
 };
-"B3CAD668-055B-432B-B113-C79617B62B18" = {
+"3FA54210-D6F7-47FB-8834-FC9F399F68A4" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -4355,7 +4355,7 @@ fraction = -13;
 seven.numr = -2;
 };
 };
-"D805E393-E152-47C3-85A8-40A980112221" = {
+"4817BCA7-7922-447C-A001-D5B5DE6C184E" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -5866,7 +5866,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "The CSN Sans Project Authors";
+value = "The Cheyenne Sans Project Authors";
 }
 );
 }
@@ -5874,7 +5874,7 @@ value = "The CSN Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"D805E393-E152-47C3-85A8-40A980112221" = {
+"4817BCA7-7922-447C-A001-D5B5DE6C184E" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5884,7 +5884,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"B3CAD668-055B-432B-B113-C79617B62B18" = {
+"3FA54210-D6F7-47FB-8834-FC9F399F68A4" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5894,7 +5894,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"68068F7A-7EF1-42E2-BE0E-3FB861B397AC" = {
+"38A2506C-8C6B-4C1A-928A-637D44C5F8C6" = {
 HV = 399;
 HH = 326;
 OV = 435;
@@ -5907,5 +5907,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
