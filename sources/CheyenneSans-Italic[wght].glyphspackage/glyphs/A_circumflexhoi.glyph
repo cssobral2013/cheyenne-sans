@@ -2,7 +2,7 @@
 glyphname = Acircumflexhoi;
 layers = (
 {
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "90BAD496-908C-46A8-8D40-D80AAE603430";
 shapes = (
 {
 alignment = -1;
@@ -10,11 +10,11 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (174,211);
+pos = (87,211);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 756;
+width = 739;
 },
 {
 anchors = (
@@ -27,7 +27,7 @@ name = top;
 position = "{458, 742}";
 }
 );
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "E1183961-CF0C-4334-8CD2-07F6368CCCB1";
 shapes = (
 {
 alignment = -1;
@@ -35,11 +35,11 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (194,211);
+pos = (74,211);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 756;
+width = 661;
 },
 {
 anchors = (
@@ -52,7 +52,7 @@ name = top;
 position = "{458, 742}";
 }
 );
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "24DA169B-0D71-476F-B940-6C54E096B564";
 shapes = (
 {
 alignment = -1;
@@ -60,11 +60,11 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (194,211);
+pos = (74,211);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 756;
+width = 626;
 }
 );
 leftKerningGroup = A2;

@@ -2,7 +2,8 @@
 glyphname = kacyr;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "BDB35579-B712-40ED-82E3-2B712C0B4B05";
+name = "#instance";
 shapes = (
 {
 closed = 1;
@@ -37,7 +38,42 @@ nodes = (
 width = 599;
 },
 {
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(411,0,l),
+(616,0,l),
+(375,358,l),
+(259,235,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(153,338,l),
+(153,201,l),
+(368,201,l),
+(587,528,l),
+(397,528,l),
+(276,338,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(242,528,l),
+(59,528,l),
+(59,0,l),
+(242,0,l)
+);
+}
+);
+width = 599;
+},
+{
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 closed = 1;
@@ -72,7 +108,7 @@ nodes = (
 width = 507;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 closed = 1;

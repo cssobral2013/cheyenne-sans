@@ -4,7 +4,7 @@ leftMetricsKey = l;
 rightMetricsKey = "=-3";
 layers = (
 {
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "90BAD496-908C-46A8-8D40-D80AAE603430";
 shapes = (
 {
 alignment = -1;
@@ -12,11 +12,11 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (261,-86);
+pos = (-2,-86);
 ref = periodcentered;
 }
 );
-width = 500;
+width = 252;
 },
 {
 anchors = (
@@ -33,7 +33,7 @@ name = topright;
 position = "{370, 755}";
 }
 );
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "E1183961-CF0C-4334-8CD2-07F6368CCCB1";
 rightMetricsKey = "=2";
 shapes = (
 {
@@ -49,7 +49,7 @@ ref = periodcentered;
 width = 363;
 },
 {
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "24DA169B-0D71-476F-B940-6C54E096B564";
 rightMetricsKey = "=4";
 shapes = (
 {
@@ -58,11 +58,11 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (165,-75);
+pos = (653,-75);
 ref = periodcentered;
 }
 );
-width = 301;
+width = 789;
 }
 );
 leftKerningGroup = b2;

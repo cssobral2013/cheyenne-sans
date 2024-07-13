@@ -2,7 +2,13 @@
 glyphname = circumflexcomb_gravecomb;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+anchors = (
+{
+name = _top;
+position = "{266, 530}";
+}
+);
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
 shapes = (
 {
 alignment = -1;
@@ -20,10 +26,10 @@ width = 600;
 anchors = (
 {
 name = _top;
-position = "{280, 683}";
+position = "{254, 550}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 alignment = -1;
@@ -39,7 +45,13 @@ ref = gravecomb;
 width = 586;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+anchors = (
+{
+name = _top;
+position = "{248, 580}";
+}
+);
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 alignment = -1;

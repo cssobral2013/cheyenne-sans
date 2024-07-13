@@ -2,7 +2,8 @@
 glyphname = Yukrcyr;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "BDB35579-B712-40ED-82E3-2B712C0B4B05";
+name = "#instance";
 shapes = (
 {
 closed = 1;
@@ -35,7 +36,40 @@ nodes = (
 width = 327;
 },
 {
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,0,l),
+(264,0,l),
+(264,742,l),
+(64,742,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(316,804,l),
+(316,954,l),
+(208,954,l),
+(208,804,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(117,804,l),
+(117,954,l),
+(9,954,l),
+(9,804,l)
+);
+}
+);
+width = 327;
+},
+{
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 closed = 1;
@@ -68,7 +102,7 @@ nodes = (
 width = 256;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 closed = 1;

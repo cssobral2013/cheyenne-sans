@@ -1,49 +1,10 @@
 {
 glyphname = naira;
-rightMetricsKey = "=0";
+rightMetricsKey = "=4";
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
-shapes = (
-{
-closed = 1;
-nodes = (
-(0,546,l),
-(0,455,l),
-(870,455,l),
-(870,546,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(0,306,l),
-(0,215,l),
-(870,215,l),
-(870,306,l)
-);
-},
-{
-alignment = -1;
-pos = (29,0);
-ref = N;
-}
-);
-width = 870;
-},
-{
-anchors = (
-{
-name = bottom;
-position = "{373, 0}";
-},
-{
-name = top;
-position = "{400, 742}";
-}
-);
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
-rightMetricsKey = "=4";
+layerId = "BDB35579-B712-40ED-82E3-2B712C0B4B05";
+name = "#instance";
 shapes = (
 {
 closed = 1;
@@ -64,15 +25,114 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (6,0);
-ref = N;
+closed = 1;
+nodes = (
+(586,158,l),
+(189,742,l),
+(104,742,l),
+(104,0,l),
+(194,0,l),
+(194,591,l),
+(596,0,l),
+(676,0,l),
+(676,742,l),
+(586,742,l)
+);
 }
 );
 width = 780;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
+rightMetricsKey = "=0";
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,546,l),
+(0,455,l),
+(870,455,l),
+(870,546,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(0,306,l),
+(0,215,l),
+(870,215,l),
+(870,306,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(579,328,l),
+(290,742,l),
+(89,742,l),
+(89,0,l),
+(289,0,l),
+(289,442,l),
+(598,0,l),
+(779,0,l),
+(779,742,l),
+(579,742,l)
+);
+}
+);
+width = 870;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{373, 0}";
+},
+{
+name = top;
+position = "{400, 742}";
+}
+);
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
+shapes = (
+{
+closed = 1;
+nodes = (
+(4,502,l),
+(4,447,l),
+(776,447,l),
+(776,502,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(4,317,l),
+(4,262,l),
+(776,262,l),
+(776,317,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(586,158,l),
+(189,742,l),
+(104,742,l),
+(104,0,l),
+(194,0,l),
+(194,591,l),
+(596,0,l),
+(676,0,l),
+(676,742,l),
+(586,742,l)
+);
+}
+);
+width = 780;
+},
+{
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 rightMetricsKey = "=6";
 shapes = (
 {
@@ -94,9 +154,19 @@ nodes = (
 );
 },
 {
-alignment = -1;
-pos = (-4,0);
-ref = N;
+closed = 1;
+nodes = (
+(590,80,l),
+(144,742,l),
+(111,742,l),
+(111,0,l),
+(151,0,l),
+(151,659,l),
+(595,0,l),
+(630,0,l),
+(630,742,l),
+(590,742,l)
+);
 }
 );
 width = 741;

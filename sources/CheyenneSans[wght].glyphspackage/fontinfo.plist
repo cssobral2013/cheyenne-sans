@@ -947,7 +947,6 @@ colon.tf.case,
 semicolon.tf,
 g.ss01,
 i.bgr,
-l.ss01,
 cent.tf,
 sterling.tf,
 yen.tf,
@@ -1547,7 +1546,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1555,23 +1554,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -1631,10 +1630,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "D805E393-E152-47C3-85A8-40A980112221";
+id = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -1646,7 +1645,7 @@ pos = -225;
 pos = 0;
 },
 {
-pos = 532;
+pos = 530;
 }
 );
 iconName = Light;
@@ -1659,7 +1658,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1667,23 +1666,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -1743,10 +1742,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "B3CAD668-055B-432B-B113-C79617B62B18";
+id = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -1758,7 +1757,7 @@ pos = -225;
 pos = 0;
 },
 {
-pos = 531;
+pos = 530;
 }
 );
 },
@@ -1769,7 +1768,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1777,23 +1776,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -1853,10 +1852,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+id = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -1949,7 +1948,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"68068F7A-7EF1-42E2-BE0E-3FB861B397AC" = {
+"1540E0DE-FE57-4261-A94E-F9FA77692A0A" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -3300,7 +3299,7 @@ zero.osf = {
 onehalf = 60;
 };
 };
-"B3CAD668-055B-432B-B113-C79617B62B18" = {
+"3E305E7D-236D-421F-A8CB-317BF88846FB" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -4355,7 +4354,7 @@ fraction = -13;
 seven.numr = -2;
 };
 };
-"D805E393-E152-47C3-85A8-40A980112221" = {
+"F452B146-8EC6-4823-A23F-DBB52BC37047" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -5114,7 +5113,6 @@ k = -10;
 kcommaaccent = -10;
 kgreenlandic = -10;
 l = -10;
-l.ss01 = -10;
 lacute = -10;
 lcaron = -10;
 lcommaaccent = -10;
@@ -5866,7 +5864,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "The CSN Sans Project Authors";
+value = "The Cheyenne Sans Project Authors";
 }
 );
 }
@@ -5874,7 +5872,7 @@ value = "The CSN Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"D805E393-E152-47C3-85A8-40A980112221" = {
+"F452B146-8EC6-4823-A23F-DBB52BC37047" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5884,7 +5882,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"B3CAD668-055B-432B-B113-C79617B62B18" = {
+"3E305E7D-236D-421F-A8CB-317BF88846FB" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5894,7 +5892,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"68068F7A-7EF1-42E2-BE0E-3FB861B397AC" = {
+"1540E0DE-FE57-4261-A94E-F9FA77692A0A" = {
 HV = 399;
 HH = 326;
 OV = 435;
@@ -5907,5 +5905,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }

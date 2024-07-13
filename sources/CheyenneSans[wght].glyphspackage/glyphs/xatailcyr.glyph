@@ -2,7 +2,8 @@
 glyphname = xatailcyr;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "BDB35579-B712-40ED-82E3-2B712C0B4B05";
+name = "#instance";
 shapes = (
 {
 closed = 1;
@@ -36,7 +37,41 @@ nodes = (
 width = 636;
 },
 {
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,136,l),
+(430,0,l),
+(456,0,l),
+(456,-121,l),
+(631,-121,l),
+(631,136,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(416,277,l),
+(603,531,l),
+(398,531,l),
+(314,415,l),
+(229,531,l),
+(24,531,l),
+(208,277,l),
+(5,0,l),
+(210,0,l),
+(313,141,l),
+(414,0,l),
+(620,0,l)
+);
+}
+);
+width = 636;
+},
+{
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 closed = 1;
@@ -70,7 +105,7 @@ nodes = (
 width = 585;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 closed = 1;

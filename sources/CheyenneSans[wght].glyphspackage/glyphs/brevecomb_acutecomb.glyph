@@ -2,28 +2,35 @@
 glyphname = brevecomb_acutecomb;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+anchors = (
+{
+name = _top;
+position = "{205, 530}";
+}
+);
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
 shapes = (
 {
 alignment = -1;
-pos = (-68,0);
+pos = (-7,0);
 ref = brevecomb;
 },
 {
-pos = (15,212);
+alignment = -1;
+pos = (46,212);
 ref = acutecomb;
 }
 );
-width = 600;
+width = 405;
 },
 {
 anchors = (
 {
 name = _top;
-position = "{222, 699}";
+position = "{197, 550}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 alignment = -1;
@@ -32,14 +39,20 @@ ref = brevecomb;
 },
 {
 alignment = -1;
-pos = (78,169);
+pos = (58,169);
 ref = acutecomb;
 }
 );
-width = 586;
+width = 395;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+anchors = (
+{
+name = _top;
+position = "{222, 580}";
+}
+);
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 alignment = -1;
@@ -51,7 +64,7 @@ pos = (107,149);
 ref = acutecomb;
 }
 );
-width = 580;
+width = 444;
 }
 );
 unicode = 60748;

@@ -2,7 +2,33 @@
 glyphname = Lambda;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "BDB35579-B712-40ED-82E3-2B712C0B4B05";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-4,0,l),
+(88,0,l),
+(283,584,ls),
+(292,612,o),
+(301,637,o),
+(308,663,c),
+(313,663,l),
+(320,637,o),
+(327,612,o),
+(337,584,cs),
+(532,0,l),
+(624,0,l),
+(362,741,l),
+(257,741,l)
+);
+}
+);
+width = 622;
+},
+{
+layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
 shapes = (
 {
 closed = 1;
@@ -27,7 +53,7 @@ nodes = (
 width = 630;
 },
 {
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
 shapes = (
 {
 closed = 1;
@@ -52,7 +78,7 @@ nodes = (
 width = 622;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
 shapes = (
 {
 closed = 1;
