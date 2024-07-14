@@ -2,7 +2,8 @@
 glyphname = bracketleft;
 layers = (
 {
-layerId = "1540E0DE-FE57-4261-A94E-F9FA77692A0A";
+layerId = "518E3E60-8A17-43B8-AA6F-6A390A678357";
+name = "#instance";
 shapes = (
 {
 closed = 1;
@@ -21,7 +22,26 @@ nodes = (
 width = 346;
 },
 {
-layerId = "3E305E7D-236D-421F-A8CB-317BF88846FB";
+layerId = "DE5EA8A3-D523-413E-9A5B-D5096EE99804";
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,-165,l),
+(321,-165,l),
+(321,-58,l),
+(205,-58,l),
+(205,635,l),
+(321,635,l),
+(321,742,l),
+(46,742,l)
+);
+}
+);
+width = 346;
+},
+{
+layerId = "4BA00FEB-18C1-4485-AEFE-52DBFA4CCAFA";
 shapes = (
 {
 closed = 1;
@@ -40,7 +60,7 @@ nodes = (
 width = 299;
 },
 {
-layerId = "F452B146-8EC6-4823-A23F-DBB52BC37047";
+layerId = "7819AB4F-9BC1-4589-A637-DBF7374AAEBD";
 shapes = (
 {
 closed = 1;

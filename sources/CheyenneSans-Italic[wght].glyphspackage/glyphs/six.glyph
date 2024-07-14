@@ -2,7 +2,7 @@
 glyphname = six;
 layers = (
 {
-layerId = "DE030A49-AE7C-4104-8137-1F8DB9F65EE6";
+layerId = "532EAD78-E3A3-458D-8D5D-76BDDA16C674";
 name = "#instance";
 shapes = (
 {
@@ -52,7 +52,7 @@ nodes = (
 width = 591;
 },
 {
-layerId = "90BAD496-908C-46A8-8D40-D80AAE603430";
+layerId = "7AE3EAE7-5E60-4D4F-B196-8455048EE550";
 shapes = (
 {
 closed = 1;
@@ -101,7 +101,7 @@ nodes = (
 width = 646;
 },
 {
-layerId = "E1183961-CF0C-4334-8CD2-07F6368CCCB1";
+layerId = "98A2E2AB-A518-47A0-BAB2-E4787431E873";
 shapes = (
 {
 closed = 1;
@@ -150,7 +150,7 @@ nodes = (
 width = 591;
 },
 {
-layerId = "24DA169B-0D71-476F-B940-6C54E096B564";
+layerId = "0D84DF16-5466-4685-B199-9D5CA7B8601A";
 shapes = (
 {
 closed = 1;
