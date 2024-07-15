@@ -15,15 +15,15 @@ place = (731,107);
 type = Stem;
 },
 {
-place = (831,146);
+place = (685,146);
 type = Stem;
 },
 {
-place = (1077,145);
+place = (1077,146);
 type = Stem;
 }
 );
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
 shapes = (
 {
 alignment = -1;
@@ -48,7 +48,7 @@ name = top;
 position = "{394, 742}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
 shapes = (
 {
 alignment = -1;
@@ -75,15 +75,15 @@ place = (808,30);
 type = Stem;
 },
 {
-place = (787,32);
+place = (755,32);
 type = Stem;
 },
 {
-place = (1067,31);
+place = (1036,31);
 type = Stem;
 }
 );
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
 shapes = (
 {
 alignment = -1;

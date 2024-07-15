@@ -4,73 +4,37 @@ leftMetricsKey = four;
 rightMetricsKey = four;
 layers = (
 {
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
 shapes = (
 {
-closed = 1;
-nodes = (
-(469,-210,l),
-(573,532,l),
-(392,532,l),
-(20,90,l),
-(1,-48,l),
-(603,-48,l),
-(622,91,l),
-(130,91,l),
-(123,40,l),
-(397,381,l),
-(360,381,l),
-(277,-210,l)
-);
+alignment = -1;
+pos = (-29,-212);
+ref = four;
 }
 );
-width = 691;
+width = 681;
 },
 {
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
 shapes = (
 {
-closed = 1;
-nodes = (
-(424,-210,l),
-(528,532,l),
-(434,532,l),
-(30,27,l),
-(22,-32,l),
-(573,-32,l),
-(583,40,l),
-(101,40,l),
-(96,5,l),
-(448,439,l),
-(426,439,l),
-(335,-210,l)
-);
+alignment = -1;
+pos = (-30,-212);
+ref = four;
 }
 );
-width = 679;
+width = 650;
 },
 {
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
 shapes = (
 {
-closed = 1;
-nodes = (
-(403,-210,l),
-(507,532,l),
-(453,532,l),
-(35,-2,l),
-(32,-25,l),
-(559,-25,l),
-(565,17,l),
-(83,17,l),
-(79,-11,l),
-(477,501,l),
-(462,501,l),
-(361,-210,l)
-);
+alignment = -1;
+pos = (-30,-212);
+ref = four;
 }
 );
-width = 672;
+width = 619;
 }
 );
 leftKerningGroup = four2;

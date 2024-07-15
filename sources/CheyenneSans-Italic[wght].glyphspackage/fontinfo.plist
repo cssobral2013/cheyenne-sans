@@ -1738,7 +1738,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1746,23 +1746,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -1822,10 +1822,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+id = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -1837,7 +1837,7 @@ pos = -225;
 pos = 8;
 },
 {
-pos = 532;
+pos = 530;
 }
 );
 iconName = Light;
@@ -1850,7 +1850,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1858,23 +1858,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -1934,10 +1934,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+id = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -1949,7 +1949,7 @@ pos = -225;
 pos = 8;
 },
 {
-pos = 532;
+pos = 530;
 }
 );
 name = Italic;
@@ -1961,7 +1961,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 950;
+value = 967;
 },
 {
 name = typoDescender;
@@ -1969,23 +1969,23 @@ value = -225;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 66;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1000;
 },
 {
 name = winDescent;
-value = 248;
+value = 258;
 },
 {
 name = underlineThickness;
-value = 70;
+value = 50;
 },
 {
 name = underlinePosition;
-value = -185;
+value = -100;
 },
 {
 name = strikeoutPosition;
@@ -2045,10 +2045,10 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+id = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
 metricValues = (
 {
-pos = 950;
+pos = 967;
 },
 {
 pos = 742;
@@ -2060,7 +2060,7 @@ pos = -225;
 pos = 8;
 },
 {
-pos = 532;
+pos = 530;
 }
 );
 iconName = Bold;
@@ -2141,7 +2141,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"205523CA-C9A0-433B-A23D-3E9A8307D858" = {
+"0B47C4A7-9101-48D0-A00F-70D9DFD57C4A" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -3631,7 +3631,7 @@ zero.osf = {
 onehalf = 58;
 };
 };
-"B872A948-CF4A-4CBB-8276-18DBE9F9CB6F" = {
+"4085F1A9-CD4F-447E-BF4E-06E18D46F28C" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -4999,7 +4999,7 @@ zero.osf = {
 onehalf = 60;
 };
 };
-"CDE4D1C1-62F2-4871-801D-D4385200C2D4" = {
+"60E9CA7D-7455-4953-BBCB-0950C5D70619" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -6144,7 +6144,7 @@ key = manufacturers;
 values = (
 {
 language = dflt;
-value = "The CSN Sans Project Authors";
+value = "The Cheyenne Sans Project Authors";
 }
 );
 }
@@ -6152,7 +6152,7 @@ value = "The CSN Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"205523CA-C9A0-433B-A23D-3E9A8307D858" = {
+"0B47C4A7-9101-48D0-A00F-70D9DFD57C4A" = {
 HV = 74;
 HH = 84;
 OV = 83;
@@ -6162,7 +6162,7 @@ oH = 75;
 nV = 68;
 tH = 70;
 };
-"CDE4D1C1-62F2-4871-801D-D4385200C2D4" = {
+"60E9CA7D-7455-4953-BBCB-0950C5D70619" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6172,7 +6172,7 @@ oH = 288;
 nV = 395;
 tH = 273;
 };
-"B872A948-CF4A-4CBB-8276-18DBE9F9CB6F" = {
+"4085F1A9-CD4F-447E-BF4E-06E18D46F28C" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6185,5 +6185,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 3;
 }

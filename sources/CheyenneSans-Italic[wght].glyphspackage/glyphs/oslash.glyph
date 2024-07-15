@@ -5,79 +5,79 @@ layers = (
 anchors = (
 {
 name = top;
-position = "{343, 530}";
+position = "{379, 530}";
 }
 );
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
 shapes = (
 {
 closed = 1;
 nodes = (
-(566,537,l),
-(-14,61,l),
-(45,-9,l),
-(624,468,l)
+(580,537,l),
+(0,61,l),
+(59,-9,l),
+(638,468,l)
 );
 },
 {
 alignment = -1;
-pos = (-3,0);
+pos = (33,0);
 ref = o;
 }
 );
-width = 617;
+width = 636;
 },
 {
 anchors = (
 {
 name = top;
-position = "{320, 530}";
+position = "{347, 530}";
 }
 );
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
 shapes = (
 {
 closed = 1;
 nodes = (
-(547.544,534,l),
-(-15.416,38,l),
-(18.381,-6,l),
-(582.306,491,l)
+(555.231,534,l),
+(-7.728,38,l),
+(26.069,-6,l),
+(589.994,491,l)
 );
 },
 {
 alignment = -1;
-pos = (-11,0);
+pos = (16,0);
 ref = o;
 }
 );
-width = 568;
+width = 579;
 },
 {
 anchors = (
 {
 name = top;
-position = "{310, 530}";
+position = "{337, 530}";
 }
 );
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
 shapes = (
 {
 closed = 1;
 nodes = (
-(538.7,532,l),
-(-16.1,27,l),
-(6.7,-4,l),
-(563.4,502,l)
+(544.8,532,l),
+(-10.,27,l),
+(12.8,-4,l),
+(569.5,502,l)
 );
 },
 {
 alignment = -1;
-pos = (-14,0);
+pos = (13,0);
 ref = o;
 }
 );
-width = 546;
+width = 557;
 }
 );
 leftKerningGroup = c;

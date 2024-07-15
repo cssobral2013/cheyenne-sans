@@ -3,7 +3,7 @@ glyphname = ldot;
 leftMetricsKey = l;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
 shapes = (
 {
 alignment = -1;
@@ -21,18 +21,18 @@ width = 452;
 anchors = (
 {
 name = bottom;
-position = "{126, 0}";
+position = "{125, 0}";
 },
 {
 name = top;
-position = "{131, 783}";
+position = "{130, 783}";
 },
 {
 name = topright;
-position = "{308, 755}";
+position = "{307, 755}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
 shapes = (
 {
 alignment = -1;
@@ -40,14 +40,14 @@ ref = l;
 },
 {
 alignment = -1;
-pos = (187,-78);
+pos = (186,-78);
 ref = periodcentered;
 }
 );
-width = 343;
+width = 342;
 },
 {
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
 shapes = (
 {
 alignment = -1;

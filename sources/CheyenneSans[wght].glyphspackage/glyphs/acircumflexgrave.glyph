@@ -2,20 +2,15 @@
 glyphname = acircumflexgrave;
 layers = (
 {
-layerId = "68068F7A-7EF1-42E2-BE0E-3FB861B397AC";
+layerId = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
 shapes = (
 {
 alignment = -1;
 ref = a;
 },
 {
-pos = (83,0);
-ref = circumflexcomb;
-},
-{
-alignment = -1;
-pos = (143,230);
-ref = gravecomb;
+pos = (27,0);
+ref = circumflexcomb_gravecomb;
 }
 );
 width = 573;
@@ -23,28 +18,19 @@ width = 573;
 {
 anchors = (
 {
-name = _top;
-position = "{285, 712}";
-},
-{
 name = ogonek;
 position = "{476, 13}";
 }
 );
-layerId = "B3CAD668-055B-432B-B113-C79617B62B18";
+layerId = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
 shapes = (
 {
 alignment = -1;
 ref = a;
 },
 {
-pos = (121,0);
-ref = circumflexcomb;
-},
-{
-alignment = -1;
-pos = (129,182);
-ref = gravecomb;
+pos = (29,-20);
+ref = circumflexcomb_gravecomb;
 }
 );
 width = 541;
@@ -57,20 +43,15 @@ place = (4145,208);
 type = Stem;
 }
 );
-layerId = "D805E393-E152-47C3-85A8-40A980112221";
+layerId = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
 shapes = (
 {
 alignment = -1;
 ref = a;
 },
 {
-pos = (138,0);
-ref = circumflexcomb;
-},
-{
-alignment = -1;
-pos = (123,160);
-ref = gravecomb;
+pos = (30,-50);
+ref = circumflexcomb_gravecomb;
 }
 );
 width = 526;

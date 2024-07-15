@@ -2,7 +2,7 @@
 glyphname = apostrophemod;
 layers = (
 {
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
 shapes = (
 {
 closed = 1;
@@ -11,7 +11,7 @@ nodes = (
 (209,603,l),
 (228,742,l),
 (102,742,l),
-(81,595,l),
+(80,583,l),
 (125,583,l),
 (64,445,l)
 );
@@ -20,7 +20,7 @@ nodes = (
 width = 204;
 },
 {
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
 shapes = (
 {
 closed = 1;
@@ -29,7 +29,7 @@ nodes = (
 (164,610,l),
 (181,742,l),
 (106,742,l),
-(88,608,l),
+(88,604,l),
 (115,604,l),
 (60,467,l)
 );
@@ -38,7 +38,7 @@ nodes = (
 width = 149;
 },
 {
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
 shapes = (
 {
 closed = 1;

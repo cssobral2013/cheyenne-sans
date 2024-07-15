@@ -2,7 +2,7 @@
 glyphname = Aogonek;
 layers = (
 {
-layerId = "B872A948-CF4A-4CBB-8276-18DBE9F9CB6F";
+layerId = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
 shapes = (
 {
 alignment = -1;
@@ -22,7 +22,7 @@ name = top;
 position = "{403, 742}";
 }
 );
-layerId = "CDE4D1C1-62F2-4871-801D-D4385200C2D4";
+layerId = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
 shapes = (
 {
 alignment = -1;
@@ -37,7 +37,7 @@ ref = ogonekcomb;
 width = 661;
 },
 {
-layerId = "205523CA-C9A0-433B-A23D-3E9A8307D858";
+layerId = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
 shapes = (
 {
 alignment = -1;
