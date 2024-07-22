@@ -2,70 +2,79 @@
 glyphname = Kappa;
 layers = (
 {
-layerId = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
-shapes = (
+anchors = (
 {
-closed = 1;
-nodes = (
-(512,458,l),
-(715,742,l),
-(491,742,l),
-(277,442,l),
-(277,742,l),
-(69,742,l),
-(69,0,l),
-(277,0,l),
-(277,194,l),
-(369,313,l),
-(534,0,l),
-(749,0,l)
-);
-}
-);
-width = 769;
+name = bottom;
+position = "{359, 0}";
 },
 {
-layerId = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
-shapes = (
-{
-closed = 1;
-nodes = (
-(383,442,l),
-(628,729,l),
-(521,729,l),
-(190,349,l),
-(190,729,l),
-(97,729,l),
-(97,0,l),
-(190,0,l),
-(190,232,l),
-(318,377,l),
-(548,0,l),
-(649,0,l)
-);
+name = top;
+position = "{359, 742}";
 }
 );
-width = 697;
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
 },
 {
-layerId = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
+horizontal = 1;
+place = (742,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (52,207);
+type = Stem;
+}
+);
+layerId = "C2372B4D-8093-4277-AE0E-06A46960F329";
 shapes = (
 {
-closed = 1;
-nodes = (
-(325,435,l),
-(589,723,l),
-(535,723,l),
-(151,306,l),
-(151,723,l),
-(110,723,l),
-(110,0,l),
-(151,0,l),
-(151,249,l),
-(295,406,l),
-(554,0,l),
-(604,0,l)
+alignment = -1;
+ref = K;
+}
 );
+width = 749;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{347, 0}";
+},
+{
+name = top;
+position = "{368, 742}";
+}
+);
+layerId = "2C281661-EFFD-493C-8DD5-171AB7D9AD46";
+shapes = (
+{
+alignment = -1;
+ref = K;
+}
+);
+width = 691;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{342, 0}";
+},
+{
+name = top;
+position = "{372, 742}";
+}
+);
+layerId = "67AF0A4D-A112-455D-B1BF-A3793A463EB4";
+shapes = (
+{
+alignment = -1;
+ref = K;
 }
 );
 width = 664;

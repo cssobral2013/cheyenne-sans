@@ -2,7 +2,7 @@
 glyphname = egrave;
 layers = (
 {
-layerId = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
+layerId = "C2372B4D-8093-4277-AE0E-06A46960F329";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +26,7 @@ name = ogonek;
 position = "{390, 21}";
 }
 );
-layerId = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
+layerId = "2C281661-EFFD-493C-8DD5-171AB7D9AD46";
 shapes = (
 {
 alignment = -1;
@@ -41,7 +41,7 @@ ref = gravecomb;
 width = 559;
 },
 {
-layerId = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
+layerId = "67AF0A4D-A112-455D-B1BF-A3793A463EB4";
 shapes = (
 {
 alignment = -1;

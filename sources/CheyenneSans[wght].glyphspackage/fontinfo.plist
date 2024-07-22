@@ -1630,7 +1630,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "A3EC592B-2022-4FE4-A752-4A80E22025D0";
+id = "67AF0A4D-A112-455D-B1BF-A3793A463EB4";
 metricValues = (
 {
 pos = 967;
@@ -1742,7 +1742,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "9712905A-4A5F-407F-8D72-83B4AAEB3985";
+id = "2C281661-EFFD-493C-8DD5-171AB7D9AD46";
 metricValues = (
 {
 pos = 967;
@@ -1852,7 +1852,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6";
+id = "C2372B4D-8093-4277-AE0E-06A46960F329";
 metricValues = (
 {
 pos = 967;
@@ -1948,7 +1948,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"9712905A-4A5F-407F-8D72-83B4AAEB3985" = {
+"2C281661-EFFD-493C-8DD5-171AB7D9AD46" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -3003,7 +3003,7 @@ fraction = -13;
 seven.numr = -2;
 };
 };
-"A3EC592B-2022-4FE4-A752-4A80E22025D0" = {
+"67AF0A4D-A112-455D-B1BF-A3793A463EB4" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -4454,7 +4454,7 @@ zero.osf = {
 onehalf = 58;
 };
 };
-"DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6" = {
+"C2372B4D-8093-4277-AE0E-06A46960F329" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -5872,7 +5872,7 @@ value = "The Cheyenne Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"A3EC592B-2022-4FE4-A752-4A80E22025D0" = {
+"67AF0A4D-A112-455D-B1BF-A3793A463EB4" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5882,7 +5882,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"9712905A-4A5F-407F-8D72-83B4AAEB3985" = {
+"2C281661-EFFD-493C-8DD5-171AB7D9AD46" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5892,7 +5892,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"DCB7B1A9-B47A-442A-B7B6-6E31FF1528A6" = {
+"C2372B4D-8093-4277-AE0E-06A46960F329" = {
 HV = 399;
 HH = 326;
 OV = 435;

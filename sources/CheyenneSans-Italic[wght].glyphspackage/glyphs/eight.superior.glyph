@@ -3,7 +3,7 @@ glyphname = eight.superior;
 widthMetricsKey = eight.dnom;
 layers = (
 {
-layerId = "4085F1A9-CD4F-447E-BF4E-06E18D46F28C";
+layerId = "19535A56-B4B7-45FA-8766-5D6358701C99";
 shapes = (
 {
 alignment = -1;
@@ -14,7 +14,7 @@ ref = eight.numr;
 width = 410;
 },
 {
-layerId = "60E9CA7D-7455-4953-BBCB-0950C5D70619";
+layerId = "AEBEF15D-4BBA-4516-955A-7DB830DF0DA8";
 shapes = (
 {
 alignment = -1;
@@ -25,7 +25,7 @@ ref = eight.numr;
 width = 384;
 },
 {
-layerId = "0B47C4A7-9101-48D0-A00F-70D9DFD57C4A";
+layerId = "ABC3C110-A709-486E-B3D5-BEE5600AE028";
 shapes = (
 {
 alignment = -1;
