@@ -2,7 +2,7 @@
 glyphname = Eacute;
 layers = (
 {
-layerId = "C2372B4D-8093-4277-AE0E-06A46960F329";
+layerId = "01327C5C-830D-4CC3-9E97-2D6CCD6A61F0";
 shapes = (
 {
 alignment = -1;
@@ -26,7 +26,7 @@ name = ogonek;
 position = "{565, 10}";
 }
 );
-layerId = "2C281661-EFFD-493C-8DD5-171AB7D9AD46";
+layerId = "84E72C1A-4249-4129-A9E3-B383380F4618";
 shapes = (
 {
 alignment = -1;
@@ -41,7 +41,7 @@ ref = acutecomb;
 width = 632;
 },
 {
-layerId = "67AF0A4D-A112-455D-B1BF-A3793A463EB4";
+layerId = "F85293C6-8FE1-4D29-8E83-66190DA06428";
 shapes = (
 {
 alignment = -1;

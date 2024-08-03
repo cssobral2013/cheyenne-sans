@@ -2,7 +2,7 @@
 glyphname = percent;
 layers = (
 {
-layerId = "19535A56-B4B7-45FA-8766-5D6358701C99";
+layerId = "6D36DE7A-3498-4CCA-80AC-5FCC24B8EDC5";
 shapes = (
 {
 closed = 1;
@@ -73,19 +73,15 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(743,750,l),
-(136,-2,l),
-(257,-4,l),
-(864,750,l)
-);
+alignment = -1;
+pos = (358,0);
+ref = fraction;
 }
 );
 width = 973;
 },
 {
-layerId = "AEBEF15D-4BBA-4516-955A-7DB830DF0DA8";
+layerId = "52CA2DEC-CCDD-4868-A7D2-69659C24EBA2";
 shapes = (
 {
 closed = 1;
@@ -156,19 +152,15 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(722.906,750,l),
-(136.772,-3,l),
-(200.503,-4,l),
-(786.637,750,l)
-);
+alignment = -1;
+pos = (326,0);
+ref = fraction;
 }
 );
 width = 891;
 },
 {
-layerId = "ABC3C110-A709-486E-B3D5-BEE5600AE028";
+layerId = "FE16441F-5029-4BC1-8299-959132AD36E4";
 shapes = (
 {
 closed = 1;
@@ -239,13 +231,9 @@ nodes = (
 );
 },
 {
-closed = 1;
-nodes = (
-(711.95,750,l),
-(135.3,-4,l),
-(175.2,-4,l),
-(750.9,750,l)
-);
+alignment = -1;
+pos = (311,0);
+ref = fraction;
 }
 );
 width = 853;

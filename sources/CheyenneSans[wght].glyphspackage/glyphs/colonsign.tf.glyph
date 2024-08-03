@@ -1,0 +1,37 @@
+{
+glyphname = colonsign.tf;
+layers = (
+{
+layerId = "01327C5C-830D-4CC3-9E97-2D6CCD6A61F0";
+shapes = (
+{
+alignment = -1;
+ref = colonsign;
+}
+);
+width = 700;
+},
+{
+layerId = "84E72C1A-4249-4129-A9E3-B383380F4618";
+shapes = (
+{
+alignment = -1;
+ref = colonsign;
+}
+);
+width = 700;
+},
+{
+layerId = "F85293C6-8FE1-4D29-8E83-66190DA06428";
+shapes = (
+{
+alignment = -1;
+ref = colonsign;
+}
+);
+width = 700;
+}
+);
+rightKerningGroup = C;
+unicode = 60779;
+}
