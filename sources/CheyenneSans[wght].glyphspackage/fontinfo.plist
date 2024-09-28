@@ -1287,9 +1287,6 @@ languagesystem cyrl TAT ; # Cyrillic Tatar
 #
 # Feature definitions
 #
-
-
-
 ";
 tag = Languagesystems;
 }
@@ -1635,7 +1632,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "F85293C6-8FE1-4D29-8E83-66190DA06428";
+id = "AA4F8DE6-268F-445A-AFC7-34C577DE5EB5";
 metricValues = (
 {
 pos = 967;
@@ -1658,7 +1655,7 @@ name = Light;
 },
 {
 axesValues = (
-400
+375
 );
 customParameters = (
 {
@@ -1747,7 +1744,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "84E72C1A-4249-4129-A9E3-B383380F4618";
+id = "A1372A8E-D24D-4BE9-8A1E-C5A28D84D11B";
 metricValues = (
 {
 pos = 967;
@@ -1852,7 +1849,12 @@ name = hheaLineGap;
 value = 0;
 }
 );
-id = "01327C5C-830D-4CC3-9E97-2D6CCD6A61F0";
+guides = (
+{
+position = "{0, 250}";
+}
+);
+id = "76FF55B7-7CB6-4EC4-A9F2-35FE7EC55679";
 metricValues = (
 {
 pos = 967;
@@ -1948,7 +1950,7 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"01327C5C-830D-4CC3-9E97-2D6CCD6A61F0" = {
+"76FF55B7-7CB6-4EC4-A9F2-35FE7EC55679" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -3299,7 +3301,7 @@ zero.osf = {
 onehalf = 60;
 };
 };
-"84E72C1A-4249-4129-A9E3-B383380F4618" = {
+"A1372A8E-D24D-4BE9-8A1E-C5A28D84D11B" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -4354,7 +4356,7 @@ fraction = -13;
 seven.numr = -2;
 };
 };
-"F85293C6-8FE1-4D29-8E83-66190DA06428" = {
+"AA4F8DE6-268F-445A-AFC7-34C577DE5EB5" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -5872,7 +5874,7 @@ value = "The Cheyenne Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"F85293C6-8FE1-4D29-8E83-66190DA06428" = {
+"AA4F8DE6-268F-445A-AFC7-34C577DE5EB5" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5882,7 +5884,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"84E72C1A-4249-4129-A9E3-B383380F4618" = {
+"A1372A8E-D24D-4BE9-8A1E-C5A28D84D11B" = {
 HV = 80;
 HH = 84;
 OV = 90;
@@ -5892,7 +5894,7 @@ oH = 75;
 nV = 74;
 tH = 70;
 };
-"01327C5C-830D-4CC3-9E97-2D6CCD6A61F0" = {
+"76FF55B7-7CB6-4EC4-A9F2-35FE7EC55679" = {
 HV = 399;
 HH = 326;
 OV = 435;
@@ -5905,5 +5907,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 4;
+versionMinor = 5;
 }

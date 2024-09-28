@@ -2,7 +2,7 @@
 glyphname = acutecomb.001;
 layers = (
 {
-layerId = "6D36DE7A-3498-4CCA-80AC-5FCC24B8EDC5";
+layerId = "1B15BF9D-2282-46A0-8570-EB8A3FC863D6";
 shapes = (
 {
 closed = 1;
@@ -17,7 +17,7 @@ nodes = (
 width = 275;
 },
 {
-layerId = "52CA2DEC-CCDD-4868-A7D2-69659C24EBA2";
+layerId = "384628A1-4A8A-4486-AB82-D1325BD310F0";
 shapes = (
 {
 closed = 1;
@@ -32,7 +32,7 @@ nodes = (
 width = 176;
 },
 {
-layerId = "FE16441F-5029-4BC1-8299-959132AD36E4";
+layerId = "2FBE8594-5CD7-4E1A-8146-362CAE16723C";
 shapes = (
 {
 closed = 1;
