@@ -2,11 +2,16 @@
 glyphname = palochkacyr;
 layers = (
 {
-layerId = "1B15BF9D-2282-46A0-8570-EB8A3FC863D6";
+layerId = "53698F14-3379-49FD-849B-EB3564F78825";
 shapes = (
 {
-alignment = -1;
-ref = l.ss01;
+closed = 1;
+nodes = (
+(219,0,l),
+(326,762,l),
+(126,762,l),
+(19,0,l)
+);
 }
 );
 width = 344;
@@ -26,21 +31,31 @@ name = topright;
 position = "{367, 771}";
 }
 );
-layerId = "384628A1-4A8A-4486-AB82-D1325BD310F0";
+layerId = "3A2F0B01-8BAD-43D2-BFC9-C9D3CCE0022F";
 shapes = (
 {
-alignment = -1;
-ref = l.ss01;
+closed = 1;
+nodes = (
+(143,0,l),
+(246,762,l),
+(158,762,l),
+(54,0,l)
+);
 }
 );
 width = 286;
 },
 {
-layerId = "2FBE8594-5CD7-4E1A-8146-362CAE16723C";
+layerId = "4B62E599-A761-4CCD-BB2B-30B6A69879C7";
 shapes = (
 {
-alignment = -1;
-ref = l.ss01;
+closed = 1;
+nodes = (
+(108,0,l),
+(210,762,l),
+(172,762,l),
+(70,0,l)
+);
 }
 );
 width = 260;
