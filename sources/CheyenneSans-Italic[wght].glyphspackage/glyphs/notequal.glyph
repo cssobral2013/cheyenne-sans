@@ -2,7 +2,7 @@
 glyphname = notequal;
 layers = (
 {
-layerId = "4A771BA9-DE6D-4DFF-875A-35CEAA78AE27";
+layerId = "49A8D228-E827-44F0-AB9F-01876E91E3EE";
 shapes = (
 {
 closed = 1;
@@ -35,7 +35,7 @@ nodes = (
 width = 611;
 },
 {
-layerId = "063EDB9A-26EE-473F-A1FA-D59C439A67CE";
+layerId = "2C111888-158E-4586-831E-29429C16F99E";
 shapes = (
 {
 closed = 1;
@@ -51,8 +51,8 @@ closed = 1;
 nodes = (
 (83,506,l),
 (83,436,l),
-(521,436,l),
-(521,506,l)
+(522,436,l),
+(522,506,l)
 );
 },
 {
@@ -60,15 +60,15 @@ closed = 1;
 nodes = (
 (83,280,l),
 (83,210,l),
-(521,210,l),
-(521,280,l)
+(522,210,l),
+(522,280,l)
 );
 }
 );
 width = 573;
 },
 {
-layerId = "A1D8A8A0-7317-4958-838D-B74999429465";
+layerId = "1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3";
 shapes = (
 {
 closed = 1;

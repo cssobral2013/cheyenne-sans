@@ -3,7 +3,17 @@ glyphname = Ereversedcyr;
 widthMetricsKey = C;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+anchors = (
+{
+name = top;
+position = "{371, 742}";
+},
+{
+name = bottom;
+position = "{371, 0}";
+}
+);
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -73,7 +83,17 @@ nodes = (
 width = 707;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+anchors = (
+{
+name = top;
+position = "{348, 742}";
+},
+{
+name = bottom;
+position = "{348, 0}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -143,7 +163,17 @@ nodes = (
 width = 683;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+anchors = (
+{
+name = top;
+position = "{338, 742}";
+},
+{
+name = bottom;
+position = "{338, 0}";
+}
+);
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

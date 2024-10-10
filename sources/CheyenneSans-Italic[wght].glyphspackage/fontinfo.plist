@@ -1844,7 +1844,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "A1D8A8A0-7317-4958-838D-B74999429465";
+id = "1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3";
 metricValues = (
 {
 pos = 967;
@@ -1956,7 +1956,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "063EDB9A-26EE-473F-A1FA-D59C439A67CE";
+id = "2C111888-158E-4586-831E-29429C16F99E";
 metricValues = (
 {
 pos = 967;
@@ -2067,7 +2067,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "4A771BA9-DE6D-4DFF-875A-35CEAA78AE27";
+id = "49A8D228-E827-44F0-AB9F-01876E91E3EE";
 metricValues = (
 {
 pos = 967;
@@ -2095,7 +2095,7 @@ axesValues = (
 100
 );
 interpolationWeight = 100;
-name = ThinItalic;
+name = Thin;
 weightClass = Thin;
 },
 {
@@ -2103,7 +2103,7 @@ axesValues = (
 200
 );
 interpolationWeight = 200;
-name = ExtraLightItalic;
+name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
@@ -2111,7 +2111,7 @@ axesValues = (
 300
 );
 interpolationWeight = 300;
-name = LightItalic;
+name = Light;
 weightClass = Light;
 },
 {
@@ -2119,14 +2119,14 @@ axesValues = (
 400
 );
 interpolationWeight = 400;
-name = Italic;
+name = Regular;
 },
 {
 axesValues = (
 500
 );
 interpolationWeight = 500;
-name = MediumItalic;
+name = Medium;
 weightClass = Medium;
 },
 {
@@ -2134,7 +2134,7 @@ axesValues = (
 600
 );
 interpolationWeight = 600;
-name = SemiBoldItalic;
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
@@ -2142,7 +2142,7 @@ axesValues = (
 700
 );
 interpolationWeight = 700;
-name = BoldItalic;
+name = Bold;
 weightClass = Bold;
 },
 {
@@ -2150,7 +2150,7 @@ axesValues = (
 800
 );
 interpolationWeight = 800;
-name = ExtraBoldItalic;
+name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
@@ -2158,2674 +2158,12 @@ axesValues = (
 900
 );
 interpolationWeight = 900;
-name = BlackItalic;
+name = Black;
 weightClass = Black;
 }
 );
 kerningLTR = {
-"063EDB9A-26EE-473F-A1FA-D59C439A67CE" = {
-"@MMK_L_A" = {
-"@MMK_R_A2" = 8;
-"@MMK_R_C2" = -35;
-"@MMK_R_J2" = 8;
-"@MMK_R_Oslash2" = 5;
-"@MMK_R_S2" = -15;
-"@MMK_R_T2" = -88;
-"@MMK_R_U" = -35;
-"@MMK_R_V2" = -115;
-"@MMK_R_Wgrave2" = -40;
-"@MMK_R_Y2" = -74;
-"@MMK_R_Z2" = 7;
-"@MMK_R_c" = -13;
-"@MMK_R_g2" = -17;
-"@MMK_R_hyphen2" = -30;
-"@MMK_R_quoteright2" = -104;
-"@MMK_R_s2" = -15;
-"@MMK_R_seven2" = -54;
-"@MMK_R_six2" = -7;
-"@MMK_R_t2" = -55;
-"@MMK_R_u" = -8;
-"@MMK_R_v2" = -58;
-"@MMK_R_z2" = 3;
-X = 23;
-f = -52;
-x = -6;
-};
-"@MMK_L_C" = {
-"@MMK_R_A2" = -13;
-"@MMK_R_AE" = -24;
-"@MMK_R_J2" = -7;
-"@MMK_R_T2" = -19;
-"@MMK_R_V2" = -9;
-"@MMK_R_Wgrave2" = -10;
-"@MMK_R_Y2" = -20;
-"@MMK_R_Z2" = -6;
-"@MMK_R_a2" = -6;
-"@MMK_R_c" = -2;
-"@MMK_R_comma2" = -7;
-"@MMK_R_emdash2" = 9;
-"@MMK_R_g2" = -17;
-"@MMK_R_z2" = -2;
-X = -23;
-quotesinglbase = -14;
-};
-"@MMK_L_D" = {
-"@MMK_R_A2" = -28;
-"@MMK_R_J2" = -17;
-"@MMK_R_S2" = -7;
-"@MMK_R_T2" = -28;
-"@MMK_R_V2" = -23;
-"@MMK_R_Wgrave2" = -17;
-"@MMK_R_Y2" = -43;
-"@MMK_R_Z2" = -38;
-"@MMK_R_comma2" = -13;
-"@MMK_R_question" = -7;
-X = -35;
-quotesinglbase = -28;
-x = -7;
-};
-"@MMK_L_E" = {
-"@MMK_R_A2" = -7;
-"@MMK_R_AE" = -89;
-"@MMK_R_B" = 7;
-"@MMK_R_C2" = -2;
-"@MMK_R_J2" = 18;
-"@MMK_R_S2" = 3;
-"@MMK_R_T2" = 16;
-"@MMK_R_V2" = 3;
-"@MMK_R_Wgrave2" = 34;
-"@MMK_R_Y2" = 20;
-"@MMK_R_a2" = -7;
-"@MMK_R_b2" = -14;
-"@MMK_R_bar" = 9;
-"@MMK_R_c" = -7;
-"@MMK_R_comma2" = -26;
-"@MMK_R_emdash2" = 8;
-"@MMK_R_g2" = -13;
-"@MMK_R_hyphen2" = -20;
-"@MMK_R_question" = 3;
-"@MMK_R_s2" = -10;
-"@MMK_R_t2" = -29;
-"@MMK_R_u" = -7;
-"@MMK_R_v2" = -15;
-"@MMK_R_z2" = 3;
-X = 20;
-f = -7;
-x = -10;
-};
-"@MMK_L_F" = {
-"@MMK_R_A2" = -65;
-"@MMK_R_J2" = -50;
-"@MMK_R_S2" = -10;
-"@MMK_R_T2" = 26;
-"@MMK_R_V2" = 10;
-"@MMK_R_Wgrave2" = 9;
-"@MMK_R_Y2" = 23;
-"@MMK_R_Z2" = -6;
-"@MMK_R_a2" = -10;
-"@MMK_R_c" = -15;
-"@MMK_R_comma2" = -74;
-"@MMK_R_g2" = -10;
-"@MMK_R_hyphen2" = -7;
-"@MMK_R_question" = 9;
-"@MMK_R_s2" = -12;
-"@MMK_R_u" = -10;
-"@MMK_R_v2" = -10;
-"@MMK_R_z2" = -3;
-guillemotright = -10;
-quotesinglbase = -45;
-x = -20;
-};
-"@MMK_L_G" = {
-"@MMK_R_A2" = 3;
-"@MMK_R_J2" = 3;
-"@MMK_R_Oslash2" = 17;
-"@MMK_R_S2" = -3;
-"@MMK_R_T2" = -42;
-"@MMK_R_V2" = -37;
-"@MMK_R_Wgrave2" = -16;
-"@MMK_R_Y2" = -39;
-"@MMK_R_z2" = 3;
-};
-"@MMK_L_H" = {
-"@MMK_R_U" = -5;
-"@MMK_R_a2" = -3;
-"@MMK_R_c" = -6;
-"@MMK_R_emdash2" = 9;
-"@MMK_R_g2" = -7;
-"@MMK_R_t2" = -5;
-};
-"@MMK_L_J" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_AE" = -47;
-"@MMK_R_Z2" = 7;
-"@MMK_R_comma2" = -33;
-"@MMK_R_g2" = -24;
-"@MMK_R_t2" = 14;
-};
-"@MMK_L_K" = {
-"@MMK_R_A2" = 13;
-"@MMK_R_J2" = 13;
-"@MMK_R_S2" = -30;
-"@MMK_R_T2" = 3;
-"@MMK_R_U" = -18;
-"@MMK_R_V2" = 9;
-"@MMK_R_Y2" = 6;
-"@MMK_R_a2" = -8;
-"@MMK_R_c" = -28;
-"@MMK_R_hyphen2" = -57;
-"@MMK_R_s2" = -13;
-"@MMK_R_t2" = -56;
-"@MMK_R_u" = -30;
-"@MMK_R_v2" = -40;
-f = -15;
-};
-"@MMK_L_L" = {
-"@MMK_R_A2" = 15;
-"@MMK_R_C2" = -20;
-"@MMK_R_J2" = 26;
-"@MMK_R_S2" = 13;
-"@MMK_R_T2" = -95;
-"@MMK_R_U" = -23;
-"@MMK_R_V2" = -64;
-"@MMK_R_Wgrave2" = -36;
-"@MMK_R_Y2" = -90;
-"@MMK_R_a2" = -17;
-"@MMK_R_c" = -21;
-"@MMK_R_g2" = 3;
-"@MMK_R_hyphen2" = -56;
-"@MMK_R_question" = -7;
-"@MMK_R_quoteright2" = -95;
-"@MMK_R_t2" = -52;
-"@MMK_R_u" = 1;
-"@MMK_R_v2" = -38;
-"@MMK_R_z2" = 14;
-X = 6;
-f = -41;
-guillemotright = -7;
-quotesinglbase = 7;
-x = 9;
-};
-"@MMK_L_O" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_AE" = -84;
-"@MMK_R_C2" = -3;
-"@MMK_R_J2" = -14;
-"@MMK_R_S2" = -4;
-"@MMK_R_U" = -15;
-"@MMK_R_V2" = -14;
-"@MMK_R_Wgrave2" = -33;
-"@MMK_R_Y2" = -21;
-"@MMK_R_Z2" = -25;
-"@MMK_R_a2" = -9;
-"@MMK_R_b2" = -6;
-"@MMK_R_c" = -6;
-"@MMK_R_comma2" = -45;
-"@MMK_R_emdash2" = -2;
-"@MMK_R_g2" = -7;
-"@MMK_R_quoteright2" = -21;
-"@MMK_R_s2" = -5;
-"@MMK_R_seven2" = -15;
-"@MMK_R_t2" = -7;
-X = -9;
-x = -17;
-};
-"@MMK_L_Ohorn" = {
-"@MMK_R_A2" = -58;
-"@MMK_R_C2" = -21;
-"@MMK_R_J2" = -23;
-"@MMK_R_a2" = -27;
-"@MMK_R_b2" = -27;
-"@MMK_R_bar" = -6;
-"@MMK_R_c" = -27;
-"@MMK_R_comma2" = -31;
-"@MMK_R_g2" = -33;
-"@MMK_R_s2" = -32;
-"@MMK_R_t2" = -19;
-"@MMK_R_u" = -27;
-"@MMK_R_v2" = -27;
-"@MMK_R_z2" = -24;
-x = -37;
-};
-"@MMK_L_Oslash" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_J2" = -35;
-};
-"@MMK_L_P" = {
-"@MMK_R_A2" = -59;
-"@MMK_R_AE" = -116;
-"@MMK_R_C2" = 3;
-"@MMK_R_J2" = -52;
-"@MMK_R_S2" = 12;
-"@MMK_R_Wgrave2" = -3;
-"@MMK_R_Y2" = -9;
-"@MMK_R_Z2" = -15;
-"@MMK_R_a2" = -9;
-"@MMK_R_bar" = 6;
-"@MMK_R_c" = -8;
-"@MMK_R_comma2" = -110;
-"@MMK_R_emdash2" = -22;
-"@MMK_R_g2" = -15;
-"@MMK_R_hyphen2" = -27;
-"@MMK_R_question" = -3;
-"@MMK_R_s2" = -17;
-"@MMK_R_t2" = 7;
-"@MMK_R_u" = -3;
-"@MMK_R_v2" = 20;
-X = -20;
-f = 3;
-guillemotright = 9;
-quotesinglbase = -91;
-x = 5;
-};
-"@MMK_L_R" = {
-"@MMK_R_A2" = 3;
-"@MMK_R_AE" = -22;
-"@MMK_R_C2" = -10;
-"@MMK_R_J2" = 3;
-"@MMK_R_S2" = -20;
-"@MMK_R_T2" = -10;
-"@MMK_R_U" = -18;
-"@MMK_R_V2" = -28;
-"@MMK_R_Wgrave2" = -9;
-"@MMK_R_Y2" = -9;
-"@MMK_R_a2" = -10;
-"@MMK_R_b2" = -7;
-"@MMK_R_c" = -17;
-"@MMK_R_comma2" = -3;
-"@MMK_R_g2" = -15;
-"@MMK_R_hyphen2" = -43;
-"@MMK_R_u" = -8;
-"@MMK_R_z2" = -8;
-guillemotright = -7;
-quotesinglbase = -17;
-x = -8;
-};
-"@MMK_L_S" = {
-"@MMK_R_A2" = -17;
-"@MMK_R_AE" = -64;
-"@MMK_R_B" = -3;
-"@MMK_R_C2" = -14;
-"@MMK_R_S2" = 7;
-"@MMK_R_T2" = -18;
-"@MMK_R_V2" = -20;
-"@MMK_R_Wgrave2" = -2;
-"@MMK_R_Y2" = -28;
-"@MMK_R_Z2" = -5;
-"@MMK_R_a2" = -3;
-"@MMK_R_bar" = 9;
-"@MMK_R_comma2" = -21;
-"@MMK_R_g2" = -25;
-"@MMK_R_hyphen2" = 3;
-"@MMK_R_t2" = -20;
-"@MMK_R_v2" = 7;
-"@MMK_R_z2" = -8;
-X = -18;
-guillemotright = -7;
-quotesinglbase = -17;
-x = -16;
-};
-"@MMK_L_T" = {
-"@MMK_R_A2" = -88;
-"@MMK_R_AE" = -86;
-"@MMK_R_C2" = -7;
-"@MMK_R_J2" = -44;
-"@MMK_R_S2" = 2;
-"@MMK_R_T2" = 26;
-"@MMK_R_V2" = 37;
-"@MMK_R_Wgrave2" = 27;
-"@MMK_R_Y2" = 45;
-"@MMK_R_Z2" = 10;
-"@MMK_R_a2" = -60;
-"@MMK_R_b2" = -34;
-"@MMK_R_bar" = 8;
-"@MMK_R_c" = -69;
-"@MMK_R_comma2" = -121;
-"@MMK_R_four2" = -69;
-"@MMK_R_g2" = -72;
-"@MMK_R_hyphen2" = -63;
-"@MMK_R_j" = 21;
-"@MMK_R_question" = 13;
-"@MMK_R_quoteright2" = 21;
-"@MMK_R_s2" = -64;
-"@MMK_R_t2" = -27;
-"@MMK_R_u" = -55;
-"@MMK_R_v2" = -42;
-"@MMK_R_z2" = -40;
-Schwa = -19;
-X = 8;
-ampersand = -6;
-guillemotright = -40;
-quotesinglbase = -83;
-x = -48;
-};
-"@MMK_L_Uhorn" = {
-"@MMK_R_A2" = -126;
-"@MMK_R_J2" = -72;
-"@MMK_R_V2" = 34;
-"@MMK_R_Wgrave2" = 28;
-"@MMK_R_a2" = -49;
-"@MMK_R_b2" = -54;
-"@MMK_R_c" = -53;
-"@MMK_R_comma2" = -48;
-"@MMK_R_g2" = -66;
-"@MMK_R_s2" = -55;
-"@MMK_R_t2" = -33;
-"@MMK_R_u" = -48;
-"@MMK_R_z2" = -45;
-x = -39;
-};
-"@MMK_L_V" = {
-"@MMK_R_A2" = -115;
-"@MMK_R_AE" = -116;
-"@MMK_R_C2" = -14;
-"@MMK_R_J2" = -47;
-"@MMK_R_S2" = -13;
-"@MMK_R_T2" = 37;
-"@MMK_R_V2" = 9;
-"@MMK_R_Wgrave2" = 40;
-"@MMK_R_Y2" = 49;
-"@MMK_R_Z2" = 21;
-"@MMK_R_a2" = -43;
-"@MMK_R_b2" = -6;
-"@MMK_R_c" = -44;
-"@MMK_R_comma2" = -112;
-"@MMK_R_g2" = -31;
-"@MMK_R_hyphen2" = -47;
-"@MMK_R_j" = 21;
-"@MMK_R_question" = 23;
-"@MMK_R_s2" = -22;
-"@MMK_R_t2" = -3;
-"@MMK_R_z2" = -6;
-X = -4;
-ae = -62;
-ampersand = -20;
-f = 3;
-guillemotright = -21;
-quotesinglbase = -61;
-x = -16;
-};
-"@MMK_L_Wgrave" = {
-"@MMK_R_A2" = -72;
-"@MMK_R_AE" = -83;
-"@MMK_R_C2" = -5;
-"@MMK_R_J2" = -36;
-"@MMK_R_S2" = -16;
-"@MMK_R_T2" = 34;
-"@MMK_R_V2" = 19;
-"@MMK_R_Wgrave2" = 20;
-"@MMK_R_Y2" = 43;
-"@MMK_R_Z2" = -3;
-"@MMK_R_a2" = -29;
-"@MMK_R_b2" = -17;
-"@MMK_R_bar" = 6;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = -75;
-"@MMK_R_g2" = -35;
-"@MMK_R_hyphen2" = -26;
-"@MMK_R_question" = 9;
-"@MMK_R_s2" = -26;
-"@MMK_R_t2" = 8;
-"@MMK_R_u" = -28;
-"@MMK_R_v2" = -16;
-X = 10;
-f = -3;
-guillemotright = -14;
-quotesinglbase = -46;
-x = -13;
-};
-"@MMK_L_Y" = {
-"@MMK_R_A2" = -77;
-"@MMK_R_AE" = -105;
-"@MMK_R_C2" = -26;
-"@MMK_R_J2" = -64;
-"@MMK_R_S2" = -40;
-"@MMK_R_T2" = 35;
-"@MMK_R_U" = 3;
-"@MMK_R_V2" = 33;
-"@MMK_R_Wgrave2" = 26;
-"@MMK_R_Y2" = 46;
-"@MMK_R_a2" = -63;
-"@MMK_R_b2" = -19;
-"@MMK_R_bar" = 13;
-"@MMK_R_c" = -60;
-"@MMK_R_comma2" = -80;
-"@MMK_R_g2" = -75;
-"@MMK_R_hyphen2" = -78;
-"@MMK_R_question" = 16;
-"@MMK_R_quoteright2" = 17;
-"@MMK_R_s2" = -71;
-"@MMK_R_t2" = -44;
-"@MMK_R_u" = -45;
-"@MMK_R_v2" = -44;
-"@MMK_R_z2" = -36;
-Schwa = -21;
-X = 15;
-f = -13;
-guillemotright = -47;
-quotesinglbase = -96;
-space = -11;
-x = -36;
-};
-"@MMK_L_Z" = {
-"@MMK_R_A2" = 3;
-"@MMK_R_AE" = -6;
-"@MMK_R_J2" = 14;
-"@MMK_R_S2" = -9;
-"@MMK_R_T2" = 20;
-"@MMK_R_U" = -2;
-"@MMK_R_V2" = 10;
-"@MMK_R_Y2" = 7;
-"@MMK_R_Z2" = 15;
-"@MMK_R_a2" = 5;
-"@MMK_R_b2" = -17;
-"@MMK_R_c" = -15;
-"@MMK_R_emdash2" = 3;
-"@MMK_R_hyphen2" = -57;
-"@MMK_R_u" = -3;
-"@MMK_R_v2" = -13;
-"@MMK_R_z2" = 6;
-X = 6;
-quotesinglbase = 7;
-};
-"@MMK_L_a" = {
-"@MMK_R_T2" = -116;
-"@MMK_R_V2" = -39;
-"@MMK_R_Y2" = -48;
-"@MMK_R_a2" = -2;
-"@MMK_R_bar" = -2;
-"@MMK_R_emdash2" = 9;
-"@MMK_R_quotedbl2" = -56;
-"@MMK_R_quoteright2" = -27;
-"@MMK_R_s2" = -8;
-"@MMK_R_seven2" = -34;
-"@MMK_R_t2" = -22;
-"@MMK_R_v2" = -17;
-"@MMK_R_z2" = -2;
-f = -17;
-x = -12;
-};
-"@MMK_L_b" = {
-"@MMK_R_B" = -6;
-"@MMK_R_J2" = -16;
-"@MMK_R_T2" = -93;
-"@MMK_R_V2" = -43;
-"@MMK_R_Wgrave2" = -20;
-"@MMK_R_Y2" = -60;
-"@MMK_R_a2" = -7;
-"@MMK_R_bar" = -3;
-"@MMK_R_emdash2" = 16;
-"@MMK_R_g2" = -3;
-"@MMK_R_hyphen2" = 10;
-"@MMK_R_question" = -10;
-"@MMK_R_quotedbl2" = -70;
-"@MMK_R_quoteright2" = -44;
-"@MMK_R_s2" = -3;
-"@MMK_R_t2" = -24;
-"@MMK_R_v2" = -6;
-"@MMK_R_z2" = -12;
-f = -20;
-space = -7;
-v = -10;
-x = -35;
-};
-"@MMK_L_comma" = {
-"@MMK_R_A2" = 30;
-"@MMK_R_C2" = -9;
-"@MMK_R_S2" = 3;
-"@MMK_R_T2" = -111;
-"@MMK_R_V2" = -19;
-"@MMK_R_Wgrave2" = -21;
-"@MMK_R_Y2" = -88;
-"@MMK_R_comma2" = 52;
-"@MMK_R_four2" = -7;
-"@MMK_R_g2" = 20;
-"@MMK_R_quoteright2" = -80;
-"@MMK_R_seven2" = -48;
-"@MMK_R_two2" = 20;
-space = -7;
-};
-"@MMK_L_d" = {
-"@MMK_R_b2" = 7;
-"@MMK_R_g2" = -2;
-"@MMK_R_quotedbl2" = -8;
-};
-"@MMK_L_emdash" = {
-"@MMK_R_A2" = -25;
-"@MMK_R_B" = -20;
-"@MMK_R_C2" = -9;
-"@MMK_R_J2" = -13;
-"@MMK_R_V2" = -40;
-"@MMK_R_c" = 6;
-"@MMK_R_s2" = 9;
-"@MMK_R_t2" = 5;
-"@MMK_R_v2" = 2;
-"@MMK_R_z2" = 8;
-X = -33;
-x = -13;
-};
-"@MMK_L_five" = {
-"@MMK_R_onethird" = 58;
-"@MMK_R_two.numr" = 21;
-onehalf = 58;
-};
-"@MMK_L_four" = {
-"@MMK_R_T2" = -15;
-"@MMK_R_five2" = -8;
-"@MMK_R_onethird" = 59;
-"@MMK_R_two.numr" = 17;
-onehalf = 50;
-};
-"@MMK_L_g" = {
-"@MMK_R_a2" = -15;
-"@MMK_R_bar" = 17;
-"@MMK_R_c" = -17;
-"@MMK_R_emdash2" = 2;
-"@MMK_R_g2" = -14;
-"@MMK_R_hyphen2" = -40;
-"@MMK_R_j" = 29;
-"@MMK_R_quotedbl2" = 3;
-"@MMK_R_quoteright2" = 6;
-"@MMK_R_s2" = -19;
-"@MMK_R_t2" = 3;
-"@MMK_R_u" = -15;
-"@MMK_R_z2" = 3;
-f = 10;
-quotesinglbase = -10;
-x = -4;
-};
-"@MMK_L_hyphen" = {
-"@MMK_R_A2" = -25;
-"@MMK_R_J2" = -31;
-"@MMK_R_S2" = -22;
-"@MMK_R_T2" = -131;
-"@MMK_R_V2" = -80;
-"@MMK_R_Wgrave2" = -26;
-"@MMK_R_Y2" = -77;
-"@MMK_R_Z2" = -30;
-"@MMK_R_a2" = 3;
-"@MMK_R_c" = 6;
-"@MMK_R_g2" = -3;
-"@MMK_R_one2" = -77;
-"@MMK_R_s2" = 3;
-"@MMK_R_seven2" = -116;
-"@MMK_R_t2" = -15;
-"@MMK_R_v2" = -16;
-"@MMK_R_z2" = -7;
-X = -52;
-x = -33;
-};
-"@MMK_L_k" = {
-"@MMK_R_V2" = -9;
-"@MMK_R_a2" = -13;
-"@MMK_R_c" = -23;
-"@MMK_R_g2" = -20;
-"@MMK_R_hyphen2" = -29;
-"@MMK_R_question" = -7;
-"@MMK_R_quotedbl2" = -44;
-"@MMK_R_s2" = -11;
-"@MMK_R_t2" = -16;
-"@MMK_R_u" = -12;
-"@MMK_R_v2" = 13;
-f = 12;
-guillemotright = 6;
-};
-"@MMK_L_ohorn" = {
-"@MMK_R_J2" = -51;
-"@MMK_R_a2" = -11;
-"@MMK_R_c" = -13;
-"@MMK_R_comma2" = -33;
-"@MMK_R_g2" = -14;
-"@MMK_R_s2" = -11;
-"@MMK_R_t2" = 6;
-"@MMK_R_v2" = 9;
-"@MMK_R_z2" = -13;
-x = 6;
-};
-"@MMK_L_one" = {
-"@MMK_R_onethird" = 39;
-"@MMK_R_two.numr" = 21;
-onehalf = 59;
-};
-"@MMK_L_quotedbl" = {
-"@MMK_R_a2" = -55;
-"@MMK_R_b2" = -46;
-"@MMK_R_c" = -62;
-"@MMK_R_g2" = -55;
-"@MMK_R_s2" = -75;
-"@MMK_R_t2" = -14;
-"@MMK_R_u" = -31;
-"@MMK_R_v2" = 3;
-"@MMK_R_z2" = -21;
-x = -24;
-};
-"@MMK_L_quoteleft" = {
-"@MMK_R_A2" = -92;
-"@MMK_R_J2" = -50;
-"@MMK_R_S2" = -3;
-"@MMK_R_T2" = 22;
-"@MMK_R_V2" = 23;
-"@MMK_R_Wgrave2" = 13;
-"@MMK_R_Y2" = 21;
-"@MMK_R_a2" = -21;
-"@MMK_R_c" = -51;
-"@MMK_R_g2" = -26;
-"@MMK_R_s2" = -33;
-"@MMK_R_t2" = 23;
-"@MMK_R_v2" = 30;
-X = 7;
-};
-"@MMK_L_quoteright" = {
-"@MMK_R_A2" = -103;
-"@MMK_R_a2" = -72;
-"@MMK_R_b2" = -22;
-"@MMK_R_c" = -64;
-"@MMK_R_comma2" = -101;
-"@MMK_R_s2" = -61;
-"@MMK_R_v2" = 17;
-"@MMK_R_z2" = -21;
-space = -24;
-};
-"@MMK_L_r" = {
-"@MMK_R_a2" = -19;
-"@MMK_R_bar" = -2;
-"@MMK_R_c" = -9;
-"@MMK_R_comma2" = -74;
-"@MMK_R_emdash2" = 11;
-"@MMK_R_g2" = -17;
-"@MMK_R_hyphen2" = -51;
-"@MMK_R_question" = -17;
-"@MMK_R_quotedbl2" = 3;
-"@MMK_R_quoteright2" = 13;
-"@MMK_R_s2" = -3;
-"@MMK_R_t2" = -16;
-"@MMK_R_v2" = 13;
-"@MMK_R_z2" = 7;
-Schwa = 2;
-f = 8;
-quotesinglbase = -46;
-x = 13;
-};
-"@MMK_L_s" = {
-"@MMK_R_a2" = 2;
-"@MMK_R_bar" = -3;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = -2;
-"@MMK_R_hyphen2" = 36;
-"@MMK_R_question" = -6;
-"@MMK_R_quotedbl2" = -7;
-"@MMK_R_s2" = -8;
-"@MMK_R_t2" = -19;
-"@MMK_R_v2" = -2;
-"@MMK_R_z2" = -3;
-X = -9;
-guillemotright = 6;
-quotesinglbase = -7;
-space = -3;
-x = -13;
-};
-"@MMK_L_seven" = {
-"@MMK_R_b2" = -10;
-"@MMK_R_comma2" = -121;
-"@MMK_R_four2" = -28;
-"@MMK_R_one2" = 21;
-"@MMK_R_onethird" = 98;
-"@MMK_R_question" = 39;
-"@MMK_R_seven2" = 14;
-"@MMK_R_six2" = -21;
-"@MMK_R_two.numr" = 28;
-"@MMK_R_two2" = 7;
-eight.osf = -21;
-nine.osf = 7;
-onehalf = 93;
-};
-"@MMK_L_six" = {
-"@MMK_R_four2" = -2;
-"@MMK_R_onethird" = 59;
-"@MMK_R_seven2" = -18;
-"@MMK_R_six2" = -7;
-"@MMK_R_two.numr" = 40;
-onehalf = 59;
-};
-"@MMK_L_t" = {
-"@MMK_R_V2" = -23;
-"@MMK_R_a2" = -3;
-"@MMK_R_c" = -13;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -25;
-"@MMK_R_j" = 6;
-"@MMK_R_question" = 3;
-"@MMK_R_quotedbl2" = -22;
-"@MMK_R_s2" = -2;
-"@MMK_R_t2" = -41;
-"@MMK_R_u" = -5;
-"@MMK_R_z2" = -2;
-f = -41;
-x = 2;
-};
-"@MMK_L_two" = {
-"@MMK_R_onethird" = 59;
-"@MMK_R_question" = -7;
-"@MMK_R_two.numr" = 54;
-four.numr = 16;
-onehalf = 59;
-seven.numr = 34;
-};
-"@MMK_L_uhorn" = {
-"@MMK_R_b2" = -6;
-"@MMK_R_c" = -20;
-"@MMK_R_comma2" = -53;
-"@MMK_R_g2" = -13;
-"@MMK_R_s2" = -16;
-"@MMK_R_t2" = 15;
-"@MMK_R_v2" = 12;
-};
-"@MMK_L_v" = {
-"@MMK_R_A2" = -47;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -21;
-"@MMK_R_a2" = -11;
-"@MMK_R_c" = -10;
-"@MMK_R_comma2" = -50;
-"@MMK_R_emdash2" = 2;
-"@MMK_R_g2" = -17;
-"@MMK_R_hyphen2" = -5;
-"@MMK_R_question" = -29;
-"@MMK_R_quotedbl2" = 11;
-"@MMK_R_s2" = -10;
-"@MMK_R_v2" = 9;
-f = 8;
-guillemotright = 13;
-quotesinglbase = -53;
-space = -3;
-x = 7;
-};
-"@MMK_L_z" = {
-"@MMK_R_T2" = -13;
-"@MMK_R_Y2" = -16;
-"@MMK_R_a2" = 5;
-"@MMK_R_c" = -3;
-"@MMK_R_emdash2" = 14;
-"@MMK_R_g2" = -7;
-"@MMK_R_hyphen2" = -31;
-"@MMK_R_quotedbl2" = -24;
-"@MMK_R_s2" = 1;
-"@MMK_R_t2" = 3;
-"@MMK_R_u" = -2;
-"@MMK_R_v2" = -9;
-"@MMK_R_z2" = 10;
-f = -3;
-x = -10;
-};
-B = {
-"@MMK_R_A2" = -5;
-"@MMK_R_AE" = -4;
-"@MMK_R_B" = 6;
-"@MMK_R_C2" = -3;
-"@MMK_R_S2" = 3;
-"@MMK_R_T2" = -24;
-"@MMK_R_V2" = -22;
-"@MMK_R_Wgrave2" = -18;
-"@MMK_R_Y2" = -40;
-"@MMK_R_Z2" = -13;
-"@MMK_R_c" = 3;
-"@MMK_R_emdash2" = 8;
-"@MMK_R_g2" = -10;
-"@MMK_R_hyphen2" = -10;
-"@MMK_R_question" = -7;
-"@MMK_R_quoteright2" = -21;
-"@MMK_R_v2" = -3;
-"@MMK_R_z2" = -7;
-X = -23;
-ampersand = -3;
-quotesinglbase = -13;
-};
-Q = {
-"@MMK_R_comma2" = -38;
-};
-X = {
-"@MMK_R_C2" = -17;
-"@MMK_R_J2" = 23;
-"@MMK_R_Oslash2" = 20;
-"@MMK_R_S2" = -15;
-"@MMK_R_T2" = 3;
-"@MMK_R_U" = -12;
-"@MMK_R_V2" = -2;
-"@MMK_R_Wgrave2" = 13;
-"@MMK_R_Y2" = -18;
-"@MMK_R_Z2" = 6;
-"@MMK_R_a2" = -3;
-"@MMK_R_b2" = -2;
-"@MMK_R_bar" = 9;
-"@MMK_R_c" = -25;
-"@MMK_R_emdash2" = -21;
-"@MMK_R_hyphen2" = -46;
-"@MMK_R_s2" = -23;
-"@MMK_R_t2" = -10;
-"@MMK_R_u" = -19;
-"@MMK_R_v2" = -37;
-X = 53;
-quotesinglbase = 10;
-x = 6;
-};
-ampersand = {
-"@MMK_R_T2" = -55;
-"@MMK_R_V2" = -44;
-"@MMK_R_Wgrave2" = -24;
-};
-c = {
-"@MMK_R_b2" = -3;
-"@MMK_R_c" = -3;
-};
-dcroat = {
-"@MMK_R_c" = -33;
-};
-eight.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-eight.osf = {
-"@MMK_R_four2" = -7;
-"@MMK_R_seven2" = -17;
-};
-endash = {
-space = -172;
-};
-exclam = {
-"@MMK_R_question" = 21;
-};
-f = {
-"@MMK_R_V2" = 33;
-"@MMK_R_a2" = 3;
-"@MMK_R_bar" = -3;
-"@MMK_R_c" = -7;
-"@MMK_R_comma2" = -21;
-"@MMK_R_g2" = -16;
-"@MMK_R_hyphen2" = -10;
-"@MMK_R_question" = 28;
-"@MMK_R_quoteright2" = 20;
-"@MMK_R_s2" = -7;
-"@MMK_R_t2" = -33;
-"@MMK_R_v2" = 6;
-"@MMK_R_z2" = -3;
-f = -26;
-quotesinglbase = -17;
-x = 6;
-};
-five.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-fiveeighths = {
-fraction = 22;
-};
-fl = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-four.dnom = {
-five.dnom = -2;
-};
-four.numr = {
-"@MMK_R_two.numr" = -2;
-fraction = 8;
-};
-fraction = {
-eight.dnom = -17;
-four.dnom = -94;
-one.dnom = 29;
-seven.dnom = 56;
-six.dnom = -17;
-three.dnom = -17;
-two.dnom = 8;
-zero.dnom = -17;
-};
-guillemotleft = {
-"@MMK_R_S2" = -7;
-"@MMK_R_T2" = -40;
-"@MMK_R_V2" = -37;
-"@MMK_R_Wgrave2" = -10;
-"@MMK_R_Y2" = -47;
-"@MMK_R_g2" = -3;
-"@MMK_R_s2" = 6;
-"@MMK_R_t2" = 13;
-"@MMK_R_v2" = 16;
-"@MMK_R_z2" = 6;
-X = -14;
-x = 6;
-};
-l = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-lacute = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-lcaron = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-lcommaaccent = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-ldot = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -5;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-lslash = {
-"@MMK_R_J2" = 3;
-"@MMK_R_T2" = -38;
-"@MMK_R_V2" = -22;
-"@MMK_R_Y2" = -25;
-"@MMK_R_a2" = -15;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 5;
-"@MMK_R_c" = -21;
-"@MMK_R_comma2" = 5;
-"@MMK_R_emdash2" = 17;
-"@MMK_R_g2" = 12;
-"@MMK_R_hyphen2" = -18;
-"@MMK_R_quotedbl2" = -46;
-"@MMK_R_quoteright2" = -40;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = -38;
-"@MMK_R_u" = -17;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 7;
-f = -23;
-l = -15;
-};
-nine.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-nine.osf = {
-"@MMK_R_seven2" = -32;
-nine.osf = 27;
-};
-ohorn = {
-"@MMK_R_z2" = 2;
-};
-one.numr = {
-fraction = 22;
-};
-oneeighth = {
-fraction = 22;
-};
-onequarter = {
-fraction = 22;
-};
-onethird = {
-fraction = 22;
-};
-oslash = {
-w = 19;
-wacute = 19;
-wcircumflex = 19;
-wdieresis = 19;
-wgrave = 19;
-y = 19;
-yacute = 19;
-ycircumflex = 19;
-ydieresis = 19;
-ydotbelow = 19;
-ygrave = 19;
-yhoi = 19;
-ytilde = 19;
-};
-quotesinglbase = {
-"@MMK_R_A2" = 7;
-"@MMK_R_J2" = 7;
-"@MMK_R_S2" = -7;
-"@MMK_R_T2" = -83;
-"@MMK_R_U" = -20;
-"@MMK_R_V2" = -61;
-"@MMK_R_Wgrave2" = -46;
-"@MMK_R_Y2" = -96;
-"@MMK_R_Z2" = 7;
-"@MMK_R_g2" = 10;
-"@MMK_R_question" = -59;
-"@MMK_R_t2" = -3;
-"@MMK_R_v2" = -36;
-"@MMK_R_z2" = 3;
-X = 14;
-x = 3;
-};
-seven.dnom = {
-eight.dnom = -8;
-six.dnom = -8;
-three.dnom = -8;
-two.dnom = -8;
-zero.dnom = -8;
-};
-seven.numr = {
-"@MMK_R_two.numr" = -10;
-fraction = -60;
-};
-seveneighths = {
-fraction = 22;
-};
-six.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-six.osf = {
-"@MMK_R_seven2" = -7;
-};
-softhyphen = {
-space = -172;
-};
-space = {
-"@MMK_R_V2" = -24;
-"@MMK_R_c" = -14;
-"@MMK_R_t2" = -7;
-"@MMK_R_v2" = -7;
-endash = -117;
-softhyphen = -117;
-};
-t = {
-"@MMK_R_t2" = -51;
-};
-three.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-three.osf = {
-"@MMK_R_four2" = -7;
-};
-threeeighths = {
-fraction = 22;
-};
-threequarters = {
-fraction = 22;
-};
-two.numr = {
-fraction = 47;
-};
-twothirds = {
-fraction = 22;
-};
-x = {
-"@MMK_R_S2" = -17;
-"@MMK_R_V2" = -6;
-"@MMK_R_a2" = -20;
-"@MMK_R_c" = -18;
-"@MMK_R_g2" = 10;
-"@MMK_R_hyphen2" = -40;
-"@MMK_R_question" = -7;
-"@MMK_R_s2" = -13;
-"@MMK_R_t2" = -24;
-"@MMK_R_u" = -5;
-"@MMK_R_v2" = 7;
-"@MMK_R_z2" = 3;
-f = 3;
-quotesinglbase = -3;
-x = 18;
-};
-zero.numr = {
-fraction = -13;
-seven.numr = -2;
-};
-};
-"4A771BA9-DE6D-4DFF-875A-35CEAA78AE27" = {
-"@MMK_L_A" = {
-"@MMK_R_A2" = 25;
-"@MMK_R_C2" = -35;
-"@MMK_R_J2" = 25;
-"@MMK_R_Oslash2" = 15;
-"@MMK_R_S2" = -15;
-"@MMK_R_T2" = -85;
-"@MMK_R_U" = -45;
-"@MMK_R_V2" = -107;
-"@MMK_R_Wgrave2" = -73;
-"@MMK_R_Y2" = -98;
-"@MMK_R_c" = -20;
-"@MMK_R_g2" = -10;
-"@MMK_R_hyphen2" = -30;
-"@MMK_R_question" = 20;
-"@MMK_R_quoteright2" = -117;
-"@MMK_R_s2" = -15;
-"@MMK_R_seven2" = -45;
-"@MMK_R_t2" = -45;
-"@MMK_R_u" = -15;
-"@MMK_R_v2" = -76;
-"@MMK_R_z2" = 10;
-X = 20;
-f = -35;
-x = -20;
-};
-"@MMK_L_C" = {
-"@MMK_R_A2" = -30;
-"@MMK_R_AE" = -78;
-"@MMK_R_T2" = -5;
-"@MMK_R_V2" = -30;
-"@MMK_R_Wgrave2" = -10;
-"@MMK_R_Y2" = -30;
-"@MMK_R_Z2" = -20;
-"@MMK_R_a2" = -20;
-"@MMK_R_c" = 5;
-"@MMK_R_emdash2" = 30;
-"@MMK_R_g2" = -10;
-"@MMK_R_z2" = -5;
-X = -40;
-};
-"@MMK_L_D" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_S2" = -10;
-"@MMK_R_V2" = -40;
-"@MMK_R_Y2" = -50;
-"@MMK_R_Z2" = -45;
-"@MMK_R_comma2" = -40;
-X = -45;
-};
-"@MMK_L_E" = {
-"@MMK_R_A2" = 10;
-"@MMK_R_AE" = -25;
-"@MMK_R_C2" = -5;
-"@MMK_R_J2" = 15;
-"@MMK_R_S2" = 10;
-"@MMK_R_T2" = 30;
-"@MMK_R_V2" = 10;
-"@MMK_R_Wgrave2" = 20;
-"@MMK_R_Y2" = 20;
-"@MMK_R_bar" = 30;
-"@MMK_R_emdash2" = 60;
-"@MMK_R_g2" = -10;
-"@MMK_R_hyphen2" = -20;
-"@MMK_R_question" = 10;
-"@MMK_R_t2" = -15;
-"@MMK_R_u" = -10;
-"@MMK_R_v2" = -15;
-"@MMK_R_z2" = 10;
-X = 20;
-};
-"@MMK_L_F" = {
-"@MMK_R_A2" = -70;
-"@MMK_R_J2" = -50;
-"@MMK_R_S2" = -10;
-"@MMK_R_T2" = 40;
-"@MMK_R_Wgrave2" = 30;
-"@MMK_R_Y2" = 30;
-"@MMK_R_Z2" = -20;
-"@MMK_R_a2" = -10;
-"@MMK_R_c" = -25;
-"@MMK_R_comma2" = -95;
-"@MMK_R_g2" = -10;
-"@MMK_R_question" = 30;
-"@MMK_R_s2" = -15;
-"@MMK_R_t2" = 10;
-"@MMK_R_u" = -10;
-"@MMK_R_v2" = -10;
-quotesinglbase = -67;
-x = -30;
-};
-"@MMK_L_G" = {
-"@MMK_R_A2" = 10;
-"@MMK_R_J2" = 10;
-"@MMK_R_Oslash2" = 10;
-"@MMK_R_T2" = -25;
-"@MMK_R_V2" = -40;
-"@MMK_R_Wgrave2" = -30;
-"@MMK_R_Y2" = -60;
-};
-"@MMK_L_H" = {
-"@MMK_R_U" = -15;
-"@MMK_R_c" = -20;
-"@MMK_R_emdash2" = 40;
-"@MMK_R_t2" = -15;
-};
-"@MMK_L_J" = {
-"@MMK_R_A2" = -45;
-"@MMK_R_AE" = -83;
-"@MMK_R_comma2" = -30;
-"@MMK_R_g2" = -10;
-};
-"@MMK_L_K" = {
-"@MMK_R_A2" = 20;
-"@MMK_R_J2" = 20;
-"@MMK_R_S2" = -40;
-"@MMK_R_T2" = 10;
-"@MMK_R_U" = -25;
-"@MMK_R_V2" = 30;
-"@MMK_R_Y2" = 20;
-"@MMK_R_a2" = -15;
-"@MMK_R_c" = -35;
-"@MMK_R_hyphen2" = -67;
-"@MMK_R_s2" = -20;
-"@MMK_R_t2" = -63;
-"@MMK_R_u" = -40;
-"@MMK_R_v2" = -63;
-f = -15;
-};
-"@MMK_L_L" = {
-"@MMK_R_A2" = 15;
-"@MMK_R_C2" = -20;
-"@MMK_R_J2" = 40;
-"@MMK_R_S2" = 40;
-"@MMK_R_T2" = -87;
-"@MMK_R_U" = -20;
-"@MMK_R_V2" = -78;
-"@MMK_R_Wgrave2" = -60;
-"@MMK_R_Y2" = -117;
-"@MMK_R_hyphen2" = -50;
-"@MMK_R_quoteright2" = -103;
-"@MMK_R_t2" = -35;
-"@MMK_R_u" = 15;
-"@MMK_R_v2" = -55;
-X = 20;
-x = 30;
-};
-"@MMK_L_O" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_AE" = -78;
-"@MMK_R_C2" = -10;
-"@MMK_R_S2" = 10;
-"@MMK_R_U" = -5;
-"@MMK_R_V2" = -45;
-"@MMK_R_Wgrave2" = -50;
-"@MMK_R_Y2" = -67;
-"@MMK_R_Z2" = -35;
-"@MMK_R_a2" = -30;
-"@MMK_R_b2" = -20;
-"@MMK_R_c" = -20;
-"@MMK_R_comma2" = -35;
-"@MMK_R_emdash2" = 5;
-"@MMK_R_s2" = -15;
-"@MMK_R_seven2" = -15;
-"@MMK_R_t2" = -10;
-X = -30;
-x = -53;
-};
-"@MMK_L_Ohorn" = {
-"@MMK_R_A2" = -97;
-"@MMK_R_C2" = -67;
-"@MMK_R_J2" = -50;
-"@MMK_R_a2" = -87;
-"@MMK_R_b2" = -87;
-"@MMK_R_bar" = -20;
-"@MMK_R_c" = -87;
-"@MMK_R_comma2" = -98;
-"@MMK_R_g2" = -107;
-"@MMK_R_s2" = -103;
-"@MMK_R_t2" = -60;
-"@MMK_R_u" = -87;
-"@MMK_R_v2" = -87;
-"@MMK_R_z2" = -78;
-x = -117;
-};
-"@MMK_L_Oslash" = {
-"@MMK_R_A2" = -45;
-"@MMK_R_J2" = -25;
-};
-"@MMK_L_P" = {
-"@MMK_R_A2" = -78;
-"@MMK_R_AE" = -181;
-"@MMK_R_J2" = -67;
-"@MMK_R_S2" = -5;
-"@MMK_R_Wgrave2" = -10;
-"@MMK_R_Y2" = -30;
-"@MMK_R_Z2" = -25;
-"@MMK_R_a2" = -18;
-"@MMK_R_bar" = 20;
-"@MMK_R_c" = -25;
-"@MMK_R_comma2" = -137;
-"@MMK_R_emdash2" = -5;
-"@MMK_R_g2" = -15;
-"@MMK_R_hyphen2" = -10;
-"@MMK_R_question" = -10;
-"@MMK_R_s2" = -20;
-"@MMK_R_t2" = 10;
-"@MMK_R_v2" = 20;
-X = -63;
-guillemotright = 30;
-quotesinglbase = -107;
-x = -5;
-};
-"@MMK_L_R" = {
-"@MMK_R_A2" = 10;
-"@MMK_R_AE" = -25;
-"@MMK_R_C2" = -20;
-"@MMK_R_J2" = 10;
-"@MMK_R_S2" = -10;
-"@MMK_R_T2" = -10;
-"@MMK_R_U" = -25;
-"@MMK_R_V2" = -35;
-"@MMK_R_Wgrave2" = -30;
-"@MMK_R_Y2" = -50;
-"@MMK_R_a2" = -10;
-"@MMK_R_c" = -20;
-"@MMK_R_g2" = -5;
-"@MMK_R_hyphen2" = -40;
-"@MMK_R_u" = -5;
-"@MMK_R_z2" = -5;
-quotesinglbase = -10;
-x = -5;
-};
-"@MMK_L_S" = {
-"@MMK_R_A2" = -10;
-"@MMK_R_AE" = -58;
-"@MMK_R_J2" = 20;
-"@MMK_R_S2" = 10;
-"@MMK_R_T2" = 10;
-"@MMK_R_V2" = -20;
-"@MMK_R_Wgrave2" = -5;
-"@MMK_R_Y2" = -35;
-"@MMK_R_Z2" = -15;
-"@MMK_R_a2" = -10;
-"@MMK_R_bar" = 30;
-"@MMK_R_c" = -10;
-"@MMK_R_g2" = -15;
-"@MMK_R_hyphen2" = 10;
-"@MMK_R_t2" = -10;
-"@MMK_R_z2" = -5;
-X = -25;
-quotesinglbase = -10;
-x = -40;
-};
-"@MMK_L_T" = {
-"@MMK_R_A2" = -85;
-"@MMK_R_AE" = -127;
-"@MMK_R_J2" = -42;
-"@MMK_R_S2" = -5;
-"@MMK_R_T2" = 40;
-"@MMK_R_V2" = 30;
-"@MMK_R_Wgrave2" = 30;
-"@MMK_R_Y2" = 35;
-"@MMK_R_Z2" = 10;
-"@MMK_R_a2" = -63;
-"@MMK_R_bar" = 25;
-"@MMK_R_c" = -83;
-"@MMK_R_comma2" = -127;
-"@MMK_R_four2" = -50;
-"@MMK_R_g2" = -87;
-"@MMK_R_question" = 40;
-"@MMK_R_s2" = -87;
-"@MMK_R_t2" = -20;
-"@MMK_R_u" = -67;
-"@MMK_R_v2" = -67;
-"@MMK_R_z2" = -50;
-Schwa = -60;
-X = 15;
-quotesinglbase = -107;
-x = -67;
-};
-"@MMK_L_Uhorn" = {
-"@MMK_R_A2" = -132;
-"@MMK_R_J2" = -98;
-"@MMK_R_a2" = -90;
-"@MMK_R_b2" = -75;
-"@MMK_R_c" = -125;
-"@MMK_R_comma2" = -155;
-"@MMK_R_g2" = -100;
-"@MMK_R_s2" = -110;
-"@MMK_R_t2" = -50;
-"@MMK_R_u" = -75;
-"@MMK_R_z2" = -90;
-x = -75;
-};
-"@MMK_L_V" = {
-"@MMK_R_A2" = -107;
-"@MMK_R_AE" = -170;
-"@MMK_R_C2" = -45;
-"@MMK_R_J2" = -50;
-"@MMK_R_S2" = -30;
-"@MMK_R_T2" = 30;
-"@MMK_R_V2" = 30;
-"@MMK_R_Wgrave2" = 40;
-"@MMK_R_Y2" = 30;
-"@MMK_R_a2" = -60;
-"@MMK_R_b2" = -20;
-"@MMK_R_c" = -65;
-"@MMK_R_comma2" = -80;
-"@MMK_R_g2" = -67;
-"@MMK_R_hyphen2" = -50;
-"@MMK_R_question" = 40;
-"@MMK_R_s2" = -60;
-"@MMK_R_t2" = -10;
-"@MMK_R_z2" = -20;
-X = 30;
-quotesinglbase = -78;
-x = -50;
-};
-"@MMK_L_Wgrave" = {
-"@MMK_R_A2" = -73;
-"@MMK_R_AE" = -155;
-"@MMK_R_C2" = -15;
-"@MMK_R_J2" = -50;
-"@MMK_R_S2" = -30;
-"@MMK_R_T2" = 20;
-"@MMK_R_V2" = 40;
-"@MMK_R_Wgrave2" = 20;
-"@MMK_R_Y2" = 40;
-"@MMK_R_Z2" = -10;
-"@MMK_R_a2" = -60;
-"@MMK_R_b2" = -10;
-"@MMK_R_bar" = 20;
-"@MMK_R_c" = -67;
-"@MMK_R_comma2" = -67;
-"@MMK_R_g2" = -67;
-"@MMK_R_hyphen2" = -40;
-"@MMK_R_question" = 30;
-"@MMK_R_s2" = -60;
-"@MMK_R_t2" = -20;
-"@MMK_R_u" = -35;
-"@MMK_R_v2" = -30;
-X = 10;
-quotesinglbase = -60;
-x = -30;
-};
-"@MMK_L_Y" = {
-"@MMK_R_A2" = -98;
-"@MMK_R_AE" = -190;
-"@MMK_R_C2" = -60;
-"@MMK_R_J2" = -67;
-"@MMK_R_S2" = -50;
-"@MMK_R_T2" = 35;
-"@MMK_R_U" = 10;
-"@MMK_R_V2" = 40;
-"@MMK_R_Wgrave2" = 40;
-"@MMK_R_Y2" = 30;
-"@MMK_R_a2" = -92;
-"@MMK_R_b2" = 5;
-"@MMK_R_bar" = 40;
-"@MMK_R_c" = -125;
-"@MMK_R_comma2" = -127;
-"@MMK_R_g2" = -112;
-"@MMK_R_hyphen2" = -78;
-"@MMK_R_question" = 30;
-"@MMK_R_quoteright2" = 20;
-"@MMK_R_s2" = -98;
-"@MMK_R_t2" = -63;
-"@MMK_R_u" = -78;
-"@MMK_R_v2" = -63;
-"@MMK_R_z2" = -60;
-Schwa = -67;
-X = 25;
-f = -20;
-guillemotright = -50;
-quotesinglbase = -117;
-x = -60;
-};
-"@MMK_L_Z" = {
-"@MMK_R_A2" = 10;
-"@MMK_R_AE" = -20;
-"@MMK_R_S2" = 15;
-"@MMK_R_T2" = 20;
-"@MMK_R_U" = -5;
-"@MMK_R_V2" = 20;
-"@MMK_R_Z2" = 15;
-"@MMK_R_a2" = 15;
-"@MMK_R_c" = -5;
-"@MMK_R_emdash2" = 10;
-"@MMK_R_u" = -10;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = 20;
-X = 20;
-};
-"@MMK_L_a" = {
-"@MMK_R_T2" = -67;
-"@MMK_R_V2" = -60;
-"@MMK_R_Y2" = -87;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = -5;
-"@MMK_R_emdash2" = 30;
-"@MMK_R_quotedbl2" = -50;
-"@MMK_R_quoteright2" = -30;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -15;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = -5;
-x = -5;
-};
-"@MMK_L_b" = {
-"@MMK_R_B" = -20;
-"@MMK_R_J2" = 15;
-"@MMK_R_T2" = -83;
-"@MMK_R_V2" = -60;
-"@MMK_R_Wgrave2" = -63;
-"@MMK_R_Y2" = -125;
-"@MMK_R_bar" = -10;
-"@MMK_R_emdash2" = 50;
-"@MMK_R_g2" = -10;
-"@MMK_R_hyphen2" = 10;
-"@MMK_R_question" = -10;
-"@MMK_R_quotedbl2" = -53;
-"@MMK_R_quoteright2" = -30;
-"@MMK_R_t2" = -10;
-"@MMK_R_v2" = -20;
-"@MMK_R_z2" = -15;
-f = -10;
-x = -45;
-};
-"@MMK_L_comma" = {
-"@MMK_R_A2" = 20;
-"@MMK_R_C2" = -30;
-"@MMK_R_S2" = 10;
-"@MMK_R_T2" = -95;
-"@MMK_R_V2" = -38;
-"@MMK_R_Y2" = -155;
-"@MMK_R_comma2" = 20;
-"@MMK_R_g2" = 20;
-"@MMK_R_quoteright2" = -117;
-"@MMK_R_seven2" = -110;
-"@MMK_R_two2" = 20;
-};
-"@MMK_L_d" = {
-"@MMK_R_g2" = -5;
-"@MMK_R_quotedbl2" = -5;
-};
-"@MMK_L_emdash" = {
-"@MMK_R_A2" = -35;
-"@MMK_R_B" = -30;
-"@MMK_R_C2" = -30;
-"@MMK_R_J2" = 25;
-"@MMK_R_V2" = -50;
-"@MMK_R_c" = 30;
-"@MMK_R_s2" = 30;
-"@MMK_R_t2" = 15;
-"@MMK_R_v2" = 5;
-"@MMK_R_z2" = 25;
-X = -50;
-x = -10;
-};
-"@MMK_L_five" = {
-"@MMK_R_onethird" = 58;
-};
-"@MMK_L_four" = {
-"@MMK_R_T2" = -5;
-"@MMK_R_five2" = -15;
-"@MMK_R_onethird" = 60;
-};
-"@MMK_L_g" = {
-"@MMK_R_a2" = -15;
-"@MMK_R_bar" = 20;
-"@MMK_R_c" = -10;
-"@MMK_R_emdash2" = 5;
-"@MMK_R_hyphen2" = -30;
-"@MMK_R_j" = 50;
-"@MMK_R_quotedbl2" = 10;
-"@MMK_R_quoteright2" = 20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = 30;
-"@MMK_R_u" = -5;
-"@MMK_R_v2" = 20;
-"@MMK_R_z2" = 10;
-f = 20;
-quotesinglbase = -20;
-x = 10;
-};
-"@MMK_L_hyphen" = {
-"@MMK_R_A2" = -25;
-"@MMK_R_S2" = -15;
-"@MMK_R_T2" = -117;
-"@MMK_R_V2" = -63;
-"@MMK_R_Wgrave2" = -40;
-"@MMK_R_Y2" = -75;
-"@MMK_R_Z2" = -30;
-"@MMK_R_c" = 20;
-"@MMK_R_g2" = -10;
-"@MMK_R_one2" = -63;
-"@MMK_R_s2" = 10;
-"@MMK_R_seven2" = -112;
-"@MMK_R_t2" = -15;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-X = -78;
-x = -40;
-};
-"@MMK_L_k" = {
-"@MMK_R_V2" = -30;
-"@MMK_R_a2" = -20;
-"@MMK_R_c" = -30;
-"@MMK_R_g2" = -20;
-"@MMK_R_hyphen2" = -50;
-"@MMK_R_quotedbl2" = -30;
-"@MMK_R_s2" = -25;
-"@MMK_R_t2" = 15;
-"@MMK_R_u" = -5;
-"@MMK_R_v2" = 20;
-f = 15;
-guillemotright = 20;
-};
-"@MMK_L_ohorn" = {
-"@MMK_R_J2" = -78;
-"@MMK_R_a2" = -35;
-"@MMK_R_c" = -40;
-"@MMK_R_comma2" = -107;
-"@MMK_R_g2" = -45;
-"@MMK_R_s2" = -35;
-"@MMK_R_t2" = 20;
-"@MMK_R_v2" = 30;
-"@MMK_R_z2" = -40;
-x = 20;
-};
-"@MMK_L_one" = {
-"@MMK_R_onethird" = 60;
-};
-"@MMK_L_quotedbl" = {
-"@MMK_R_a2" = -30;
-"@MMK_R_b2" = -20;
-"@MMK_R_c" = -50;
-"@MMK_R_g2" = -30;
-"@MMK_R_s2" = -50;
-"@MMK_R_u" = -10;
-"@MMK_R_v2" = 10;
-x = -10;
-};
-"@MMK_L_quoteleft" = {
-"@MMK_R_A2" = -112;
-"@MMK_R_J2" = -60;
-"@MMK_R_T2" = 25;
-"@MMK_R_V2" = 20;
-"@MMK_R_Wgrave2" = 20;
-"@MMK_R_a2" = -35;
-"@MMK_R_c" = -45;
-"@MMK_R_g2" = -40;
-"@MMK_R_s2" = -40;
-"@MMK_R_t2" = 30;
-"@MMK_R_v2" = 30;
-};
-"@MMK_L_quoteright" = {
-"@MMK_R_A2" = -127;
-"@MMK_R_a2" = -103;
-"@MMK_R_b2" = -25;
-"@MMK_R_c" = -78;
-"@MMK_R_comma2" = -132;
-"@MMK_R_s2" = -67;
-"@MMK_R_v2" = 10;
-};
-"@MMK_L_r" = {
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = -5;
-"@MMK_R_c" = 5;
-"@MMK_R_comma2" = -35;
-"@MMK_R_emdash2" = 35;
-"@MMK_R_hyphen2" = -5;
-"@MMK_R_question" = -20;
-"@MMK_R_quotedbl2" = 10;
-"@MMK_R_quoteright2" = 30;
-"@MMK_R_t2" = 5;
-"@MMK_R_v2" = 10;
-Schwa = 5;
-f = 25;
-quotesinglbase = -60;
-x = 10;
-};
-"@MMK_L_s" = {
-"@MMK_R_a2" = 5;
-"@MMK_R_bar" = -10;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = -5;
-"@MMK_R_hyphen2" = 60;
-"@MMK_R_question" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = 5;
-"@MMK_R_v2" = -5;
-"@MMK_R_z2" = -10;
-X = -30;
-guillemotright = 20;
-quotesinglbase = -10;
-x = -20;
-};
-"@MMK_L_seven" = {
-"@MMK_R_comma2" = -107;
-"@MMK_R_onethird" = 98;
-"@MMK_R_question" = 58;
-};
-"@MMK_L_six" = {
-"@MMK_R_four2" = -5;
-"@MMK_R_onethird" = 60;
-"@MMK_R_seven2" = -15;
-};
-"@MMK_L_t" = {
-"@MMK_R_V2" = -30;
-"@MMK_R_c" = -20;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_j" = 20;
-"@MMK_R_question" = 10;
-"@MMK_R_quotedbl2" = -5;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -20;
-"@MMK_R_u" = -5;
-"@MMK_R_z2" = -5;
-f = -20;
-x = 5;
-};
-"@MMK_L_two" = {
-"@MMK_R_onethird" = 60;
-"@MMK_R_two.numr" = 35;
-four.numr = 50;
-};
-"@MMK_L_uhorn" = {
-"@MMK_R_b2" = -20;
-"@MMK_R_c" = -63;
-"@MMK_R_comma2" = -137;
-"@MMK_R_g2" = -40;
-"@MMK_R_s2" = -50;
-"@MMK_R_t2" = 15;
-"@MMK_R_v2" = 15;
-};
-"@MMK_L_v" = {
-"@MMK_R_A2" = -73;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -67;
-"@MMK_R_a2" = -25;
-"@MMK_R_c" = -20;
-"@MMK_R_comma2" = -50;
-"@MMK_R_emdash2" = 5;
-"@MMK_R_g2" = -20;
-"@MMK_R_hyphen2" = -5;
-"@MMK_R_question" = -50;
-"@MMK_R_quotedbl2" = -10;
-"@MMK_R_s2" = -20;
-"@MMK_R_t2" = 35;
-"@MMK_R_v2" = 30;
-f = 25;
-guillemotright = 40;
-quotesinglbase = -60;
-};
-"@MMK_L_z" = {
-"@MMK_R_T2" = -40;
-"@MMK_R_Y2" = -50;
-"@MMK_R_a2" = 15;
-"@MMK_R_c" = -10;
-"@MMK_R_emdash2" = 45;
-"@MMK_R_hyphen2" = -45;
-"@MMK_R_quotedbl2" = -10;
-"@MMK_R_s2" = 15;
-"@MMK_R_t2" = 20;
-"@MMK_R_u" = -5;
-"@MMK_R_v2" = 15;
-"@MMK_R_z2" = 20;
-};
-B = {
-"@MMK_R_A2" = -15;
-"@MMK_R_AE" = -58;
-"@MMK_R_B" = 20;
-"@MMK_R_S2" = 10;
-"@MMK_R_T2" = -10;
-"@MMK_R_V2" = -25;
-"@MMK_R_Wgrave2" = -25;
-"@MMK_R_Y2" = -40;
-"@MMK_R_Z2" = -20;
-"@MMK_R_c" = 10;
-"@MMK_R_emdash2" = 25;
-"@MMK_R_g2" = -10;
-X = -30;
-ampersand = -10;
-quotesinglbase = -10;
-};
-Q = {
-comma = -10;
-ellipsis = -10;
-period = -10;
-periodcentered = -10;
-underscore = -10;
-};
-T = {
-ampersand = -20;
-};
-Tbar = {
-ampersand = -20;
-};
-Tcaron = {
-ampersand = -20;
-};
-Tcedilla = {
-ampersand = -20;
-};
-Tcommaaccent = {
-ampersand = -20;
-};
-Tdotbelow = {
-ampersand = -20;
-};
-V = {
-ae = -60;
-ampersand = -65;
-};
-W = {
-ae = -60;
-ampersand = -65;
-};
-X = {
-"@MMK_R_A2" = 20;
-"@MMK_R_C2" = -53;
-"@MMK_R_J2" = 30;
-"@MMK_R_Oslash2" = 20;
-"@MMK_R_S2" = -15;
-"@MMK_R_T2" = 10;
-"@MMK_R_U" = -15;
-"@MMK_R_V2" = -5;
-"@MMK_R_Wgrave2" = 10;
-"@MMK_R_Y2" = -15;
-"@MMK_R_Z2" = 20;
-"@MMK_R_a2" = -10;
-"@MMK_R_b2" = -5;
-"@MMK_R_bar" = 30;
-"@MMK_R_c" = -35;
-"@MMK_R_hyphen2" = -58;
-"@MMK_R_s2" = -30;
-"@MMK_R_t2" = -53;
-"@MMK_R_u" = -40;
-"@MMK_R_v2" = -73;
-X = 30;
-x = 20;
-};
-Y = {
-space = -35;
-};
-Yacute = {
-space = -35;
-};
-Ycircumflex = {
-space = -35;
-};
-Ydieresis = {
-space = -35;
-};
-Ydotbelow = {
-space = -35;
-};
-Ygrave = {
-space = -35;
-};
-Yhoi = {
-space = -35;
-};
-Ytilde = {
-space = -35;
-};
-ae = {
-v = -20;
-};
-aeacute = {
-v = -20;
-};
-ampersand = {
-T = -65;
-Tbar = -65;
-Tcaron = -65;
-Tcedilla = -65;
-Tcommaaccent = -65;
-Tdotbelow = -65;
-V = -75;
-W = -75;
-};
-at = {
-v = -20;
-};
-b = {
-v = -20;
-};
-c = {
-v = -20;
-};
-cacute = {
-v = -20;
-};
-ccaron = {
-v = -20;
-};
-ccedilla = {
-v = -20;
-};
-ccircumflex = {
-v = -20;
-};
-cdotaccent = {
-v = -20;
-};
-dcroat = {
-at = -50;
-c = -50;
-cacute = -50;
-ccaron = -50;
-ccedilla = -50;
-ccircumflex = -50;
-cdotaccent = -50;
-d = -50;
-dcaron = -50;
-dcroat = -50;
-ddotbelow = -50;
-e = -50;
-eacute = -50;
-ebreve = -50;
-ecaron = -50;
-ecircumflex = -50;
-ecircumflexacute = -50;
-ecircumflexdotbelow = -50;
-ecircumflexgrave = -50;
-ecircumflexhoi = -50;
-ecircumflextilde = -50;
-edblgrave = -50;
-edieresis = -50;
-edotaccent = -50;
-edotbelow = -50;
-egrave = -50;
-ehoi = -50;
-einvertedbreve = -50;
-emacron = -50;
-eogonek = -50;
-eth = -50;
-etilde = -50;
-g.ss01 = -50;
-o = -50;
-oacute = -50;
-obreve = -50;
-ocircumflex = -50;
-ocircumflexacute = -50;
-ocircumflexdotbelow = -50;
-ocircumflexgrave = -50;
-ocircumflexhoi = -50;
-ocircumflextilde = -50;
-odblgrave = -50;
-odieresis = -50;
-odotbelow = -50;
-oe = -50;
-ograve = -50;
-ohoi = -50;
-ohorn = -50;
-ohornacute = -50;
-ohorndotbelow = -50;
-ohorngrave = -50;
-ohornhoi = -50;
-ohorntilde = -50;
-ohungarumlaut = -50;
-oinvertedbreve = -50;
-omacron = -50;
-oogonek = -50;
-oslash = -50;
-oslashacute = -50;
-otilde = -50;
-q = -50;
-schwa = -50;
-};
-e = {
-v = -20;
-};
-eacute = {
-v = -20;
-};
-ebreve = {
-v = -20;
-};
-ecaron = {
-v = -20;
-};
-ecircumflex = {
-v = -20;
-};
-ecircumflexacute = {
-v = -20;
-};
-ecircumflexdotbelow = {
-v = -20;
-};
-ecircumflexgrave = {
-v = -20;
-};
-ecircumflexhoi = {
-v = -20;
-};
-ecircumflextilde = {
-v = -20;
-};
-edblgrave = {
-v = -20;
-};
-edieresis = {
-v = -20;
-};
-edotaccent = {
-v = -20;
-};
-edotbelow = {
-v = -20;
-};
-egrave = {
-v = -20;
-};
-ehoi = {
-v = -20;
-};
-eight = {
-onehalf = 60;
-};
-eight.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-einvertedbreve = {
-v = -20;
-};
-emacron = {
-v = -20;
-};
-eogonek = {
-v = -20;
-};
-eth = {
-v = -20;
-};
-etilde = {
-v = -20;
-};
-f = {
-"@MMK_R_V2" = 40;
-"@MMK_R_a2" = 20;
-"@MMK_R_bar" = -10;
-"@MMK_R_g2" = 5;
-"@MMK_R_quoteright2" = 20;
-"@MMK_R_t2" = 5;
-"@MMK_R_v2" = 20;
-f = 5;
-x = 20;
-};
-five = {
-onehalf = 58;
-};
-five.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-five.osf = {
-onehalf = 58;
-};
-fiveeighths = {
-fraction = 25;
-};
-fl = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-f = -20;
-};
-four = {
-onehalf = 50;
-};
-four.dnom = {
-five.dnom = -5;
-};
-four.numr = {
-"@MMK_R_two.numr" = -5;
-fraction = 25;
-};
-four.osf = {
-onehalf = 50;
-};
-fraction = {
-eight.dnom = -20;
-four.dnom = -98;
-one.dnom = 15;
-seven.dnom = 50;
-six.dnom = -20;
-three.dnom = -20;
-two.dnom = -20;
-zero.dnom = -20;
-};
-germandbls = {
-space = -10;
-};
-guillemotleft = {
-"@MMK_R_V2" = -40;
-"@MMK_R_Y2" = -50;
-"@MMK_R_g2" = -10;
-"@MMK_R_s2" = 20;
-"@MMK_R_t2" = 40;
-"@MMK_R_v2" = 30;
-"@MMK_R_z2" = 20;
-x = 20;
-};
-lacute = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-f = -20;
-};
-lcaron = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-f = -20;
-};
-lcommaaccent = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-f = -20;
-};
-ldot = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-f = -20;
-};
-lslash = {
-"@MMK_R_J2" = 10;
-"@MMK_R_T2" = -35;
-"@MMK_R_V2" = -25;
-"@MMK_R_Y2" = -35;
-"@MMK_R_a2" = -5;
-"@MMK_R_bar" = 15;
-"@MMK_R_c" = -35;
-"@MMK_R_comma2" = 15;
-"@MMK_R_emdash2" = 53;
-"@MMK_R_g2" = 5;
-"@MMK_R_hyphen2" = -15;
-"@MMK_R_quotedbl2" = -20;
-"@MMK_R_s2" = -5;
-"@MMK_R_t2" = -35;
-"@MMK_R_v2" = -30;
-"@MMK_R_z2" = 10;
-a = -5;
-aacute = -5;
-abreve = -5;
-abreveacute = -5;
-abrevedotbelow = -5;
-abrevegrave = -5;
-abrevehoi = -5;
-abrevetilde = -5;
-acircumflex = -5;
-acircumflexacute = -5;
-acircumflexdotbelow = -5;
-acircumflexgrave = -5;
-acircumflexhoi = -5;
-acircumflextilde = -5;
-adblgrave = -5;
-adieresis = -5;
-adotbelow = -5;
-ae = -5;
-aeacute = -5;
-agrave = -5;
-ahoi = -5;
-ainvertedbreve = -5;
-amacron = -5;
-aogonek = -5;
-aring = -5;
-aringacute = -5;
-atilde = -5;
-f = -20;
-};
-nine = {
-onehalf = 60;
-};
-nine.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-nine.osf = {
-"@MMK_R_seven2" = -15;
-nine.osf = 20;
-};
-o = {
-v = -20;
-};
-oacute = {
-v = -20;
-};
-obreve = {
-v = -20;
-};
-ocircumflex = {
-v = -20;
-};
-ocircumflexacute = {
-v = -20;
-};
-ocircumflexdotbelow = {
-v = -20;
-};
-ocircumflexgrave = {
-v = -20;
-};
-ocircumflexhoi = {
-v = -20;
-};
-ocircumflextilde = {
-v = -20;
-};
-odblgrave = {
-v = -20;
-};
-odieresis = {
-v = -20;
-};
-odotbelow = {
-v = -20;
-};
-oe = {
-v = -20;
-};
-ograve = {
-v = -20;
-};
-ohoi = {
-v = -20;
-};
-ohorn = {
-z = 5;
-zacute = 5;
-zcaron = 5;
-zdotaccent = 5;
-zdotbelow = 5;
-};
-ohungarumlaut = {
-v = -20;
-};
-oinvertedbreve = {
-v = -20;
-};
-omacron = {
-v = -20;
-};
-one = {
-onehalf = 60;
-};
-one.numr = {
-fraction = 25;
-};
-one.osf = {
-onehalf = 60;
-};
-oneeighth = {
-fraction = 25;
-};
-onequarter = {
-fraction = 25;
-};
-onethird = {
-fraction = 25;
-};
-oogonek = {
-v = -20;
-};
-oslash = {
-v = -20;
-w = -5;
-wacute = -5;
-wcircumflex = -5;
-wdieresis = -5;
-wgrave = -5;
-y = -5;
-yacute = -5;
-ycircumflex = -5;
-ydieresis = -5;
-ydotbelow = -5;
-ygrave = -5;
-yhoi = -5;
-ytilde = -5;
-};
-oslashacute = {
-v = -20;
-};
-otilde = {
-v = -20;
-};
-p = {
-v = -20;
-};
-quotesinglbase = {
-"@MMK_R_T2" = -107;
-"@MMK_R_U" = -20;
-"@MMK_R_V2" = -78;
-"@MMK_R_Wgrave2" = -60;
-"@MMK_R_Y2" = -117;
-"@MMK_R_g2" = 10;
-"@MMK_R_question" = -60;
-"@MMK_R_v2" = -60;
-"@MMK_R_z2" = 10;
-};
-s = {
-space = -10;
-};
-sacute = {
-space = -10;
-};
-scaron = {
-space = -10;
-};
-scedilla = {
-space = -10;
-};
-schwa = {
-v = -20;
-};
-scircumflex = {
-space = -10;
-};
-scommaaccent = {
-space = -10;
-};
-sdotbelow = {
-space = -10;
-};
-seven = {
-onehalf = 83;
-};
-seven.dnom = {
-eight.dnom = -15;
-six.dnom = -15;
-three.dnom = -15;
-two.dnom = -15;
-zero.dnom = -15;
-};
-seven.numr = {
-eight.numr = -10;
-five.numr = -10;
-fraction = -45;
-nine.numr = -10;
-six.numr = -10;
-three.numr = -10;
-two.numr = -10;
-zero.numr = -10;
-};
-seven.osf = {
-onehalf = 83;
-};
-seveneighths = {
-fraction = 25;
-};
-six = {
-onehalf = 60;
-};
-six.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-space = {
-V = -10;
-W = -10;
-};
-t = {
-fi = -20;
-fl = -20;
-t = -20;
-tbar = -20;
-tcaron = -20;
-tcedilla = -20;
-tcommaaccent = -20;
-tdotbelow = -20;
-};
-thorn = {
-v = -20;
-};
-three = {
-onehalf = 60;
-};
-three.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-threeeighths = {
-fraction = 25;
-};
-threequarters = {
-fraction = 25;
-};
-two = {
-onehalf = 60;
-};
-two.numr = {
-fraction = 50;
-};
-two.osf = {
-onehalf = 60;
-};
-twothirds = {
-fraction = 25;
-};
-v = {
-space = -10;
-};
-w = {
-space = -10;
-};
-wacute = {
-space = -10;
-};
-wcircumflex = {
-space = -10;
-};
-wdieresis = {
-space = -10;
-};
-wgrave = {
-space = -10;
-};
-x = {
-"@MMK_R_S2" = -10;
-"@MMK_R_V2" = -20;
-"@MMK_R_a2" = -20;
-"@MMK_R_c" = -35;
-"@MMK_R_hyphen2" = -40;
-"@MMK_R_s2" = -20;
-"@MMK_R_u" = -15;
-"@MMK_R_v2" = 10;
-f = 10;
-quotesinglbase = -10;
-x = 15;
-};
-y = {
-space = -10;
-};
-yacute = {
-space = -10;
-};
-ycircumflex = {
-space = -10;
-};
-ydieresis = {
-space = -10;
-};
-ydotbelow = {
-space = -10;
-};
-ygrave = {
-space = -10;
-};
-yhoi = {
-space = -10;
-};
-ytilde = {
-space = -10;
-};
-zero = {
-onehalf = 60;
-};
-zero.numr = {
-fraction = -20;
-seven.numr = -5;
-};
-zero.osf = {
-onehalf = 60;
-};
-};
-"A1D8A8A0-7317-4958-838D-B74999429465" = {
+"1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -6408,6 +3746,2664 @@ zero.osf = {
 onehalf = 58;
 };
 };
+"2C111888-158E-4586-831E-29429C16F99E" = {
+"@MMK_L_A" = {
+"@MMK_R_A2" = 8;
+"@MMK_R_C2" = -35;
+"@MMK_R_J2" = 8;
+"@MMK_R_Oslash2" = 5;
+"@MMK_R_S2" = -15;
+"@MMK_R_T2" = -88;
+"@MMK_R_U" = -35;
+"@MMK_R_V2" = -115;
+"@MMK_R_Wgrave2" = -40;
+"@MMK_R_Y2" = -74;
+"@MMK_R_Z2" = 7;
+"@MMK_R_c" = -13;
+"@MMK_R_g2" = -17;
+"@MMK_R_hyphen2" = -30;
+"@MMK_R_quoteright2" = -104;
+"@MMK_R_s2" = -15;
+"@MMK_R_seven2" = -54;
+"@MMK_R_six2" = -7;
+"@MMK_R_t2" = -55;
+"@MMK_R_u" = -8;
+"@MMK_R_v2" = -58;
+"@MMK_R_z2" = 3;
+X = 23;
+f = -52;
+x = -6;
+};
+"@MMK_L_C" = {
+"@MMK_R_A2" = -13;
+"@MMK_R_AE" = -24;
+"@MMK_R_J2" = -7;
+"@MMK_R_T2" = -19;
+"@MMK_R_V2" = -9;
+"@MMK_R_Wgrave2" = -10;
+"@MMK_R_Y2" = -20;
+"@MMK_R_Z2" = -6;
+"@MMK_R_a2" = -6;
+"@MMK_R_c" = -2;
+"@MMK_R_comma2" = -7;
+"@MMK_R_emdash2" = 9;
+"@MMK_R_g2" = -17;
+"@MMK_R_z2" = -2;
+X = -23;
+quotesinglbase = -14;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -28;
+"@MMK_R_J2" = -17;
+"@MMK_R_S2" = -7;
+"@MMK_R_T2" = -28;
+"@MMK_R_V2" = -23;
+"@MMK_R_Wgrave2" = -17;
+"@MMK_R_Y2" = -43;
+"@MMK_R_Z2" = -38;
+"@MMK_R_comma2" = -13;
+"@MMK_R_question" = -7;
+X = -35;
+quotesinglbase = -28;
+x = -7;
+};
+"@MMK_L_E" = {
+"@MMK_R_A2" = -7;
+"@MMK_R_AE" = -89;
+"@MMK_R_B" = 7;
+"@MMK_R_C2" = -2;
+"@MMK_R_J2" = 18;
+"@MMK_R_S2" = 3;
+"@MMK_R_T2" = 16;
+"@MMK_R_V2" = 3;
+"@MMK_R_Wgrave2" = 34;
+"@MMK_R_Y2" = 20;
+"@MMK_R_a2" = -7;
+"@MMK_R_b2" = -14;
+"@MMK_R_bar" = 9;
+"@MMK_R_c" = -7;
+"@MMK_R_comma2" = -26;
+"@MMK_R_emdash2" = 8;
+"@MMK_R_g2" = -13;
+"@MMK_R_hyphen2" = -20;
+"@MMK_R_question" = 3;
+"@MMK_R_s2" = -10;
+"@MMK_R_t2" = -29;
+"@MMK_R_u" = -7;
+"@MMK_R_v2" = -15;
+"@MMK_R_z2" = 3;
+X = 20;
+f = -7;
+x = -10;
+};
+"@MMK_L_F" = {
+"@MMK_R_A2" = -65;
+"@MMK_R_J2" = -50;
+"@MMK_R_S2" = -10;
+"@MMK_R_T2" = 26;
+"@MMK_R_V2" = 10;
+"@MMK_R_Wgrave2" = 9;
+"@MMK_R_Y2" = 23;
+"@MMK_R_Z2" = -6;
+"@MMK_R_a2" = -10;
+"@MMK_R_c" = -15;
+"@MMK_R_comma2" = -74;
+"@MMK_R_g2" = -10;
+"@MMK_R_hyphen2" = -7;
+"@MMK_R_question" = 9;
+"@MMK_R_s2" = -12;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = -10;
+"@MMK_R_z2" = -3;
+guillemotright = -10;
+quotesinglbase = -45;
+x = -20;
+};
+"@MMK_L_G" = {
+"@MMK_R_A2" = 3;
+"@MMK_R_J2" = 3;
+"@MMK_R_Oslash2" = 17;
+"@MMK_R_S2" = -3;
+"@MMK_R_T2" = -42;
+"@MMK_R_V2" = -37;
+"@MMK_R_Wgrave2" = -16;
+"@MMK_R_Y2" = -39;
+"@MMK_R_z2" = 3;
+};
+"@MMK_L_H" = {
+"@MMK_R_U" = -5;
+"@MMK_R_a2" = -3;
+"@MMK_R_c" = -6;
+"@MMK_R_emdash2" = 9;
+"@MMK_R_g2" = -7;
+"@MMK_R_t2" = -5;
+};
+"@MMK_L_J" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_AE" = -47;
+"@MMK_R_Z2" = 7;
+"@MMK_R_comma2" = -33;
+"@MMK_R_g2" = -24;
+"@MMK_R_t2" = 14;
+};
+"@MMK_L_K" = {
+"@MMK_R_A2" = 13;
+"@MMK_R_J2" = 13;
+"@MMK_R_S2" = -30;
+"@MMK_R_T2" = 3;
+"@MMK_R_U" = -18;
+"@MMK_R_V2" = 9;
+"@MMK_R_Y2" = 6;
+"@MMK_R_a2" = -8;
+"@MMK_R_c" = -28;
+"@MMK_R_hyphen2" = -57;
+"@MMK_R_s2" = -13;
+"@MMK_R_t2" = -56;
+"@MMK_R_u" = -30;
+"@MMK_R_v2" = -40;
+f = -15;
+};
+"@MMK_L_L" = {
+"@MMK_R_A2" = 15;
+"@MMK_R_C2" = -20;
+"@MMK_R_J2" = 26;
+"@MMK_R_S2" = 13;
+"@MMK_R_T2" = -95;
+"@MMK_R_U" = -23;
+"@MMK_R_V2" = -64;
+"@MMK_R_Wgrave2" = -36;
+"@MMK_R_Y2" = -90;
+"@MMK_R_a2" = -17;
+"@MMK_R_c" = -21;
+"@MMK_R_g2" = 3;
+"@MMK_R_hyphen2" = -56;
+"@MMK_R_question" = -7;
+"@MMK_R_quoteright2" = -95;
+"@MMK_R_t2" = -52;
+"@MMK_R_u" = 1;
+"@MMK_R_v2" = -38;
+"@MMK_R_z2" = 14;
+X = 6;
+f = -41;
+guillemotright = -7;
+quotesinglbase = 7;
+x = 9;
+};
+"@MMK_L_O" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_AE" = -84;
+"@MMK_R_C2" = -3;
+"@MMK_R_J2" = -14;
+"@MMK_R_S2" = -4;
+"@MMK_R_U" = -15;
+"@MMK_R_V2" = -14;
+"@MMK_R_Wgrave2" = -33;
+"@MMK_R_Y2" = -21;
+"@MMK_R_Z2" = -25;
+"@MMK_R_a2" = -9;
+"@MMK_R_b2" = -6;
+"@MMK_R_c" = -6;
+"@MMK_R_comma2" = -45;
+"@MMK_R_emdash2" = -2;
+"@MMK_R_g2" = -7;
+"@MMK_R_quoteright2" = -21;
+"@MMK_R_s2" = -5;
+"@MMK_R_seven2" = -15;
+"@MMK_R_t2" = -7;
+X = -9;
+x = -17;
+};
+"@MMK_L_Ohorn" = {
+"@MMK_R_A2" = -58;
+"@MMK_R_C2" = -21;
+"@MMK_R_J2" = -23;
+"@MMK_R_a2" = -27;
+"@MMK_R_b2" = -27;
+"@MMK_R_bar" = -6;
+"@MMK_R_c" = -27;
+"@MMK_R_comma2" = -31;
+"@MMK_R_g2" = -33;
+"@MMK_R_s2" = -32;
+"@MMK_R_t2" = -19;
+"@MMK_R_u" = -27;
+"@MMK_R_v2" = -27;
+"@MMK_R_z2" = -24;
+x = -37;
+};
+"@MMK_L_Oslash" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_J2" = -35;
+};
+"@MMK_L_P" = {
+"@MMK_R_A2" = -59;
+"@MMK_R_AE" = -116;
+"@MMK_R_C2" = 3;
+"@MMK_R_J2" = -52;
+"@MMK_R_S2" = 12;
+"@MMK_R_Wgrave2" = -3;
+"@MMK_R_Y2" = -9;
+"@MMK_R_Z2" = -15;
+"@MMK_R_a2" = -9;
+"@MMK_R_bar" = 6;
+"@MMK_R_c" = -8;
+"@MMK_R_comma2" = -110;
+"@MMK_R_emdash2" = -22;
+"@MMK_R_g2" = -15;
+"@MMK_R_hyphen2" = -27;
+"@MMK_R_question" = -3;
+"@MMK_R_s2" = -17;
+"@MMK_R_t2" = 7;
+"@MMK_R_u" = -3;
+"@MMK_R_v2" = 20;
+X = -20;
+f = 3;
+guillemotright = 9;
+quotesinglbase = -91;
+x = 5;
+};
+"@MMK_L_R" = {
+"@MMK_R_A2" = 3;
+"@MMK_R_AE" = -22;
+"@MMK_R_C2" = -10;
+"@MMK_R_J2" = 3;
+"@MMK_R_S2" = -20;
+"@MMK_R_T2" = -10;
+"@MMK_R_U" = -18;
+"@MMK_R_V2" = -28;
+"@MMK_R_Wgrave2" = -9;
+"@MMK_R_Y2" = -9;
+"@MMK_R_a2" = -10;
+"@MMK_R_b2" = -7;
+"@MMK_R_c" = -17;
+"@MMK_R_comma2" = -3;
+"@MMK_R_g2" = -15;
+"@MMK_R_hyphen2" = -43;
+"@MMK_R_u" = -8;
+"@MMK_R_z2" = -8;
+guillemotright = -7;
+quotesinglbase = -17;
+x = -8;
+};
+"@MMK_L_S" = {
+"@MMK_R_A2" = -17;
+"@MMK_R_AE" = -64;
+"@MMK_R_B" = -3;
+"@MMK_R_C2" = -14;
+"@MMK_R_S2" = 7;
+"@MMK_R_T2" = -18;
+"@MMK_R_V2" = -20;
+"@MMK_R_Wgrave2" = -2;
+"@MMK_R_Y2" = -28;
+"@MMK_R_Z2" = -5;
+"@MMK_R_a2" = -3;
+"@MMK_R_bar" = 9;
+"@MMK_R_comma2" = -21;
+"@MMK_R_g2" = -25;
+"@MMK_R_hyphen2" = 3;
+"@MMK_R_t2" = -20;
+"@MMK_R_v2" = 7;
+"@MMK_R_z2" = -8;
+X = -18;
+guillemotright = -7;
+quotesinglbase = -17;
+x = -16;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -88;
+"@MMK_R_AE" = -86;
+"@MMK_R_C2" = -7;
+"@MMK_R_J2" = -44;
+"@MMK_R_S2" = 2;
+"@MMK_R_T2" = 26;
+"@MMK_R_V2" = 37;
+"@MMK_R_Wgrave2" = 27;
+"@MMK_R_Y2" = 45;
+"@MMK_R_Z2" = 10;
+"@MMK_R_a2" = -60;
+"@MMK_R_b2" = -34;
+"@MMK_R_bar" = 8;
+"@MMK_R_c" = -69;
+"@MMK_R_comma2" = -121;
+"@MMK_R_four2" = -69;
+"@MMK_R_g2" = -72;
+"@MMK_R_hyphen2" = -63;
+"@MMK_R_j" = 21;
+"@MMK_R_question" = 13;
+"@MMK_R_quoteright2" = 21;
+"@MMK_R_s2" = -64;
+"@MMK_R_t2" = -27;
+"@MMK_R_u" = -55;
+"@MMK_R_v2" = -42;
+"@MMK_R_z2" = -40;
+Schwa = -19;
+X = 8;
+ampersand = -6;
+guillemotright = -40;
+quotesinglbase = -83;
+x = -48;
+};
+"@MMK_L_Uhorn" = {
+"@MMK_R_A2" = -126;
+"@MMK_R_J2" = -72;
+"@MMK_R_V2" = 34;
+"@MMK_R_Wgrave2" = 28;
+"@MMK_R_a2" = -49;
+"@MMK_R_b2" = -54;
+"@MMK_R_c" = -53;
+"@MMK_R_comma2" = -48;
+"@MMK_R_g2" = -66;
+"@MMK_R_s2" = -55;
+"@MMK_R_t2" = -33;
+"@MMK_R_u" = -48;
+"@MMK_R_z2" = -45;
+x = -39;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -115;
+"@MMK_R_AE" = -116;
+"@MMK_R_C2" = -14;
+"@MMK_R_J2" = -47;
+"@MMK_R_S2" = -13;
+"@MMK_R_T2" = 37;
+"@MMK_R_V2" = 9;
+"@MMK_R_Wgrave2" = 40;
+"@MMK_R_Y2" = 49;
+"@MMK_R_Z2" = 21;
+"@MMK_R_a2" = -43;
+"@MMK_R_b2" = -6;
+"@MMK_R_c" = -44;
+"@MMK_R_comma2" = -112;
+"@MMK_R_g2" = -31;
+"@MMK_R_hyphen2" = -47;
+"@MMK_R_j" = 21;
+"@MMK_R_question" = 23;
+"@MMK_R_s2" = -22;
+"@MMK_R_t2" = -3;
+"@MMK_R_z2" = -6;
+X = -4;
+ae = -62;
+ampersand = -20;
+f = 3;
+guillemotright = -21;
+quotesinglbase = -61;
+x = -16;
+};
+"@MMK_L_Wgrave" = {
+"@MMK_R_A2" = -72;
+"@MMK_R_AE" = -83;
+"@MMK_R_C2" = -5;
+"@MMK_R_J2" = -36;
+"@MMK_R_S2" = -16;
+"@MMK_R_T2" = 34;
+"@MMK_R_V2" = 19;
+"@MMK_R_Wgrave2" = 20;
+"@MMK_R_Y2" = 43;
+"@MMK_R_Z2" = -3;
+"@MMK_R_a2" = -29;
+"@MMK_R_b2" = -17;
+"@MMK_R_bar" = 6;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = -75;
+"@MMK_R_g2" = -35;
+"@MMK_R_hyphen2" = -26;
+"@MMK_R_question" = 9;
+"@MMK_R_s2" = -26;
+"@MMK_R_t2" = 8;
+"@MMK_R_u" = -28;
+"@MMK_R_v2" = -16;
+X = 10;
+f = -3;
+guillemotright = -14;
+quotesinglbase = -46;
+x = -13;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -77;
+"@MMK_R_AE" = -105;
+"@MMK_R_C2" = -26;
+"@MMK_R_J2" = -64;
+"@MMK_R_S2" = -40;
+"@MMK_R_T2" = 35;
+"@MMK_R_U" = 3;
+"@MMK_R_V2" = 33;
+"@MMK_R_Wgrave2" = 26;
+"@MMK_R_Y2" = 46;
+"@MMK_R_a2" = -63;
+"@MMK_R_b2" = -19;
+"@MMK_R_bar" = 13;
+"@MMK_R_c" = -60;
+"@MMK_R_comma2" = -80;
+"@MMK_R_g2" = -75;
+"@MMK_R_hyphen2" = -78;
+"@MMK_R_question" = 16;
+"@MMK_R_quoteright2" = 17;
+"@MMK_R_s2" = -71;
+"@MMK_R_t2" = -44;
+"@MMK_R_u" = -45;
+"@MMK_R_v2" = -44;
+"@MMK_R_z2" = -36;
+Schwa = -21;
+X = 15;
+f = -13;
+guillemotright = -47;
+quotesinglbase = -96;
+space = -11;
+x = -36;
+};
+"@MMK_L_Z" = {
+"@MMK_R_A2" = 3;
+"@MMK_R_AE" = -6;
+"@MMK_R_J2" = 14;
+"@MMK_R_S2" = -9;
+"@MMK_R_T2" = 20;
+"@MMK_R_U" = -2;
+"@MMK_R_V2" = 10;
+"@MMK_R_Y2" = 7;
+"@MMK_R_Z2" = 15;
+"@MMK_R_a2" = 5;
+"@MMK_R_b2" = -17;
+"@MMK_R_c" = -15;
+"@MMK_R_emdash2" = 3;
+"@MMK_R_hyphen2" = -57;
+"@MMK_R_u" = -3;
+"@MMK_R_v2" = -13;
+"@MMK_R_z2" = 6;
+X = 6;
+quotesinglbase = 7;
+};
+"@MMK_L_a" = {
+"@MMK_R_T2" = -116;
+"@MMK_R_V2" = -39;
+"@MMK_R_Y2" = -48;
+"@MMK_R_a2" = -2;
+"@MMK_R_bar" = -2;
+"@MMK_R_emdash2" = 9;
+"@MMK_R_quotedbl2" = -56;
+"@MMK_R_quoteright2" = -27;
+"@MMK_R_s2" = -8;
+"@MMK_R_seven2" = -34;
+"@MMK_R_t2" = -22;
+"@MMK_R_v2" = -17;
+"@MMK_R_z2" = -2;
+f = -17;
+x = -12;
+};
+"@MMK_L_b" = {
+"@MMK_R_B" = -6;
+"@MMK_R_J2" = -16;
+"@MMK_R_T2" = -93;
+"@MMK_R_V2" = -43;
+"@MMK_R_Wgrave2" = -20;
+"@MMK_R_Y2" = -60;
+"@MMK_R_a2" = -7;
+"@MMK_R_bar" = -3;
+"@MMK_R_emdash2" = 16;
+"@MMK_R_g2" = -3;
+"@MMK_R_hyphen2" = 10;
+"@MMK_R_question" = -10;
+"@MMK_R_quotedbl2" = -70;
+"@MMK_R_quoteright2" = -44;
+"@MMK_R_s2" = -3;
+"@MMK_R_t2" = -24;
+"@MMK_R_v2" = -6;
+"@MMK_R_z2" = -12;
+f = -20;
+space = -7;
+v = -10;
+x = -35;
+};
+"@MMK_L_comma" = {
+"@MMK_R_A2" = 30;
+"@MMK_R_C2" = -9;
+"@MMK_R_S2" = 3;
+"@MMK_R_T2" = -111;
+"@MMK_R_V2" = -19;
+"@MMK_R_Wgrave2" = -21;
+"@MMK_R_Y2" = -88;
+"@MMK_R_comma2" = 52;
+"@MMK_R_four2" = -7;
+"@MMK_R_g2" = 20;
+"@MMK_R_quoteright2" = -80;
+"@MMK_R_seven2" = -48;
+"@MMK_R_two2" = 20;
+space = -7;
+};
+"@MMK_L_d" = {
+"@MMK_R_b2" = 7;
+"@MMK_R_g2" = -2;
+"@MMK_R_quotedbl2" = -8;
+};
+"@MMK_L_emdash" = {
+"@MMK_R_A2" = -25;
+"@MMK_R_B" = -20;
+"@MMK_R_C2" = -9;
+"@MMK_R_J2" = -13;
+"@MMK_R_V2" = -40;
+"@MMK_R_c" = 6;
+"@MMK_R_s2" = 9;
+"@MMK_R_t2" = 5;
+"@MMK_R_v2" = 2;
+"@MMK_R_z2" = 8;
+X = -33;
+x = -13;
+};
+"@MMK_L_five" = {
+"@MMK_R_onethird" = 58;
+"@MMK_R_two.numr" = 21;
+onehalf = 58;
+};
+"@MMK_L_four" = {
+"@MMK_R_T2" = -15;
+"@MMK_R_five2" = -8;
+"@MMK_R_onethird" = 59;
+"@MMK_R_two.numr" = 17;
+onehalf = 50;
+};
+"@MMK_L_g" = {
+"@MMK_R_a2" = -15;
+"@MMK_R_bar" = 17;
+"@MMK_R_c" = -17;
+"@MMK_R_emdash2" = 2;
+"@MMK_R_g2" = -14;
+"@MMK_R_hyphen2" = -40;
+"@MMK_R_j" = 29;
+"@MMK_R_quotedbl2" = 3;
+"@MMK_R_quoteright2" = 6;
+"@MMK_R_s2" = -19;
+"@MMK_R_t2" = 3;
+"@MMK_R_u" = -15;
+"@MMK_R_z2" = 3;
+f = 10;
+quotesinglbase = -10;
+x = -4;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_A2" = -25;
+"@MMK_R_J2" = -31;
+"@MMK_R_S2" = -22;
+"@MMK_R_T2" = -131;
+"@MMK_R_V2" = -80;
+"@MMK_R_Wgrave2" = -26;
+"@MMK_R_Y2" = -77;
+"@MMK_R_Z2" = -30;
+"@MMK_R_a2" = 3;
+"@MMK_R_c" = 6;
+"@MMK_R_g2" = -3;
+"@MMK_R_one2" = -77;
+"@MMK_R_s2" = 3;
+"@MMK_R_seven2" = -116;
+"@MMK_R_t2" = -15;
+"@MMK_R_v2" = -16;
+"@MMK_R_z2" = -7;
+X = -52;
+x = -33;
+};
+"@MMK_L_k" = {
+"@MMK_R_V2" = -9;
+"@MMK_R_a2" = -13;
+"@MMK_R_c" = -23;
+"@MMK_R_g2" = -20;
+"@MMK_R_hyphen2" = -29;
+"@MMK_R_question" = -7;
+"@MMK_R_quotedbl2" = -44;
+"@MMK_R_s2" = -11;
+"@MMK_R_t2" = -16;
+"@MMK_R_u" = -12;
+"@MMK_R_v2" = 13;
+f = 12;
+guillemotright = 6;
+};
+"@MMK_L_ohorn" = {
+"@MMK_R_J2" = -51;
+"@MMK_R_a2" = -11;
+"@MMK_R_c" = -13;
+"@MMK_R_comma2" = -33;
+"@MMK_R_g2" = -14;
+"@MMK_R_s2" = -11;
+"@MMK_R_t2" = 6;
+"@MMK_R_v2" = 9;
+"@MMK_R_z2" = -13;
+x = 6;
+};
+"@MMK_L_one" = {
+"@MMK_R_onethird" = 39;
+"@MMK_R_two.numr" = 21;
+onehalf = 59;
+};
+"@MMK_L_quotedbl" = {
+"@MMK_R_a2" = -55;
+"@MMK_R_b2" = -46;
+"@MMK_R_c" = -62;
+"@MMK_R_g2" = -55;
+"@MMK_R_s2" = -75;
+"@MMK_R_t2" = -14;
+"@MMK_R_u" = -31;
+"@MMK_R_v2" = 3;
+"@MMK_R_z2" = -21;
+x = -24;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A2" = -92;
+"@MMK_R_J2" = -50;
+"@MMK_R_S2" = -3;
+"@MMK_R_T2" = 22;
+"@MMK_R_V2" = 23;
+"@MMK_R_Wgrave2" = 13;
+"@MMK_R_Y2" = 21;
+"@MMK_R_a2" = -21;
+"@MMK_R_c" = -51;
+"@MMK_R_g2" = -26;
+"@MMK_R_s2" = -33;
+"@MMK_R_t2" = 23;
+"@MMK_R_v2" = 30;
+X = 7;
+};
+"@MMK_L_quoteright" = {
+"@MMK_R_A2" = -103;
+"@MMK_R_a2" = -72;
+"@MMK_R_b2" = -22;
+"@MMK_R_c" = -64;
+"@MMK_R_comma2" = -101;
+"@MMK_R_s2" = -61;
+"@MMK_R_v2" = 17;
+"@MMK_R_z2" = -21;
+space = -24;
+};
+"@MMK_L_r" = {
+"@MMK_R_a2" = -19;
+"@MMK_R_bar" = -2;
+"@MMK_R_c" = -9;
+"@MMK_R_comma2" = -74;
+"@MMK_R_emdash2" = 11;
+"@MMK_R_g2" = -17;
+"@MMK_R_hyphen2" = -51;
+"@MMK_R_question" = -17;
+"@MMK_R_quotedbl2" = 3;
+"@MMK_R_quoteright2" = 13;
+"@MMK_R_s2" = -3;
+"@MMK_R_t2" = -16;
+"@MMK_R_v2" = 13;
+"@MMK_R_z2" = 7;
+Schwa = 2;
+f = 8;
+quotesinglbase = -46;
+x = 13;
+};
+"@MMK_L_s" = {
+"@MMK_R_a2" = 2;
+"@MMK_R_bar" = -3;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = -2;
+"@MMK_R_hyphen2" = 36;
+"@MMK_R_question" = -6;
+"@MMK_R_quotedbl2" = -7;
+"@MMK_R_s2" = -8;
+"@MMK_R_t2" = -19;
+"@MMK_R_v2" = -2;
+"@MMK_R_z2" = -3;
+X = -9;
+guillemotright = 6;
+quotesinglbase = -7;
+space = -3;
+x = -13;
+};
+"@MMK_L_seven" = {
+"@MMK_R_b2" = -10;
+"@MMK_R_comma2" = -121;
+"@MMK_R_four2" = -28;
+"@MMK_R_one2" = 21;
+"@MMK_R_onethird" = 98;
+"@MMK_R_question" = 39;
+"@MMK_R_seven2" = 14;
+"@MMK_R_six2" = -21;
+"@MMK_R_two.numr" = 28;
+"@MMK_R_two2" = 7;
+eight.osf = -21;
+nine.osf = 7;
+onehalf = 93;
+};
+"@MMK_L_six" = {
+"@MMK_R_four2" = -2;
+"@MMK_R_onethird" = 59;
+"@MMK_R_seven2" = -18;
+"@MMK_R_six2" = -7;
+"@MMK_R_two.numr" = 40;
+onehalf = 59;
+};
+"@MMK_L_t" = {
+"@MMK_R_V2" = -23;
+"@MMK_R_a2" = -3;
+"@MMK_R_c" = -13;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -25;
+"@MMK_R_j" = 6;
+"@MMK_R_question" = 3;
+"@MMK_R_quotedbl2" = -22;
+"@MMK_R_s2" = -2;
+"@MMK_R_t2" = -41;
+"@MMK_R_u" = -5;
+"@MMK_R_z2" = -2;
+f = -41;
+x = 2;
+};
+"@MMK_L_two" = {
+"@MMK_R_onethird" = 59;
+"@MMK_R_question" = -7;
+"@MMK_R_two.numr" = 54;
+four.numr = 16;
+onehalf = 59;
+seven.numr = 34;
+};
+"@MMK_L_uhorn" = {
+"@MMK_R_b2" = -6;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -53;
+"@MMK_R_g2" = -13;
+"@MMK_R_s2" = -16;
+"@MMK_R_t2" = 15;
+"@MMK_R_v2" = 12;
+};
+"@MMK_L_v" = {
+"@MMK_R_A2" = -47;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -21;
+"@MMK_R_a2" = -11;
+"@MMK_R_c" = -10;
+"@MMK_R_comma2" = -50;
+"@MMK_R_emdash2" = 2;
+"@MMK_R_g2" = -17;
+"@MMK_R_hyphen2" = -5;
+"@MMK_R_question" = -29;
+"@MMK_R_quotedbl2" = 11;
+"@MMK_R_s2" = -10;
+"@MMK_R_v2" = 9;
+f = 8;
+guillemotright = 13;
+quotesinglbase = -53;
+space = -3;
+x = 7;
+};
+"@MMK_L_z" = {
+"@MMK_R_T2" = -13;
+"@MMK_R_Y2" = -16;
+"@MMK_R_a2" = 5;
+"@MMK_R_c" = -3;
+"@MMK_R_emdash2" = 14;
+"@MMK_R_g2" = -7;
+"@MMK_R_hyphen2" = -31;
+"@MMK_R_quotedbl2" = -24;
+"@MMK_R_s2" = 1;
+"@MMK_R_t2" = 3;
+"@MMK_R_u" = -2;
+"@MMK_R_v2" = -9;
+"@MMK_R_z2" = 10;
+f = -3;
+x = -10;
+};
+B = {
+"@MMK_R_A2" = -5;
+"@MMK_R_AE" = -4;
+"@MMK_R_B" = 6;
+"@MMK_R_C2" = -3;
+"@MMK_R_S2" = 3;
+"@MMK_R_T2" = -24;
+"@MMK_R_V2" = -22;
+"@MMK_R_Wgrave2" = -18;
+"@MMK_R_Y2" = -40;
+"@MMK_R_Z2" = -13;
+"@MMK_R_c" = 3;
+"@MMK_R_emdash2" = 8;
+"@MMK_R_g2" = -10;
+"@MMK_R_hyphen2" = -10;
+"@MMK_R_question" = -7;
+"@MMK_R_quoteright2" = -21;
+"@MMK_R_v2" = -3;
+"@MMK_R_z2" = -7;
+X = -23;
+ampersand = -3;
+quotesinglbase = -13;
+};
+Q = {
+"@MMK_R_comma2" = -38;
+};
+X = {
+"@MMK_R_C2" = -17;
+"@MMK_R_J2" = 23;
+"@MMK_R_Oslash2" = 20;
+"@MMK_R_S2" = -15;
+"@MMK_R_T2" = 3;
+"@MMK_R_U" = -12;
+"@MMK_R_V2" = -2;
+"@MMK_R_Wgrave2" = 13;
+"@MMK_R_Y2" = -18;
+"@MMK_R_Z2" = 6;
+"@MMK_R_a2" = -3;
+"@MMK_R_b2" = -2;
+"@MMK_R_bar" = 9;
+"@MMK_R_c" = -25;
+"@MMK_R_emdash2" = -21;
+"@MMK_R_hyphen2" = -46;
+"@MMK_R_s2" = -23;
+"@MMK_R_t2" = -10;
+"@MMK_R_u" = -19;
+"@MMK_R_v2" = -37;
+X = 53;
+quotesinglbase = 10;
+x = 6;
+};
+ampersand = {
+"@MMK_R_T2" = -55;
+"@MMK_R_V2" = -44;
+"@MMK_R_Wgrave2" = -24;
+};
+c = {
+"@MMK_R_b2" = -3;
+"@MMK_R_c" = -3;
+};
+dcroat = {
+"@MMK_R_c" = -33;
+};
+eight.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+eight.osf = {
+"@MMK_R_four2" = -7;
+"@MMK_R_seven2" = -17;
+};
+endash = {
+space = -172;
+};
+exclam = {
+"@MMK_R_question" = 21;
+};
+f = {
+"@MMK_R_V2" = 33;
+"@MMK_R_a2" = 3;
+"@MMK_R_bar" = -3;
+"@MMK_R_c" = -7;
+"@MMK_R_comma2" = -21;
+"@MMK_R_g2" = -16;
+"@MMK_R_hyphen2" = -10;
+"@MMK_R_question" = 28;
+"@MMK_R_quoteright2" = 20;
+"@MMK_R_s2" = -7;
+"@MMK_R_t2" = -33;
+"@MMK_R_v2" = 6;
+"@MMK_R_z2" = -3;
+f = -26;
+quotesinglbase = -17;
+x = 6;
+};
+five.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+fiveeighths = {
+fraction = 22;
+};
+fl = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -5;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+four.dnom = {
+five.dnom = -2;
+};
+four.numr = {
+"@MMK_R_two.numr" = -2;
+fraction = 8;
+};
+fraction = {
+eight.dnom = -17;
+four.dnom = -94;
+one.dnom = 29;
+seven.dnom = 56;
+six.dnom = -17;
+three.dnom = -17;
+two.dnom = 8;
+zero.dnom = -17;
+};
+guillemotleft = {
+"@MMK_R_S2" = -7;
+"@MMK_R_T2" = -40;
+"@MMK_R_V2" = -37;
+"@MMK_R_Wgrave2" = -10;
+"@MMK_R_Y2" = -47;
+"@MMK_R_g2" = -3;
+"@MMK_R_s2" = 6;
+"@MMK_R_t2" = 13;
+"@MMK_R_v2" = 16;
+"@MMK_R_z2" = 6;
+X = -14;
+x = 6;
+};
+l = {
+"@MMK_R_T2" = -28;
+"@MMK_R_V2" = -14;
+"@MMK_R_Y2" = -14;
+"@MMK_R_a2" = -3;
+"@MMK_R_b2" = -3;
+"@MMK_R_c" = -10;
+"@MMK_R_g2" = 10;
+"@MMK_R_hyphen2" = -14;
+"@MMK_R_quotedbl2" = -40;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -14;
+"@MMK_R_t2" = -28;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -10;
+"@MMK_R_z2" = 3;
+f = -17;
+l = -10;
+};
+lacute = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -5;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+lcaron = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -5;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+lcommaaccent = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -5;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+ldot = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -5;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+lslash = {
+"@MMK_R_J2" = 3;
+"@MMK_R_T2" = -38;
+"@MMK_R_V2" = -22;
+"@MMK_R_Y2" = -25;
+"@MMK_R_a2" = -15;
+"@MMK_R_b2" = -3;
+"@MMK_R_bar" = 5;
+"@MMK_R_c" = -21;
+"@MMK_R_comma2" = 5;
+"@MMK_R_emdash2" = 17;
+"@MMK_R_g2" = 12;
+"@MMK_R_hyphen2" = -18;
+"@MMK_R_quotedbl2" = -46;
+"@MMK_R_quoteright2" = -40;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = -38;
+"@MMK_R_u" = -17;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 7;
+f = -23;
+l = -10;
+};
+nine.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+nine.osf = {
+"@MMK_R_seven2" = -32;
+nine.osf = 27;
+};
+ohorn = {
+"@MMK_R_z2" = 2;
+};
+one.numr = {
+fraction = 22;
+};
+oneeighth = {
+fraction = 22;
+};
+onequarter = {
+fraction = 22;
+};
+onethird = {
+fraction = 22;
+};
+oslash = {
+w = 19;
+wacute = 19;
+wcircumflex = 19;
+wdieresis = 19;
+wgrave = 19;
+y = 19;
+yacute = 19;
+ycircumflex = 19;
+ydieresis = 19;
+ydotbelow = 19;
+ygrave = 19;
+yhoi = 19;
+ytilde = 19;
+};
+quotesinglbase = {
+"@MMK_R_A2" = 7;
+"@MMK_R_J2" = 7;
+"@MMK_R_S2" = -7;
+"@MMK_R_T2" = -83;
+"@MMK_R_U" = -20;
+"@MMK_R_V2" = -61;
+"@MMK_R_Wgrave2" = -46;
+"@MMK_R_Y2" = -96;
+"@MMK_R_Z2" = 7;
+"@MMK_R_g2" = 10;
+"@MMK_R_question" = -59;
+"@MMK_R_t2" = -3;
+"@MMK_R_v2" = -36;
+"@MMK_R_z2" = 3;
+X = 14;
+x = 3;
+};
+seven.dnom = {
+eight.dnom = -8;
+six.dnom = -8;
+three.dnom = -8;
+two.dnom = -8;
+zero.dnom = -8;
+};
+seven.numr = {
+"@MMK_R_two.numr" = -10;
+fraction = -60;
+};
+seveneighths = {
+fraction = 22;
+};
+six.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+six.osf = {
+"@MMK_R_seven2" = -7;
+};
+softhyphen = {
+space = -172;
+};
+space = {
+"@MMK_R_V2" = -24;
+"@MMK_R_c" = -14;
+"@MMK_R_t2" = -7;
+"@MMK_R_v2" = -7;
+endash = -117;
+softhyphen = -117;
+};
+t = {
+"@MMK_R_t2" = -51;
+};
+three.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+three.osf = {
+"@MMK_R_four2" = -7;
+};
+threeeighths = {
+fraction = 22;
+};
+threequarters = {
+fraction = 22;
+};
+two.numr = {
+fraction = 47;
+};
+twothirds = {
+fraction = 22;
+};
+x = {
+"@MMK_R_S2" = -17;
+"@MMK_R_V2" = -6;
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -18;
+"@MMK_R_g2" = 10;
+"@MMK_R_hyphen2" = -40;
+"@MMK_R_question" = -7;
+"@MMK_R_s2" = -13;
+"@MMK_R_t2" = -24;
+"@MMK_R_u" = -5;
+"@MMK_R_v2" = 7;
+"@MMK_R_z2" = 3;
+f = 3;
+quotesinglbase = -3;
+x = 18;
+};
+zero.numr = {
+fraction = -13;
+seven.numr = -2;
+};
+};
+"49A8D228-E827-44F0-AB9F-01876E91E3EE" = {
+"@MMK_L_A" = {
+"@MMK_R_A2" = 25;
+"@MMK_R_C2" = -35;
+"@MMK_R_J2" = 25;
+"@MMK_R_Oslash2" = 15;
+"@MMK_R_S2" = -15;
+"@MMK_R_T2" = -85;
+"@MMK_R_U" = -45;
+"@MMK_R_V2" = -107;
+"@MMK_R_Wgrave2" = -73;
+"@MMK_R_Y2" = -98;
+"@MMK_R_c" = -20;
+"@MMK_R_g2" = -10;
+"@MMK_R_hyphen2" = -30;
+"@MMK_R_question" = 20;
+"@MMK_R_quoteright2" = -117;
+"@MMK_R_s2" = -15;
+"@MMK_R_seven2" = -45;
+"@MMK_R_t2" = -45;
+"@MMK_R_u" = -15;
+"@MMK_R_v2" = -76;
+"@MMK_R_z2" = 10;
+X = 20;
+f = -35;
+x = -20;
+};
+"@MMK_L_C" = {
+"@MMK_R_A2" = -30;
+"@MMK_R_AE" = -78;
+"@MMK_R_T2" = -5;
+"@MMK_R_V2" = -30;
+"@MMK_R_Wgrave2" = -10;
+"@MMK_R_Y2" = -30;
+"@MMK_R_Z2" = -20;
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = 5;
+"@MMK_R_emdash2" = 30;
+"@MMK_R_g2" = -10;
+"@MMK_R_z2" = -5;
+X = -40;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_S2" = -10;
+"@MMK_R_V2" = -40;
+"@MMK_R_Y2" = -50;
+"@MMK_R_Z2" = -45;
+"@MMK_R_comma2" = -40;
+X = -45;
+};
+"@MMK_L_E" = {
+"@MMK_R_A2" = 10;
+"@MMK_R_AE" = -25;
+"@MMK_R_C2" = -5;
+"@MMK_R_J2" = 15;
+"@MMK_R_S2" = 10;
+"@MMK_R_T2" = 30;
+"@MMK_R_V2" = 10;
+"@MMK_R_Wgrave2" = 20;
+"@MMK_R_Y2" = 20;
+"@MMK_R_bar" = 30;
+"@MMK_R_emdash2" = 60;
+"@MMK_R_g2" = -10;
+"@MMK_R_hyphen2" = -20;
+"@MMK_R_question" = 10;
+"@MMK_R_t2" = -15;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = -15;
+"@MMK_R_z2" = 10;
+X = 20;
+};
+"@MMK_L_F" = {
+"@MMK_R_A2" = -70;
+"@MMK_R_J2" = -50;
+"@MMK_R_S2" = -10;
+"@MMK_R_T2" = 40;
+"@MMK_R_Wgrave2" = 30;
+"@MMK_R_Y2" = 30;
+"@MMK_R_Z2" = -20;
+"@MMK_R_a2" = -10;
+"@MMK_R_c" = -25;
+"@MMK_R_comma2" = -95;
+"@MMK_R_g2" = -10;
+"@MMK_R_question" = 30;
+"@MMK_R_s2" = -15;
+"@MMK_R_t2" = 10;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = -10;
+quotesinglbase = -67;
+x = -30;
+};
+"@MMK_L_G" = {
+"@MMK_R_A2" = 10;
+"@MMK_R_J2" = 10;
+"@MMK_R_Oslash2" = 10;
+"@MMK_R_T2" = -25;
+"@MMK_R_V2" = -40;
+"@MMK_R_Wgrave2" = -30;
+"@MMK_R_Y2" = -60;
+};
+"@MMK_L_H" = {
+"@MMK_R_U" = -15;
+"@MMK_R_c" = -20;
+"@MMK_R_emdash2" = 40;
+"@MMK_R_t2" = -15;
+};
+"@MMK_L_J" = {
+"@MMK_R_A2" = -45;
+"@MMK_R_AE" = -83;
+"@MMK_R_comma2" = -30;
+"@MMK_R_g2" = -10;
+};
+"@MMK_L_K" = {
+"@MMK_R_A2" = 20;
+"@MMK_R_J2" = 20;
+"@MMK_R_S2" = -40;
+"@MMK_R_T2" = 10;
+"@MMK_R_U" = -25;
+"@MMK_R_V2" = 30;
+"@MMK_R_Y2" = 20;
+"@MMK_R_a2" = -15;
+"@MMK_R_c" = -35;
+"@MMK_R_hyphen2" = -67;
+"@MMK_R_s2" = -20;
+"@MMK_R_t2" = -63;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -63;
+f = -15;
+};
+"@MMK_L_L" = {
+"@MMK_R_A2" = 15;
+"@MMK_R_C2" = -20;
+"@MMK_R_J2" = 40;
+"@MMK_R_S2" = 40;
+"@MMK_R_T2" = -87;
+"@MMK_R_U" = -20;
+"@MMK_R_V2" = -78;
+"@MMK_R_Wgrave2" = -60;
+"@MMK_R_Y2" = -117;
+"@MMK_R_hyphen2" = -50;
+"@MMK_R_quoteright2" = -103;
+"@MMK_R_t2" = -35;
+"@MMK_R_u" = 15;
+"@MMK_R_v2" = -55;
+X = 20;
+x = 30;
+};
+"@MMK_L_O" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_AE" = -78;
+"@MMK_R_C2" = -10;
+"@MMK_R_S2" = 10;
+"@MMK_R_U" = -5;
+"@MMK_R_V2" = -45;
+"@MMK_R_Wgrave2" = -50;
+"@MMK_R_Y2" = -67;
+"@MMK_R_Z2" = -35;
+"@MMK_R_a2" = -30;
+"@MMK_R_b2" = -20;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -35;
+"@MMK_R_emdash2" = 5;
+"@MMK_R_s2" = -15;
+"@MMK_R_seven2" = -15;
+"@MMK_R_t2" = -10;
+X = -30;
+x = -53;
+};
+"@MMK_L_Ohorn" = {
+"@MMK_R_A2" = -97;
+"@MMK_R_C2" = -67;
+"@MMK_R_J2" = -50;
+"@MMK_R_a2" = -87;
+"@MMK_R_b2" = -87;
+"@MMK_R_bar" = -20;
+"@MMK_R_c" = -87;
+"@MMK_R_comma2" = -98;
+"@MMK_R_g2" = -107;
+"@MMK_R_s2" = -103;
+"@MMK_R_t2" = -60;
+"@MMK_R_u" = -87;
+"@MMK_R_v2" = -87;
+"@MMK_R_z2" = -78;
+x = -117;
+};
+"@MMK_L_Oslash" = {
+"@MMK_R_A2" = -45;
+"@MMK_R_J2" = -25;
+};
+"@MMK_L_P" = {
+"@MMK_R_A2" = -78;
+"@MMK_R_AE" = -181;
+"@MMK_R_J2" = -67;
+"@MMK_R_S2" = -5;
+"@MMK_R_Wgrave2" = -10;
+"@MMK_R_Y2" = -30;
+"@MMK_R_Z2" = -25;
+"@MMK_R_a2" = -18;
+"@MMK_R_bar" = 20;
+"@MMK_R_c" = -25;
+"@MMK_R_comma2" = -137;
+"@MMK_R_emdash2" = -5;
+"@MMK_R_g2" = -15;
+"@MMK_R_hyphen2" = -10;
+"@MMK_R_question" = -10;
+"@MMK_R_s2" = -20;
+"@MMK_R_t2" = 10;
+"@MMK_R_v2" = 20;
+X = -63;
+guillemotright = 30;
+quotesinglbase = -107;
+x = -5;
+};
+"@MMK_L_R" = {
+"@MMK_R_A2" = 10;
+"@MMK_R_AE" = -25;
+"@MMK_R_C2" = -20;
+"@MMK_R_J2" = 10;
+"@MMK_R_S2" = -10;
+"@MMK_R_T2" = -10;
+"@MMK_R_U" = -25;
+"@MMK_R_V2" = -35;
+"@MMK_R_Wgrave2" = -30;
+"@MMK_R_Y2" = -50;
+"@MMK_R_a2" = -10;
+"@MMK_R_c" = -20;
+"@MMK_R_g2" = -5;
+"@MMK_R_hyphen2" = -40;
+"@MMK_R_u" = -5;
+"@MMK_R_z2" = -5;
+quotesinglbase = -10;
+x = -5;
+};
+"@MMK_L_S" = {
+"@MMK_R_A2" = -10;
+"@MMK_R_AE" = -58;
+"@MMK_R_J2" = 20;
+"@MMK_R_S2" = 10;
+"@MMK_R_T2" = 10;
+"@MMK_R_V2" = -20;
+"@MMK_R_Wgrave2" = -5;
+"@MMK_R_Y2" = -35;
+"@MMK_R_Z2" = -15;
+"@MMK_R_a2" = -10;
+"@MMK_R_bar" = 30;
+"@MMK_R_c" = -10;
+"@MMK_R_g2" = -15;
+"@MMK_R_hyphen2" = 10;
+"@MMK_R_t2" = -10;
+"@MMK_R_z2" = -5;
+X = -25;
+quotesinglbase = -10;
+x = -40;
+};
+"@MMK_L_T" = {
+"@MMK_R_A2" = -85;
+"@MMK_R_AE" = -127;
+"@MMK_R_J2" = -42;
+"@MMK_R_S2" = -5;
+"@MMK_R_T2" = 40;
+"@MMK_R_V2" = 30;
+"@MMK_R_Wgrave2" = 30;
+"@MMK_R_Y2" = 35;
+"@MMK_R_Z2" = 10;
+"@MMK_R_a2" = -63;
+"@MMK_R_bar" = 25;
+"@MMK_R_c" = -83;
+"@MMK_R_comma2" = -127;
+"@MMK_R_four2" = -50;
+"@MMK_R_g2" = -87;
+"@MMK_R_question" = 40;
+"@MMK_R_s2" = -87;
+"@MMK_R_t2" = -20;
+"@MMK_R_u" = -67;
+"@MMK_R_v2" = -67;
+"@MMK_R_z2" = -50;
+Schwa = -60;
+X = 15;
+quotesinglbase = -107;
+x = -67;
+};
+"@MMK_L_Uhorn" = {
+"@MMK_R_A2" = -132;
+"@MMK_R_J2" = -98;
+"@MMK_R_a2" = -90;
+"@MMK_R_b2" = -75;
+"@MMK_R_c" = -125;
+"@MMK_R_comma2" = -155;
+"@MMK_R_g2" = -100;
+"@MMK_R_s2" = -110;
+"@MMK_R_t2" = -50;
+"@MMK_R_u" = -75;
+"@MMK_R_z2" = -90;
+x = -75;
+};
+"@MMK_L_V" = {
+"@MMK_R_A2" = -107;
+"@MMK_R_AE" = -170;
+"@MMK_R_C2" = -45;
+"@MMK_R_J2" = -50;
+"@MMK_R_S2" = -30;
+"@MMK_R_T2" = 30;
+"@MMK_R_V2" = 30;
+"@MMK_R_Wgrave2" = 40;
+"@MMK_R_Y2" = 30;
+"@MMK_R_a2" = -60;
+"@MMK_R_b2" = -20;
+"@MMK_R_c" = -65;
+"@MMK_R_comma2" = -80;
+"@MMK_R_g2" = -67;
+"@MMK_R_hyphen2" = -50;
+"@MMK_R_question" = 40;
+"@MMK_R_s2" = -60;
+"@MMK_R_t2" = -10;
+"@MMK_R_z2" = -20;
+X = 30;
+quotesinglbase = -78;
+x = -50;
+};
+"@MMK_L_Wgrave" = {
+"@MMK_R_A2" = -73;
+"@MMK_R_AE" = -155;
+"@MMK_R_C2" = -15;
+"@MMK_R_J2" = -50;
+"@MMK_R_S2" = -30;
+"@MMK_R_T2" = 20;
+"@MMK_R_V2" = 40;
+"@MMK_R_Wgrave2" = 20;
+"@MMK_R_Y2" = 40;
+"@MMK_R_Z2" = -10;
+"@MMK_R_a2" = -60;
+"@MMK_R_b2" = -10;
+"@MMK_R_bar" = 20;
+"@MMK_R_c" = -67;
+"@MMK_R_comma2" = -67;
+"@MMK_R_g2" = -67;
+"@MMK_R_hyphen2" = -40;
+"@MMK_R_question" = 30;
+"@MMK_R_s2" = -60;
+"@MMK_R_t2" = -20;
+"@MMK_R_u" = -35;
+"@MMK_R_v2" = -30;
+X = 10;
+quotesinglbase = -60;
+x = -30;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -98;
+"@MMK_R_AE" = -190;
+"@MMK_R_C2" = -60;
+"@MMK_R_J2" = -67;
+"@MMK_R_S2" = -50;
+"@MMK_R_T2" = 35;
+"@MMK_R_U" = 10;
+"@MMK_R_V2" = 40;
+"@MMK_R_Wgrave2" = 40;
+"@MMK_R_Y2" = 30;
+"@MMK_R_a2" = -92;
+"@MMK_R_b2" = 5;
+"@MMK_R_bar" = 40;
+"@MMK_R_c" = -125;
+"@MMK_R_comma2" = -127;
+"@MMK_R_g2" = -112;
+"@MMK_R_hyphen2" = -78;
+"@MMK_R_question" = 30;
+"@MMK_R_quoteright2" = 20;
+"@MMK_R_s2" = -98;
+"@MMK_R_t2" = -63;
+"@MMK_R_u" = -78;
+"@MMK_R_v2" = -63;
+"@MMK_R_z2" = -60;
+Schwa = -67;
+X = 25;
+f = -20;
+guillemotright = -50;
+quotesinglbase = -117;
+x = -60;
+};
+"@MMK_L_Z" = {
+"@MMK_R_A2" = 10;
+"@MMK_R_AE" = -20;
+"@MMK_R_S2" = 15;
+"@MMK_R_T2" = 20;
+"@MMK_R_U" = -5;
+"@MMK_R_V2" = 20;
+"@MMK_R_Z2" = 15;
+"@MMK_R_a2" = 15;
+"@MMK_R_c" = -5;
+"@MMK_R_emdash2" = 10;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = 20;
+X = 20;
+};
+"@MMK_L_a" = {
+"@MMK_R_T2" = -67;
+"@MMK_R_V2" = -60;
+"@MMK_R_Y2" = -87;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = -5;
+"@MMK_R_emdash2" = 30;
+"@MMK_R_quotedbl2" = -50;
+"@MMK_R_quoteright2" = -30;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -15;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = -5;
+x = -5;
+};
+"@MMK_L_b" = {
+"@MMK_R_B" = -20;
+"@MMK_R_J2" = 15;
+"@MMK_R_T2" = -83;
+"@MMK_R_V2" = -60;
+"@MMK_R_Wgrave2" = -63;
+"@MMK_R_Y2" = -125;
+"@MMK_R_bar" = -10;
+"@MMK_R_emdash2" = 50;
+"@MMK_R_g2" = -10;
+"@MMK_R_hyphen2" = 10;
+"@MMK_R_question" = -10;
+"@MMK_R_quotedbl2" = -53;
+"@MMK_R_quoteright2" = -30;
+"@MMK_R_t2" = -10;
+"@MMK_R_v2" = -20;
+"@MMK_R_z2" = -15;
+f = -10;
+x = -45;
+};
+"@MMK_L_comma" = {
+"@MMK_R_A2" = 20;
+"@MMK_R_C2" = -30;
+"@MMK_R_S2" = 10;
+"@MMK_R_T2" = -95;
+"@MMK_R_V2" = -38;
+"@MMK_R_Y2" = -155;
+"@MMK_R_comma2" = 20;
+"@MMK_R_g2" = 20;
+"@MMK_R_quoteright2" = -117;
+"@MMK_R_seven2" = -110;
+"@MMK_R_two2" = 20;
+};
+"@MMK_L_d" = {
+"@MMK_R_g2" = -5;
+"@MMK_R_quotedbl2" = -5;
+};
+"@MMK_L_emdash" = {
+"@MMK_R_A2" = -35;
+"@MMK_R_B" = -30;
+"@MMK_R_C2" = -30;
+"@MMK_R_J2" = 25;
+"@MMK_R_V2" = -50;
+"@MMK_R_c" = 30;
+"@MMK_R_s2" = 30;
+"@MMK_R_t2" = 15;
+"@MMK_R_v2" = 5;
+"@MMK_R_z2" = 25;
+X = -50;
+x = -10;
+};
+"@MMK_L_five" = {
+"@MMK_R_onethird" = 58;
+};
+"@MMK_L_four" = {
+"@MMK_R_T2" = -5;
+"@MMK_R_five2" = -15;
+"@MMK_R_onethird" = 60;
+};
+"@MMK_L_g" = {
+"@MMK_R_a2" = -15;
+"@MMK_R_bar" = 20;
+"@MMK_R_c" = -10;
+"@MMK_R_emdash2" = 5;
+"@MMK_R_hyphen2" = -30;
+"@MMK_R_j" = 50;
+"@MMK_R_quotedbl2" = 10;
+"@MMK_R_quoteright2" = 20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = 30;
+"@MMK_R_u" = -5;
+"@MMK_R_v2" = 20;
+"@MMK_R_z2" = 10;
+f = 20;
+quotesinglbase = -20;
+x = 10;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_A2" = -25;
+"@MMK_R_S2" = -15;
+"@MMK_R_T2" = -117;
+"@MMK_R_V2" = -63;
+"@MMK_R_Wgrave2" = -40;
+"@MMK_R_Y2" = -75;
+"@MMK_R_Z2" = -30;
+"@MMK_R_c" = 20;
+"@MMK_R_g2" = -10;
+"@MMK_R_one2" = -63;
+"@MMK_R_s2" = 10;
+"@MMK_R_seven2" = -112;
+"@MMK_R_t2" = -15;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+X = -78;
+x = -40;
+};
+"@MMK_L_k" = {
+"@MMK_R_V2" = -30;
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -30;
+"@MMK_R_g2" = -20;
+"@MMK_R_hyphen2" = -50;
+"@MMK_R_quotedbl2" = -30;
+"@MMK_R_s2" = -25;
+"@MMK_R_t2" = 15;
+"@MMK_R_u" = -5;
+"@MMK_R_v2" = 20;
+f = 15;
+guillemotright = 20;
+};
+"@MMK_L_ohorn" = {
+"@MMK_R_J2" = -78;
+"@MMK_R_a2" = -35;
+"@MMK_R_c" = -40;
+"@MMK_R_comma2" = -107;
+"@MMK_R_g2" = -45;
+"@MMK_R_s2" = -35;
+"@MMK_R_t2" = 20;
+"@MMK_R_v2" = 30;
+"@MMK_R_z2" = -40;
+x = 20;
+};
+"@MMK_L_one" = {
+"@MMK_R_onethird" = 60;
+};
+"@MMK_L_quotedbl" = {
+"@MMK_R_a2" = -30;
+"@MMK_R_b2" = -20;
+"@MMK_R_c" = -50;
+"@MMK_R_g2" = -30;
+"@MMK_R_s2" = -50;
+"@MMK_R_u" = -10;
+"@MMK_R_v2" = 10;
+x = -10;
+};
+"@MMK_L_quoteleft" = {
+"@MMK_R_A2" = -112;
+"@MMK_R_J2" = -60;
+"@MMK_R_T2" = 25;
+"@MMK_R_V2" = 20;
+"@MMK_R_Wgrave2" = 20;
+"@MMK_R_a2" = -35;
+"@MMK_R_c" = -45;
+"@MMK_R_g2" = -40;
+"@MMK_R_s2" = -40;
+"@MMK_R_t2" = 30;
+"@MMK_R_v2" = 30;
+};
+"@MMK_L_quoteright" = {
+"@MMK_R_A2" = -127;
+"@MMK_R_a2" = -103;
+"@MMK_R_b2" = -25;
+"@MMK_R_c" = -78;
+"@MMK_R_comma2" = -132;
+"@MMK_R_s2" = -67;
+"@MMK_R_v2" = 10;
+};
+"@MMK_L_r" = {
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = -5;
+"@MMK_R_c" = 5;
+"@MMK_R_comma2" = -35;
+"@MMK_R_emdash2" = 35;
+"@MMK_R_hyphen2" = -5;
+"@MMK_R_question" = -20;
+"@MMK_R_quotedbl2" = 10;
+"@MMK_R_quoteright2" = 30;
+"@MMK_R_t2" = 5;
+"@MMK_R_v2" = 10;
+Schwa = 5;
+f = 25;
+quotesinglbase = -60;
+x = 10;
+};
+"@MMK_L_s" = {
+"@MMK_R_a2" = 5;
+"@MMK_R_bar" = -10;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = -5;
+"@MMK_R_hyphen2" = 60;
+"@MMK_R_question" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = 5;
+"@MMK_R_v2" = -5;
+"@MMK_R_z2" = -10;
+X = -30;
+guillemotright = 20;
+quotesinglbase = -10;
+x = -20;
+};
+"@MMK_L_seven" = {
+"@MMK_R_comma2" = -107;
+"@MMK_R_onethird" = 98;
+"@MMK_R_question" = 58;
+};
+"@MMK_L_six" = {
+"@MMK_R_four2" = -5;
+"@MMK_R_onethird" = 60;
+"@MMK_R_seven2" = -15;
+};
+"@MMK_L_t" = {
+"@MMK_R_V2" = -30;
+"@MMK_R_c" = -20;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_j" = 20;
+"@MMK_R_question" = 10;
+"@MMK_R_quotedbl2" = -5;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -20;
+"@MMK_R_u" = -5;
+"@MMK_R_z2" = -5;
+f = -20;
+x = 5;
+};
+"@MMK_L_two" = {
+"@MMK_R_onethird" = 60;
+"@MMK_R_two.numr" = 35;
+four.numr = 50;
+};
+"@MMK_L_uhorn" = {
+"@MMK_R_b2" = -20;
+"@MMK_R_c" = -63;
+"@MMK_R_comma2" = -137;
+"@MMK_R_g2" = -40;
+"@MMK_R_s2" = -50;
+"@MMK_R_t2" = 15;
+"@MMK_R_v2" = 15;
+};
+"@MMK_L_v" = {
+"@MMK_R_A2" = -73;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -67;
+"@MMK_R_a2" = -25;
+"@MMK_R_c" = -20;
+"@MMK_R_comma2" = -50;
+"@MMK_R_emdash2" = 5;
+"@MMK_R_g2" = -20;
+"@MMK_R_hyphen2" = -5;
+"@MMK_R_question" = -50;
+"@MMK_R_quotedbl2" = -10;
+"@MMK_R_s2" = -20;
+"@MMK_R_t2" = 35;
+"@MMK_R_v2" = 30;
+f = 25;
+guillemotright = 40;
+quotesinglbase = -60;
+};
+"@MMK_L_z" = {
+"@MMK_R_T2" = -40;
+"@MMK_R_Y2" = -50;
+"@MMK_R_a2" = 15;
+"@MMK_R_c" = -10;
+"@MMK_R_emdash2" = 45;
+"@MMK_R_hyphen2" = -45;
+"@MMK_R_quotedbl2" = -10;
+"@MMK_R_s2" = 15;
+"@MMK_R_t2" = 20;
+"@MMK_R_u" = -5;
+"@MMK_R_v2" = 15;
+"@MMK_R_z2" = 20;
+};
+B = {
+"@MMK_R_A2" = -15;
+"@MMK_R_AE" = -58;
+"@MMK_R_B" = 20;
+"@MMK_R_S2" = 10;
+"@MMK_R_T2" = -10;
+"@MMK_R_V2" = -25;
+"@MMK_R_Wgrave2" = -25;
+"@MMK_R_Y2" = -40;
+"@MMK_R_Z2" = -20;
+"@MMK_R_c" = 10;
+"@MMK_R_emdash2" = 25;
+"@MMK_R_g2" = -10;
+X = -30;
+ampersand = -10;
+quotesinglbase = -10;
+};
+Q = {
+comma = -10;
+ellipsis = -10;
+period = -10;
+periodcentered = -10;
+underscore = -10;
+};
+T = {
+ampersand = -20;
+};
+Tbar = {
+ampersand = -20;
+};
+Tcaron = {
+ampersand = -20;
+};
+Tcedilla = {
+ampersand = -20;
+};
+Tcommaaccent = {
+ampersand = -20;
+};
+Tdotbelow = {
+ampersand = -20;
+};
+V = {
+ae = -60;
+ampersand = -65;
+};
+W = {
+ae = -60;
+ampersand = -65;
+};
+X = {
+"@MMK_R_A2" = 20;
+"@MMK_R_C2" = -53;
+"@MMK_R_J2" = 30;
+"@MMK_R_Oslash2" = 20;
+"@MMK_R_S2" = -15;
+"@MMK_R_T2" = 10;
+"@MMK_R_U" = -15;
+"@MMK_R_V2" = -5;
+"@MMK_R_Wgrave2" = 10;
+"@MMK_R_Y2" = -15;
+"@MMK_R_Z2" = 20;
+"@MMK_R_a2" = -10;
+"@MMK_R_b2" = -5;
+"@MMK_R_bar" = 30;
+"@MMK_R_c" = -35;
+"@MMK_R_hyphen2" = -58;
+"@MMK_R_s2" = -30;
+"@MMK_R_t2" = -53;
+"@MMK_R_u" = -40;
+"@MMK_R_v2" = -73;
+X = 30;
+x = 20;
+};
+Y = {
+space = -35;
+};
+Yacute = {
+space = -35;
+};
+Ycircumflex = {
+space = -35;
+};
+Ydieresis = {
+space = -35;
+};
+Ydotbelow = {
+space = -35;
+};
+Ygrave = {
+space = -35;
+};
+Yhoi = {
+space = -35;
+};
+Ytilde = {
+space = -35;
+};
+ae = {
+v = -20;
+};
+aeacute = {
+v = -20;
+};
+ampersand = {
+T = -65;
+Tbar = -65;
+Tcaron = -65;
+Tcedilla = -65;
+Tcommaaccent = -65;
+Tdotbelow = -65;
+V = -75;
+W = -75;
+};
+at = {
+v = -20;
+};
+b = {
+v = -20;
+};
+c = {
+v = -20;
+};
+cacute = {
+v = -20;
+};
+ccaron = {
+v = -20;
+};
+ccedilla = {
+v = -20;
+};
+ccircumflex = {
+v = -20;
+};
+cdotaccent = {
+v = -20;
+};
+dcroat = {
+at = -50;
+c = -50;
+cacute = -50;
+ccaron = -50;
+ccedilla = -50;
+ccircumflex = -50;
+cdotaccent = -50;
+d = -50;
+dcaron = -50;
+dcroat = -50;
+ddotbelow = -50;
+e = -50;
+eacute = -50;
+ebreve = -50;
+ecaron = -50;
+ecircumflex = -50;
+ecircumflexacute = -50;
+ecircumflexdotbelow = -50;
+ecircumflexgrave = -50;
+ecircumflexhoi = -50;
+ecircumflextilde = -50;
+edblgrave = -50;
+edieresis = -50;
+edotaccent = -50;
+edotbelow = -50;
+egrave = -50;
+ehoi = -50;
+einvertedbreve = -50;
+emacron = -50;
+eogonek = -50;
+eth = -50;
+etilde = -50;
+g.ss01 = -50;
+o = -50;
+oacute = -50;
+obreve = -50;
+ocircumflex = -50;
+ocircumflexacute = -50;
+ocircumflexdotbelow = -50;
+ocircumflexgrave = -50;
+ocircumflexhoi = -50;
+ocircumflextilde = -50;
+odblgrave = -50;
+odieresis = -50;
+odotbelow = -50;
+oe = -50;
+ograve = -50;
+ohoi = -50;
+ohorn = -50;
+ohornacute = -50;
+ohorndotbelow = -50;
+ohorngrave = -50;
+ohornhoi = -50;
+ohorntilde = -50;
+ohungarumlaut = -50;
+oinvertedbreve = -50;
+omacron = -50;
+oogonek = -50;
+oslash = -50;
+oslashacute = -50;
+otilde = -50;
+q = -50;
+schwa = -50;
+};
+e = {
+v = -20;
+};
+eacute = {
+v = -20;
+};
+ebreve = {
+v = -20;
+};
+ecaron = {
+v = -20;
+};
+ecircumflex = {
+v = -20;
+};
+ecircumflexacute = {
+v = -20;
+};
+ecircumflexdotbelow = {
+v = -20;
+};
+ecircumflexgrave = {
+v = -20;
+};
+ecircumflexhoi = {
+v = -20;
+};
+ecircumflextilde = {
+v = -20;
+};
+edblgrave = {
+v = -20;
+};
+edieresis = {
+v = -20;
+};
+edotaccent = {
+v = -20;
+};
+edotbelow = {
+v = -20;
+};
+egrave = {
+v = -20;
+};
+ehoi = {
+v = -20;
+};
+eight = {
+onehalf = 60;
+};
+eight.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+einvertedbreve = {
+v = -20;
+};
+emacron = {
+v = -20;
+};
+eogonek = {
+v = -20;
+};
+eth = {
+v = -20;
+};
+etilde = {
+v = -20;
+};
+f = {
+"@MMK_R_V2" = 40;
+"@MMK_R_a2" = 20;
+"@MMK_R_bar" = -10;
+"@MMK_R_g2" = 5;
+"@MMK_R_quoteright2" = 20;
+"@MMK_R_t2" = 5;
+"@MMK_R_v2" = 20;
+f = 5;
+x = 20;
+};
+five = {
+onehalf = 58;
+};
+five.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+five.osf = {
+onehalf = 58;
+};
+fiveeighths = {
+fraction = 25;
+};
+fl = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+f = -20;
+};
+four = {
+onehalf = 50;
+};
+four.dnom = {
+five.dnom = -5;
+};
+four.numr = {
+"@MMK_R_two.numr" = -5;
+fraction = 25;
+};
+four.osf = {
+onehalf = 50;
+};
+fraction = {
+eight.dnom = -20;
+four.dnom = -98;
+one.dnom = 15;
+seven.dnom = 50;
+six.dnom = -20;
+three.dnom = -20;
+two.dnom = -20;
+zero.dnom = -20;
+};
+germandbls = {
+space = -10;
+};
+guillemotleft = {
+"@MMK_R_V2" = -40;
+"@MMK_R_Y2" = -50;
+"@MMK_R_g2" = -10;
+"@MMK_R_s2" = 20;
+"@MMK_R_t2" = 40;
+"@MMK_R_v2" = 30;
+"@MMK_R_z2" = 20;
+x = 20;
+};
+lacute = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+f = -20;
+};
+lcaron = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+f = -20;
+};
+lcommaaccent = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+f = -20;
+};
+ldot = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+f = -20;
+};
+lslash = {
+"@MMK_R_J2" = 10;
+"@MMK_R_T2" = -35;
+"@MMK_R_V2" = -25;
+"@MMK_R_Y2" = -35;
+"@MMK_R_a2" = -5;
+"@MMK_R_bar" = 15;
+"@MMK_R_c" = -35;
+"@MMK_R_comma2" = 15;
+"@MMK_R_emdash2" = 53;
+"@MMK_R_g2" = 5;
+"@MMK_R_hyphen2" = -15;
+"@MMK_R_quotedbl2" = -20;
+"@MMK_R_s2" = -5;
+"@MMK_R_t2" = -35;
+"@MMK_R_v2" = -30;
+"@MMK_R_z2" = 10;
+a = -5;
+aacute = -5;
+abreve = -5;
+abreveacute = -5;
+abrevedotbelow = -5;
+abrevegrave = -5;
+abrevehoi = -5;
+abrevetilde = -5;
+acircumflex = -5;
+acircumflexacute = -5;
+acircumflexdotbelow = -5;
+acircumflexgrave = -5;
+acircumflexhoi = -5;
+acircumflextilde = -5;
+adblgrave = -5;
+adieresis = -5;
+adotbelow = -5;
+ae = -5;
+aeacute = -5;
+agrave = -5;
+ahoi = -5;
+ainvertedbreve = -5;
+amacron = -5;
+aogonek = -5;
+aring = -5;
+aringacute = -5;
+atilde = -5;
+f = -20;
+};
+nine = {
+onehalf = 60;
+};
+nine.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+nine.osf = {
+"@MMK_R_seven2" = -15;
+nine.osf = 20;
+};
+o = {
+v = -20;
+};
+oacute = {
+v = -20;
+};
+obreve = {
+v = -20;
+};
+ocircumflex = {
+v = -20;
+};
+ocircumflexacute = {
+v = -20;
+};
+ocircumflexdotbelow = {
+v = -20;
+};
+ocircumflexgrave = {
+v = -20;
+};
+ocircumflexhoi = {
+v = -20;
+};
+ocircumflextilde = {
+v = -20;
+};
+odblgrave = {
+v = -20;
+};
+odieresis = {
+v = -20;
+};
+odotbelow = {
+v = -20;
+};
+oe = {
+v = -20;
+};
+ograve = {
+v = -20;
+};
+ohoi = {
+v = -20;
+};
+ohorn = {
+z = 5;
+zacute = 5;
+zcaron = 5;
+zdotaccent = 5;
+zdotbelow = 5;
+};
+ohungarumlaut = {
+v = -20;
+};
+oinvertedbreve = {
+v = -20;
+};
+omacron = {
+v = -20;
+};
+one = {
+onehalf = 60;
+};
+one.numr = {
+fraction = 25;
+};
+one.osf = {
+onehalf = 60;
+};
+oneeighth = {
+fraction = 25;
+};
+onequarter = {
+fraction = 25;
+};
+onethird = {
+fraction = 25;
+};
+oogonek = {
+v = -20;
+};
+oslash = {
+v = -20;
+w = -5;
+wacute = -5;
+wcircumflex = -5;
+wdieresis = -5;
+wgrave = -5;
+y = -5;
+yacute = -5;
+ycircumflex = -5;
+ydieresis = -5;
+ydotbelow = -5;
+ygrave = -5;
+yhoi = -5;
+ytilde = -5;
+};
+oslashacute = {
+v = -20;
+};
+otilde = {
+v = -20;
+};
+p = {
+v = -20;
+};
+quotesinglbase = {
+"@MMK_R_T2" = -107;
+"@MMK_R_U" = -20;
+"@MMK_R_V2" = -78;
+"@MMK_R_Wgrave2" = -60;
+"@MMK_R_Y2" = -117;
+"@MMK_R_g2" = 10;
+"@MMK_R_question" = -60;
+"@MMK_R_v2" = -60;
+"@MMK_R_z2" = 10;
+};
+s = {
+space = -10;
+};
+sacute = {
+space = -10;
+};
+scaron = {
+space = -10;
+};
+scedilla = {
+space = -10;
+};
+schwa = {
+v = -20;
+};
+scircumflex = {
+space = -10;
+};
+scommaaccent = {
+space = -10;
+};
+sdotbelow = {
+space = -10;
+};
+seven = {
+onehalf = 83;
+};
+seven.dnom = {
+eight.dnom = -15;
+six.dnom = -15;
+three.dnom = -15;
+two.dnom = -15;
+zero.dnom = -15;
+};
+seven.numr = {
+eight.numr = -10;
+five.numr = -10;
+fraction = -45;
+nine.numr = -10;
+six.numr = -10;
+three.numr = -10;
+two.numr = -10;
+zero.numr = -10;
+};
+seven.osf = {
+onehalf = 83;
+};
+seveneighths = {
+fraction = 25;
+};
+six = {
+onehalf = 60;
+};
+six.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+space = {
+V = -10;
+W = -10;
+};
+t = {
+fi = -20;
+fl = -20;
+t = -20;
+tbar = -20;
+tcaron = -20;
+tcedilla = -20;
+tcommaaccent = -20;
+tdotbelow = -20;
+};
+thorn = {
+v = -20;
+};
+three = {
+onehalf = 60;
+};
+three.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+threeeighths = {
+fraction = 25;
+};
+threequarters = {
+fraction = 25;
+};
+two = {
+onehalf = 60;
+};
+two.numr = {
+fraction = 50;
+};
+two.osf = {
+onehalf = 60;
+};
+twothirds = {
+fraction = 25;
+};
+v = {
+space = -10;
+};
+w = {
+space = -10;
+};
+wacute = {
+space = -10;
+};
+wcircumflex = {
+space = -10;
+};
+wdieresis = {
+space = -10;
+};
+wgrave = {
+space = -10;
+};
+x = {
+"@MMK_R_S2" = -10;
+"@MMK_R_V2" = -20;
+"@MMK_R_a2" = -20;
+"@MMK_R_c" = -35;
+"@MMK_R_hyphen2" = -40;
+"@MMK_R_s2" = -20;
+"@MMK_R_u" = -15;
+"@MMK_R_v2" = 10;
+f = 10;
+quotesinglbase = -10;
+x = 15;
+};
+y = {
+space = -10;
+};
+yacute = {
+space = -10;
+};
+ycircumflex = {
+space = -10;
+};
+ydieresis = {
+space = -10;
+};
+ydotbelow = {
+space = -10;
+};
+ygrave = {
+space = -10;
+};
+yhoi = {
+space = -10;
+};
+ytilde = {
+space = -10;
+};
+zero = {
+onehalf = 60;
+};
+zero.numr = {
+fraction = -20;
+seven.numr = -5;
+};
+zero.osf = {
+onehalf = 60;
+};
+};
 };
 metrics = (
 {
@@ -6475,7 +6471,7 @@ value = "The Cheyenne Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"A1D8A8A0-7317-4958-838D-B74999429465" = {
+"1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3" = {
 HV = 74;
 HH = 84;
 OV = 83;
@@ -6485,7 +6481,7 @@ oH = 75;
 nV = 68;
 tH = 70;
 };
-"063EDB9A-26EE-473F-A1FA-D59C439A67CE" = {
+"2C111888-158E-4586-831E-29429C16F99E" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6495,7 +6491,7 @@ oH = 288;
 nV = 395;
 tH = 273;
 };
-"4A771BA9-DE6D-4DFF-875A-35CEAA78AE27" = {
+"49A8D228-E827-44F0-AB9F-01876E91E3EE" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6508,5 +6504,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 6;
+versionMinor = 7;
 }

@@ -2,7 +2,7 @@
 glyphname = Zhecyr.bgr;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -57,7 +57,7 @@ nodes = (
 width = 1087;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -83,8 +83,8 @@ nodes = (
 (475,410,l),
 (475,339,l),
 (635,339,l),
-(939,728,l),
-(829,728,l),
+(929,728,l),
+(819,728,l),
 (592,410,l)
 );
 },
@@ -102,8 +102,8 @@ closed = 1;
 nodes = (
 (475,410,l),
 (356,410,l),
-(119,728,l),
-(5,728,l),
+(128,728,l),
+(14,728,l),
 (309,339,l),
 (475,339,l)
 );
@@ -112,7 +112,7 @@ nodes = (
 width = 952;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

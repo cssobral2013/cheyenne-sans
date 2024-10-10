@@ -2,7 +2,30 @@
 glyphname = cent.tf;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+anchors = (
+{
+name = bottom;
+position = "{366, 111}";
+},
+{
+name = top;
+position = "{367, 641}";
+}
+);
+guides = (
+{
+angle = 359.442;
+position = "{-523, 296}";
+},
+{
+position = "{0, 247}";
+},
+{
+angle = 3.769;
+position = "{524, 451}";
+}
+);
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -57,7 +80,30 @@ nodes = (
 width = 700;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+anchors = (
+{
+name = bottom;
+position = "{367, 111}";
+},
+{
+name = top;
+position = "{366, 641}";
+}
+);
+guides = (
+{
+angle = 359.442;
+position = "{-523, 296}";
+},
+{
+position = "{0, 247}";
+},
+{
+angle = 3.769;
+position = "{524, 451}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -84,15 +130,15 @@ nodes = (
 (125,537,o),
 (125,374,cs),
 (125,212,o),
-(220,101,o),
+(221,101,o),
 (366,101,cs),
 (471,101,o),
 (540,161,o),
 (575,246,c),
-(502,268,l),
+(503,268,l),
 (470,208,o),
 (436,170,o),
-(370,170,cs),
+(371,170,cs),
 (272,170,o),
 (211,250,o),
 (211,376,cs),
@@ -112,7 +158,17 @@ nodes = (
 width = 700;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+anchors = (
+{
+name = bottom;
+position = "{367, 111}";
+},
+{
+name = top;
+position = "{365, 641}";
+}
+);
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

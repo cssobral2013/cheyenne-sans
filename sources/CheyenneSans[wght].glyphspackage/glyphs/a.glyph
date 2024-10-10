@@ -18,7 +18,7 @@ angle = 90;
 position = "{338, 0}";
 }
 );
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -82,7 +82,13 @@ name = top;
 position = "{283, 530}";
 }
 );
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+guides = (
+{
+angle = 90;
+position = "{338, 0}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -107,8 +113,8 @@ nodes = (
 (402,432,o),
 (402,363,cs),
 (402,325,l),
-(305,318,ls),
-(123,305,o),
+(305,318,l),
+(123,308,o),
 (48,260,o),
 (48,143,cs),
 (48,46,o),
@@ -153,7 +159,7 @@ place = (4145,208);
 type = Stem;
 }
 );
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

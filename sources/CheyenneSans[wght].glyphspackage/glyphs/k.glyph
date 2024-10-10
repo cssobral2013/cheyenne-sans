@@ -3,7 +3,23 @@ glyphname = k;
 leftMetricsKey = h;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+anchors = (
+{
+name = bottom;
+position = "{310, 0}";
+}
+);
+guides = (
+{
+angle = 228.491;
+position = "{250, 150}";
+},
+{
+angle = 122.;
+position = "{411, 0}";
+}
+);
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -26,7 +42,23 @@ nodes = (
 width = 615;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+anchors = (
+{
+name = bottom;
+position = "{294, 0}";
+}
+);
+guides = (
+{
+angle = 228.491;
+position = "{250, 150}";
+},
+{
+angle = 122.;
+position = "{411, 0}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -49,7 +81,19 @@ nodes = (
 width = 581;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+anchors = (
+{
+name = bottom;
+position = "{287, 0}";
+}
+);
+guides = (
+{
+angle = 121.87;
+position = "{380, 152}";
+}
+);
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

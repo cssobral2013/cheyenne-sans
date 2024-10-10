@@ -4,7 +4,27 @@ leftMetricsKey = a;
 rightMetricsKey = e;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+anchors = (
+{
+name = top;
+position = "{453, 530}";
+},
+{
+name = ogonek;
+position = "{-100, 10}";
+},
+{
+name = bottom;
+position = "{288, 0}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{-267, 0}";
+}
+);
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -92,7 +112,23 @@ nodes = (
 width = 868;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+anchors = (
+{
+name = top;
+position = "{461, 530}";
+},
+{
+name = ogonek;
+position = "{287, 13}";
+}
+);
+guides = (
+{
+angle = 90;
+position = "{-267, 0}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -102,9 +138,9 @@ nodes = (
 (317,263,cs),
 (385,267,l),
 (385,229,o),
-(389,193,o),
+(388,193,o),
 (400,157,c),
-(387,103,o),
+(387,102,o),
 (324,60,o),
 (248,56,cs),
 (179,53,o),
@@ -134,7 +170,7 @@ nodes = (
 (625,540,cs),
 (551,540,o),
 (493,512,o),
-(455,460,c),
+(456,460,c),
 (428,513,o),
 (373,540,o),
 (285,540,c),
@@ -146,7 +182,7 @@ nodes = (
 (223,477,o),
 (278,477,cs),
 (354,477,o),
-(396,439,o),
+(397,439,o),
 (402,377,c),
 (397,361,o),
 (393,343,o),
@@ -180,7 +216,24 @@ nodes = (
 width = 901;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+anchors = (
+{
+name = top;
+position = "{465, 530}";
+},
+{
+name = ogonek;
+position = "{463, 14}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (4145,208);
+type = Stem;
+}
+);
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;

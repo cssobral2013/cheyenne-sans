@@ -8,7 +8,7 @@ name = _top;
 position = "{195, 530}";
 }
 );
-layerId = "4A771BA9-DE6D-4DFF-875A-35CEAA78AE27";
+layerId = "49A8D228-E827-44F0-AB9F-01876E91E3EE";
 shapes = (
 {
 closed = 1;
@@ -29,15 +29,15 @@ name = _top;
 position = "{186, 530}";
 }
 );
-layerId = "063EDB9A-26EE-473F-A1FA-D59C439A67CE";
+layerId = "2C111888-158E-4586-831E-29429C16F99E";
 shapes = (
 {
 closed = 1;
 nodes = (
-(76.319,684,l),
-(313.862,606,l),
-(336.072,649,l),
-(106.253,753,l)
+(55.075,684,l),
+(292.619,606,l),
+(314.828,649,l),
+(85.975,753,l)
 );
 }
 );
@@ -50,7 +50,7 @@ name = _top;
 position = "{182, 530}";
 }
 );
-layerId = "A1D8A8A0-7317-4958-838D-B74999429465";
+layerId = "1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3";
 shapes = (
 {
 closed = 1;

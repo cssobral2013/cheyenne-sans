@@ -3,7 +3,17 @@ glyphname = idotless;
 leftMetricsKey = i;
 layers = (
 {
-layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
+anchors = (
+{
+name = ogonek;
+position = "{222, 9}";
+},
+{
+name = top;
+position = "{154, 530}";
+}
+);
+layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
 shapes = (
 {
 closed = 1;
@@ -18,7 +28,17 @@ nodes = (
 width = 305;
 },
 {
-layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
+anchors = (
+{
+name = ogonek;
+position = "{164, 12}";
+},
+{
+name = top;
+position = "{134, 530}";
+}
+);
+layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
 shapes = (
 {
 closed = 1;
@@ -33,7 +53,17 @@ nodes = (
 width = 267;
 },
 {
-layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
+anchors = (
+{
+name = ogonek;
+position = "{137, 13}";
+},
+{
+name = top;
+position = "{125, 530}";
+}
+);
+layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
 shapes = (
 {
 closed = 1;
