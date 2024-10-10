@@ -4,27 +4,7 @@ leftMetricsKey = a;
 rightMetricsKey = e;
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{453, 530}";
-},
-{
-name = ogonek;
-position = "{-100, 10}";
-},
-{
-name = bottom;
-position = "{288, 0}";
-}
-);
-guides = (
-{
-angle = 90;
-position = "{-267, 0}";
-}
-);
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 closed = 1;
@@ -112,17 +92,7 @@ nodes = (
 width = 868;
 },
 {
-anchors = (
-{
-name = top;
-position = "{463, 530}";
-},
-{
-name = ogonek;
-position = "{476, 13}";
-}
-);
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 closed = 1;
@@ -210,24 +180,7 @@ nodes = (
 width = 901;
 },
 {
-anchors = (
-{
-name = top;
-position = "{465, 530}";
-},
-{
-name = ogonek;
-position = "{463, 14}";
-}
-);
-hints = (
-{
-horizontal = 1;
-place = (4145,208);
-type = Stem;
-}
-);
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 closed = 1;

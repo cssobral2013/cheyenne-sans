@@ -2,19 +2,7 @@
 glyphname = yen;
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{376, 742}";
-}
-);
-guides = (
-{
-angle = 58.823;
-position = "{496, 742}";
-}
-);
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 closed = 1;
@@ -52,23 +40,7 @@ nodes = (
 width = 700;
 },
 {
-anchors = (
-{
-name = top;
-position = "{313, 742}";
-}
-);
-guides = (
-{
-angle = 239.891;
-position = "{304, 319}";
-},
-{
-angle = 300.44;
-position = "{157, 503}";
-}
-);
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 closed = 1;
@@ -106,23 +78,7 @@ nodes = (
 width = 616;
 },
 {
-anchors = (
-{
-name = top;
-position = "{285, 742}";
-}
-);
-guides = (
-{
-angle = 239.891;
-position = "{310, 319}";
-},
-{
-angle = 300.44;
-position = "{163, 503}";
-}
-);
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 closed = 1;

@@ -2,33 +2,33 @@
 glyphname = threesuperior;
 layers = (
 {
-layerId = "53698F14-3379-49FD-849B-EB3564F78825";
+layerId = "4A771BA9-DE6D-4DFF-875A-35CEAA78AE27";
 shapes = (
 {
 alignment = -1;
-pos = (16,105);
+pos = (35,105);
 ref = three.numr;
 }
 );
 width = 409;
 },
 {
-layerId = "3A2F0B01-8BAD-43D2-BFC9-C9D3CCE0022F";
+layerId = "063EDB9A-26EE-473F-A1FA-D59C439A67CE";
 shapes = (
 {
 alignment = -1;
-pos = (15,105);
+pos = (33,105);
 ref = three.numr;
 }
 );
 width = 382;
 },
 {
-layerId = "4B62E599-A761-4CCD-BB2B-30B6A69879C7";
+layerId = "A1D8A8A0-7317-4958-838D-B74999429465";
 shapes = (
 {
 alignment = -1;
-pos = (15,105);
+pos = (10,105);
 ref = three.numr;
 }
 );

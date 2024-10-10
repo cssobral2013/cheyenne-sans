@@ -2,16 +2,17 @@
 glyphname = trademark;
 layers = (
 {
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 alignment = -1;
+pos = (0,278);
 ref = T;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (396,0);
+pos = (396,278);
 ref = M;
 scale = (0.625,0.625);
 }
@@ -22,23 +23,24 @@ width = 991;
 anchors = (
 {
 name = bottom;
-position = "{189, 0}";
+position = "{189, 278}";
 },
 {
 name = top;
-position = "{189, 464}";
+position = "{189, 742}";
 }
 );
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 alignment = -1;
+pos = (0,278);
 ref = T;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (364,0);
+pos = (364,278);
 ref = M;
 scale = (0.625,0.625);
 }
@@ -46,16 +48,17 @@ scale = (0.625,0.625);
 width = 928;
 },
 {
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 alignment = -1;
+pos = (0,278);
 ref = T;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (349,0);
+pos = (349,278);
 ref = M;
 scale = (0.625,0.625);
 }

@@ -2,17 +2,17 @@
 glyphname = servicemark;
 layers = (
 {
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 alignment = -1;
-pos = (-32,0);
+pos = (-32,278);
 ref = S;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (411,0);
+pos = (411,278);
 ref = M;
 scale = (0.625,0.625);
 }
@@ -23,24 +23,24 @@ width = 1006;
 anchors = (
 {
 name = bottom;
-position = "{195, 0}";
+position = "{195, 278}";
 },
 {
 name = top;
-position = "{198, 464}";
+position = "{198, 742}";
 }
 );
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 alignment = -1;
-pos = (-18,0);
+pos = (-18,278);
 ref = S;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (390,0);
+pos = (390,278);
 ref = M;
 scale = (0.625,0.625);
 }
@@ -48,16 +48,17 @@ scale = (0.625,0.625);
 width = 954;
 },
 {
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 alignment = -1;
+pos = (0,278);
 ref = S;
 scale = (0.625,0.625);
 },
 {
 alignment = -1;
-pos = (381,0);
+pos = (381,278);
 ref = M;
 scale = (0.625,0.625);
 }

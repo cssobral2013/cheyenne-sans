@@ -2,13 +2,7 @@
 glyphname = Yucyr;
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{549, 742}";
-}
-);
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 closed = 1;
@@ -89,13 +83,7 @@ nodes = (
 width = 1065;
 },
 {
-anchors = (
-{
-name = top;
-position = "{513, 742}";
-}
-);
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 closed = 1;
@@ -176,13 +164,7 @@ nodes = (
 width = 996;
 },
 {
-anchors = (
-{
-name = top;
-position = "{496, 742}";
-}
-);
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 closed = 1;

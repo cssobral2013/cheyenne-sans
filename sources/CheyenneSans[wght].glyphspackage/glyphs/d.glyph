@@ -2,21 +2,7 @@
 glyphname = d;
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{300, 0}";
-},
-{
-name = center;
-position = "{300, 265}";
-},
-{
-name = topright;
-position = "{586, 530}";
-}
-);
-layerId = "541726CC-B55E-4024-AE58-9FA67672B995";
+layerId = "61856A55-DD42-455C-BEC8-0EF672DC5930";
 shapes = (
 {
 closed = 1;
@@ -62,21 +48,7 @@ nodes = (
 width = 632;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{290, 0}";
-},
-{
-name = center;
-position = "{298, 265}";
-},
-{
-name = topright;
-position = "{603, 676}";
-}
-);
-layerId = "BFF227AC-0F9C-4729-8A63-D2E838353C2E";
+layerId = "B5EFF27E-8017-4405-A7E6-9BDB68532B1F";
 shapes = (
 {
 closed = 1;
@@ -122,21 +94,7 @@ nodes = (
 width = 602;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{285, 0}";
-},
-{
-name = center;
-position = "{297, 265}";
-},
-{
-name = topright;
-position = "{610, 742}";
-}
-);
-layerId = "164D1550-6290-4F7B-AA78-A8D35A0EEFE3";
+layerId = "A1249DEB-27FC-44FD-A117-2E188431B6BF";
 shapes = (
 {
 closed = 1;
