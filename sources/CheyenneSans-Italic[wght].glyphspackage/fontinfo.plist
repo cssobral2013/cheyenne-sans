@@ -1844,7 +1844,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3";
+id = "5E3EA0A1-240F-463B-ACAB-4136DB7510A5";
 metricValues = (
 {
 pos = 967;
@@ -1956,7 +1956,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "2C111888-158E-4586-831E-29429C16F99E";
+id = "84D84D83-1F61-4310-B099-D476523EDF4B";
 metricValues = (
 {
 pos = 967;
@@ -2067,7 +2067,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "49A8D228-E827-44F0-AB9F-01876E91E3EE";
+id = "F59E5572-F07E-4A84-84E1-CE36D2AD8363";
 metricValues = (
 {
 pos = 967;
@@ -2095,7 +2095,7 @@ axesValues = (
 100
 );
 interpolationWeight = 100;
-name = Thin;
+name = ThinItalic;
 weightClass = Thin;
 },
 {
@@ -2103,7 +2103,7 @@ axesValues = (
 200
 );
 interpolationWeight = 200;
-name = ExtraLight;
+name = ExtraLightItalic;
 weightClass = ExtraLight;
 },
 {
@@ -2111,7 +2111,7 @@ axesValues = (
 300
 );
 interpolationWeight = 300;
-name = Light;
+name = LightItalic;
 weightClass = Light;
 },
 {
@@ -2119,14 +2119,14 @@ axesValues = (
 400
 );
 interpolationWeight = 400;
-name = Regular;
+name = Italic;
 },
 {
 axesValues = (
 500
 );
 interpolationWeight = 500;
-name = Medium;
+name = MediumItalic;
 weightClass = Medium;
 },
 {
@@ -2134,7 +2134,7 @@ axesValues = (
 600
 );
 interpolationWeight = 600;
-name = SemiBold;
+name = SemiBoldItalic;
 weightClass = SemiBold;
 },
 {
@@ -2142,7 +2142,7 @@ axesValues = (
 700
 );
 interpolationWeight = 700;
-name = Bold;
+name = BoldItalic;
 weightClass = Bold;
 },
 {
@@ -2150,7 +2150,7 @@ axesValues = (
 800
 );
 interpolationWeight = 800;
-name = ExtraBold;
+name = ExtraBoldItalic;
 weightClass = ExtraBold;
 },
 {
@@ -2158,12 +2158,12 @@ axesValues = (
 900
 );
 interpolationWeight = 900;
-name = Black;
+name = BlackItalic;
 weightClass = Black;
 }
 );
 kerningLTR = {
-"1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3" = {
+"5E3EA0A1-240F-463B-ACAB-4136DB7510A5" = {
 "@MMK_L_A" = {
 "@MMK_R_C2" = -35;
 "@MMK_R_S2" = -15;
@@ -3746,7 +3746,7 @@ zero.osf = {
 onehalf = 58;
 };
 };
-"2C111888-158E-4586-831E-29429C16F99E" = {
+"84D84D83-1F61-4310-B099-D476523EDF4B" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 8;
 "@MMK_R_C2" = -35;
@@ -4963,7 +4963,7 @@ fraction = -13;
 seven.numr = -2;
 };
 };
-"49A8D228-E827-44F0-AB9F-01876E91E3EE" = {
+"F59E5572-F07E-4A84-84E1-CE36D2AD8363" = {
 "@MMK_L_A" = {
 "@MMK_R_A2" = 25;
 "@MMK_R_C2" = -35;
@@ -6471,7 +6471,7 @@ value = "The Cheyenne Sans Project Authors";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"1D6C4D12-DF74-4368-BFD3-C72FEEEBBCF3" = {
+"5E3EA0A1-240F-463B-ACAB-4136DB7510A5" = {
 HV = 74;
 HH = 84;
 OV = 83;
@@ -6481,7 +6481,7 @@ oH = 75;
 nV = 68;
 tH = 70;
 };
-"2C111888-158E-4586-831E-29429C16F99E" = {
+"84D84D83-1F61-4310-B099-D476523EDF4B" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6491,7 +6491,7 @@ oH = 288;
 nV = 395;
 tH = 273;
 };
-"49A8D228-E827-44F0-AB9F-01876E91E3EE" = {
+"F59E5572-F07E-4A84-84E1-CE36D2AD8363" = {
 HV = 398;
 HH = 326;
 OV = 431;
@@ -6504,5 +6504,5 @@ tH = 273;
 };
 };
 versionMajor = 2;
-versionMinor = 7;
+versionMinor = 8;
 }

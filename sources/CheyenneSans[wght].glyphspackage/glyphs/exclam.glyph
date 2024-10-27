@@ -2,7 +2,7 @@
 glyphname = exclam;
 layers = (
 {
-layerId = "7CAF50ED-060F-4F31-BFD2-5351A3DD6904";
+layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
 shapes = (
 {
 closed = 1;
@@ -26,28 +26,28 @@ nodes = (
 width = 287;
 },
 {
-layerId = "417161B7-C54B-4606-A496-C7D521FA9264";
+layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
 shapes = (
 {
 closed = 1;
 nodes = (
-(68,116,l),
-(68,0,l),
-(176,0,l),
-(176,116,l)
+(67,117,l),
+(67,0,l),
+(178,0,l),
+(178,117,l)
 );
 },
 {
 closed = 1;
 nodes = (
 (68,742,l),
-(93,185,l),
-(153,185,l),
-(177,742,l)
+(92,240,l),
+(154,240,l),
+(178,742,l)
 );
 }
 );
-width = 249;
+width = 250;
 },
 {
 guides = (
@@ -60,7 +60,7 @@ angle = 90;
 position = "{265, 0}";
 }
 );
-layerId = "BB520667-0E86-4816-BA22-8E0FD7D9258C";
+layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
 shapes = (
 {
 closed = 1;
@@ -75,8 +75,8 @@ nodes = (
 closed = 1;
 nodes = (
 (90,742,l),
-(100,148,l),
-(132,148,l),
+(99,228,l),
+(133,228,l),
 (143,742,l)
 );
 }
