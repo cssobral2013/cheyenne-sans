@@ -2,13 +2,32 @@
 glyphname = dblgravecomb;
 layers = (
 {
-anchors = (
+layerId = "928984C2-1B73-4557-87DC-F1198864086A";
+name = "#instance";
+shapes = (
 {
-name = _top;
-position = "{260, 530}";
+closed = 1;
+nodes = (
+(28,714,l),
+(167,584,l),
+(185,610,l),
+(59,752,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(168,714,l),
+(307,584,l),
+(325,610,l),
+(199,752,l)
+);
 }
 );
-layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
+width = 353;
+},
+{
+layerId = "1FF289A1-7816-4D98-A722-E4C3EA02C090";
 shapes = (
 {
 closed = 1;
@@ -32,13 +51,7 @@ nodes = (
 width = 478;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{236, 530}";
-}
-);
-layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
+layerId = "1A31D783-1353-438E-9102-6273E0F2D021";
 shapes = (
 {
 closed = 1;
@@ -62,13 +75,7 @@ nodes = (
 width = 392;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{225, 530}";
-}
-);
-layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
+layerId = "F2F2E431-308F-4DB2-AB1F-2D1D36D8590B";
 shapes = (
 {
 closed = 1;

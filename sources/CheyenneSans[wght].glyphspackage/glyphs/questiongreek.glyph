@@ -2,7 +2,35 @@
 glyphname = questiongreek;
 layers = (
 {
-layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
+layerId = "928984C2-1B73-4557-87DC-F1198864086A";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,-131,l),
+(142,9,l),
+(142,77,l),
+(81,77,l),
+(81,0,l),
+(109,0,l),
+(60,-131,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(137,410,l),
+(137,488,l),
+(76,488,l),
+(76,410,l)
+);
+}
+);
+width = 250;
+},
+{
+layerId = "1FF289A1-7816-4D98-A722-E4C3EA02C090";
 shapes = (
 {
 closed = 1;
@@ -29,7 +57,7 @@ nodes = (
 width = 355;
 },
 {
-layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
+layerId = "1A31D783-1353-438E-9102-6273E0F2D021";
 shapes = (
 {
 closed = 1;
@@ -56,7 +84,7 @@ nodes = (
 width = 283;
 },
 {
-layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
+layerId = "F2F2E431-308F-4DB2-AB1F-2D1D36D8590B";
 shapes = (
 {
 closed = 1;

@@ -2,13 +2,33 @@
 glyphname = brevecomb;
 layers = (
 {
-anchors = (
+layerId = "928984C2-1B73-4557-87DC-F1198864086A";
+name = "#instance";
+shapes = (
 {
-name = _top;
-position = "{211, 530}";
+closed = 1;
+nodes = (
+(221,742,l),
+(208,722,o),
+(185,691,o),
+(137,691,cs),
+(84,691,o),
+(67,727,o),
+(57,742,c),
+(9,742,l),
+(19,701,o),
+(59,650,o),
+(137,650,cs),
+(219,650,o),
+(261,707,o),
+(271,742,c)
+);
 }
 );
-layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
+width = 279;
+},
+{
+layerId = "1FF289A1-7816-4D98-A722-E4C3EA02C090";
 shapes = (
 {
 closed = 1;
@@ -33,13 +53,7 @@ nodes = (
 width = 433;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{162, 564}";
-}
-);
-layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
+layerId = "1A31D783-1353-438E-9102-6273E0F2D021";
 shapes = (
 {
 closed = 1;
@@ -64,13 +78,7 @@ nodes = (
 width = 327;
 },
 {
-anchors = (
-{
-name = _top;
-position = "{139, 580}";
-}
-);
-layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
+layerId = "F2F2E431-308F-4DB2-AB1F-2D1D36D8590B";
 shapes = (
 {
 closed = 1;

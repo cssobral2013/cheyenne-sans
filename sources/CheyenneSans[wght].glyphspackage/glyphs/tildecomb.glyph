@@ -2,17 +2,41 @@
 glyphname = tildecomb;
 layers = (
 {
-anchors = (
+layerId = "928984C2-1B73-4557-87DC-F1198864086A";
+name = "#instance";
+shapes = (
 {
-name = _t.uni0308;
-position = "{226, 530}";
-},
-{
-name = _top;
-position = "{226, 530}";
+closed = 1;
+nodes = (
+(280,647,l),
+(270,641,o),
+(238,624,o),
+(208,624,qs),
+(183,624,o),
+(148,636,o),
+(117,648,o),
+(97,648,qs),
+(73,648,o),
+(47,631,o),
+(35,624,q),
+(23,657,l),
+(38,669,o),
+(70,686,o),
+(93,686,qs),
+(115,686,o),
+(151,674,o),
+(188,661,o),
+(209,661,qs),
+(228,661,o),
+(252,672,o),
+(266,682,q)
+);
 }
 );
-layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
+width = 0;
+},
+{
+layerId = "1FF289A1-7816-4D98-A722-E4C3EA02C090";
 shapes = (
 {
 closed = 1;
@@ -45,17 +69,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _t.uni0308;
-position = "{174, 531}";
-},
-{
-name = _top;
-position = "{174, 531}";
-}
-);
-layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
+layerId = "1A31D783-1353-438E-9102-6273E0F2D021";
 shapes = (
 {
 closed = 1;
@@ -88,17 +102,7 @@ nodes = (
 width = 0;
 },
 {
-anchors = (
-{
-name = _t.uni0308;
-position = "{151, 532}";
-},
-{
-name = _top;
-position = "{151, 532}";
-}
-);
-layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
+layerId = "F2F2E431-308F-4DB2-AB1F-2D1D36D8590B";
 shapes = (
 {
 closed = 1;

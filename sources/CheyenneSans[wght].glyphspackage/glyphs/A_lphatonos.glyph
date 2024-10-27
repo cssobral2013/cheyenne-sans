@@ -2,7 +2,44 @@
 glyphname = Alphatonos;
 layers = (
 {
-layerId = "A65FE413-29D9-46E5-A387-E1AB7C70B62D";
+layerId = "928984C2-1B73-4557-87DC-F1198864086A";
+name = "#instance";
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,0,l),
+(185,228,l),
+(517,228,l),
+(600,0,l),
+(643,0,l),
+(379,723,l),
+(323,723,l),
+(59,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(351,683,l),
+(501,271,l),
+(200,271,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(90,523,l),
+(156,711,l),
+(110,717,l),
+(66,529,l)
+);
+}
+);
+width = 641;
+},
+{
+layerId = "1FF289A1-7816-4D98-A722-E4C3EA02C090";
 shapes = (
 {
 closed = 1;
@@ -38,7 +75,7 @@ nodes = (
 width = 858;
 },
 {
-layerId = "C4985383-63E0-41BB-AC3B-F5ACE03C20C4";
+layerId = "1A31D783-1353-438E-9102-6273E0F2D021";
 shapes = (
 {
 closed = 1;
@@ -74,7 +111,7 @@ nodes = (
 width = 709;
 },
 {
-layerId = "B9EEBB05-BFBA-4713-BE27-109C9E9DDF0F";
+layerId = "F2F2E431-308F-4DB2-AB1F-2D1D36D8590B";
 shapes = (
 {
 closed = 1;
